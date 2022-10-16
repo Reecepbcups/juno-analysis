@@ -1,0 +1,10 @@
+# too large
+final.json
+.env
+
+# made from data/
+json/
+all_data.json
+msgs/
+data/
+commands.sh
