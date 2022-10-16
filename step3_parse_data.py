@@ -79,7 +79,7 @@ for msg_type in ALL_MSGS.keys():
 # for each ALL_MSGS key, sum all len of the values
 # then sort by the sum of the values & print the % total
 total = sum([len(v) for v in ALL_MSGS.values()])
-output = [f'Total msgs: {total}', f'Lowest height: {min_height} & Highest height: {max_height}. Spread: {max_height-min_height}\n']
+output = [f'Total msgs: {total:,}', f'Lowest height: {min_height} & Highest height: {max_height}. Spread: {max_height-min_height}\n']
 
 sorted = {k: len(v) for k, v in sorted(ALL_MSGS.items(), key=lambda item: len(item[1]), reverse=True)}
 for msg_type, msgs in sorted.items():      

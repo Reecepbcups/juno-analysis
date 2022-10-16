@@ -1,4 +1,4 @@
-Total msgs: 2857378
+Total msgs: 2,857,378
 Lowest height: 4800001 & Highest height: 5250000. Spread: 449999
 
 /cosmwasm.wasm.v1.MsgExecuteContract                                        1267429    (44.36%)

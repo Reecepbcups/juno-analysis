@@ -20,10 +20,10 @@ SHOW_SPECIFIC_MSGS = [
     # "cosmos.distribution.v1beta1.MsgWithdrawValidatorCommission",
     "cosmos.staking.v1beta1.MsgUndelegate",
     "cosmos.authz.v1beta1.MsgRevoke",
-    "ibc.core.channel.v1.MsgRecvPacket",
+    # "ibc.core.channel.v1.MsgRecvPacket",
     # "cosmwasm.wasm.v1.MsgInstantiateContract",
     "cosmos.staking.v1beta1.MsgBeginRedelegate",
-    "cosmwasm.wasm.v1.MsgExecuteContract"
+    # "cosmwasm.wasm.v1.MsgExecuteContract"
 ]
 # v = [v.replace(".json", "") for v in total_messages.keys()] # <- generate above with this
 # input(json.dumps(v, indent=4))
@@ -66,13 +66,17 @@ for file in os.listdir(f"{current_dir}/msgs"):
     for msg in msg_list:        
         height = msg["height"]   
         set_height(height)
-        values_at_heights[height] = values_at_heights.get(height, 0) + 1
+
+        if height not in values_at_heights:
+            values_at_heights[height] = 0
+        values_at_heights[height] += 1
+        
     total_messages[file] = values_at_heights
 
 with open(total_msgs_file, "w") as f:
     json.dump(total_messages, f)
 
-exit()
+# exit()
 
 final_output = {}
 range_jumps = 5_000
@@ -113,4 +117,4 @@ for msg_type, heights_data in total_messages.items():
     
 fig = plt.gcf()
 fig.set_size_inches(18.5, 10.5)
-fig.savefig('test-juno_txs_over_time.png', dpi=100)
+fig.savefig('graphs/specific-juno_txs_over_time.png', dpi=100)
