@@ -67,7 +67,7 @@ def main():
 import multiprocessing as mp
 p = mp.Pool(mp.cpu_count())
 
-IGNORED_MESSAGES = {
+IGNORED_MESSAGES = {    
     "ibc.core.channel.v1.MsgChannelOpenAck": None,
     "ibc.core.channel.v1.MsgChannelOpenInit": None,
     "ibc.core.client.v1.MsgCreateClient": None,
@@ -102,8 +102,8 @@ def get_block_data(height):
         try:
             tx_json = json.loads(run_cmd(f"junod tx decode {tx} --output json"))            
             messages = tx_json['body']["messages"]            
-            for msg in messages:        
-                if msg["@type"] in IGNORED_MESSAGES: # skip these
+            for msg in messages:                                 
+                if msg["@type"][1:] in IGNORED_MESSAGES.keys(): # skip these
                     continue
                 human_txs.append(msg)          
         except:
