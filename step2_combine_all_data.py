@@ -12,9 +12,13 @@ current_dir = os.path.dirname(os.path.realpath(__file__))
 
 data = {}
 
+print('Loading all data files into 1 massive file... This may take a minute')
+
 for file in os.listdir(os.path.join(current_dir, "data")):
     with open(os.path.join(current_dir, "data", file), "r") as f:
         data.update(json.load(f))
 
 with open(os.path.join(current_dir, "all_data.json"), "w") as f:
     json.dump(data, f)
+
+print("Done!")

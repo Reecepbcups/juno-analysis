@@ -34,6 +34,10 @@ def set_height(height):
 
 
 all_data = os.path.join(current_dir, 'all_data.json')
+if not os.path.exists(all_data):
+    print("all_data.json not found. Please run step2 first to combine all into 1 :)")
+    exit(1)
+
 with open(all_data, 'rb') as f:
     print('Parsing all_data.json...')
     parser = ijson.kvitems(f, "")
