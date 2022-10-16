@@ -1,0 +1,38 @@
++------------------------------------------------------------------------------------------------------------------------------------+
+|                                                      MOST USED JUNO CONTRACTS                                                      |
++------+-----------------------------------------------------------------+----------------------------+------------+-----------------+
+| Rank |                             Contract                            |            Name            | # of Execs | % of Juno Total |
++------+-----------------------------------------------------------------+----------------------------+------------+-----------------+
+|  #1  | juno1y9rf7ql6ffwkv02hsgd4yruz23pn4w97p75e2slsnkm0mnamhzysvqnxaq |           BLOCK            |   125491   |      9.90%      |
+|  #2  | juno1wgkhhyf5zg2pxfxfzmq7rtx7jx5r294m2kudq3vqktfua5jay6xs04375w |                            |   52759    |      4.16%      |
+|  #3  | juno15u3dt79t6sxxa3x3kpkhzsy56edaa5a66wvt3kxmukqjz2sx0hes5sn38g |     RAW DAO Gov token      |   51448    |      4.06%      |
+|  #4  | juno124d0zymrkdxv72ccyuqrquur8dkesmxmx2unfn7dej95yqx5yn8s70x3yj |       JUNO/RAW Pool        |   43250    |      3.41%      |
+|  #5  | juno1g0gp2wk39crkw0e776cql66hda7dl33n7wlqe3e3shu3p4f9k7jqq732vv |    UniverseDAO Staking     |   39121    |      3.09%      |
+|  #6  | juno102ez6q5vqgh0a56rttvl5hwx2adp7hn2lxnhygm93exkkac6hrkstlh5mw |           label            |   37992    |      3.00%      |
+|  #7  | juno1mkw83sv6c7sjdvsaplrzc8yaes9l42p4mhy0ssuxjnyzl87c9eps7ce3m9 |       WYND Gov Token       |   37169    |      2.93%      |
+|  #8  | juno125rv72jrlxr5qslt8n6vrefm4es4kq0vmm4ffnvc8rvf46tp0j7qw7thfl |    JUNO-RAW-RAW-REWARDS    |   35849    |      2.83%      |
+|  #9  | juno1clh29453aa9tndsjty7ejvc8m838nh3dn2t34k6wkl5pjnh5lxsqvs5qr5 |   JUNO-RAW-JUNO-REWARDS    |   35833    |      2.83%      |
+| #10  | juno105jclaywm4lxt74z8a3jgtpfr6jzlx5edg6h0sp024gm292ah2usdln48t |    WYND Proposal Voting    |   34669    |      2.74%      |
+| #11  | juno14hrt7htv42234xwpsxmxaxu7wywak7zflpk9jf5nze3w6e93czdsfwe0ly |  SEASY-JUNO junoswap pool  |   29306    |      2.31%      |
+| #12  | juno19rqljkh95gh40s7qdx40ksx3zq5tm4qsmsrdz9smw668x9zdr3lqtg33mf | StakeEasy governance token |   26934    |      2.13%      |
+| #13  | juno1sg6chmktuhyj4lsrxrrdflem7gsnk4ejv6zkcc4d3vcqulzp55wsf4l4gl |       JUNO ATOM Pool       |   26637    |      2.10%      |
+| #14  | juno1r48lst84vsh8jyshqmva58znvyr59w2aejht3gkuy4ex3yd9hlzsmwp349 |   JUNO-ATOM-RAW-REWARDS    |   24559    |      1.94%      |
+| #15  | juno10h94gypnj05uwvskmpq9dqan5asu07p5g424hr0jgu0m4m9j06ks6wqzhn |   JUNO-ATOM-JUNO-REWARDS   |   24551    |      1.94%      |
+| #16  | juno1n0f2y6hfwtq7ga6j0h5ra9x2sgkwkj87700uwx0g8d56xp88ezpqfuyn9c |       Levana Alchemy       |   24480    |      1.93%      |
+| #17  | juno18hsatg55uk7sf2hm0j36402aej729g395egq9rt5rjvz7gazdfcss9egmd |   the_100_sided_dice_v2    |   24235    |      1.91%      |
+| #18  | juno1ctsmp54v79x7ea970zejlyws50cj9pkrmw49x46085fn80znjmpqz2n642 |       JUNO/USDC Pool       |   22597    |      1.78%      |
+| #19  | juno1atxy988x7nkv3x5zc9x8dx35xnswge9rz24kvy0qsfth5zv8sc6qrlsv6a |           label            |   22111    |      1.74%      |
+| #20  | juno16c93t9s9nzrd76w9vww76x9cqfnvf08y96xdfnydy37wr4lkthpq2qspc6 |    Aqua AirDrop Airdrop    |   19955    |      1.57%      |
++------+-----------------------------------------------------------------+----------------------------+------------+-----------------+
+
+
++------------------------------------------------------------------------------------------------------------------------+
+|                                                SPECIFIC CONTRACTS INFO                                                 |
++-----------------------------------------------------------------+-----------------------+------------+-----------------+
+|                             Contract                            |          Name         | # of Execs | % of Juno Total |
++-----------------------------------------------------------------+-----------------------+------------+-----------------+
+| juno18hsatg55uk7sf2hm0j36402aej729g395egq9rt5rjvz7gazdfcss9egmd | the_100_sided_dice_v2 |   24235    |      1.91%      |
+| juno1r4pzw8f9z0sypct5l9j906d47z998ulwvhvqe5xdwgy8wf84583sxwh0pa |         RACOON        |   18150    |      1.43%      |
+| juno1an55u6dmsuw9etmyw3pccjn2qm4uddnyu4c6yusc8y5mdf77yjlq9p4k9y |    the_dungeon_v2_1   |    8672    |      0.68%      |
+| juno1sr4d0lq5njnfs0l59u92cerhr24zkczysxft4rvaas6gw3zt9lhqju02x4 |  the_mixed_lottery_v1 |    695     |      0.05%      |
++-----------------------------------------------------------------+-----------------------+------------+-----------------+

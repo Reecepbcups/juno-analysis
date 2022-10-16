@@ -1,2 +1,4 @@
 httpx
 ijson
+matplotlib
+prettytable

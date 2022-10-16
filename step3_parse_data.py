@@ -8,6 +8,7 @@ import base64
 import ijson # pip install ijson
 import json
 import os
+import time
 
 current_dir = os.path.dirname(os.path.realpath(__file__))
 data_dir = os.path.join(current_dir, "extra_data")
@@ -30,9 +31,6 @@ def set_height(height):
     if height > max_height:
         max_height = height        
 
-
-
-
 all_data = os.path.join(current_dir, 'all_data.json')
 if not os.path.exists(all_data):
     print("all_data.json not found. Please run step2 first to combine all into 1 :)")
@@ -42,22 +40,26 @@ with open(all_data, 'rb') as f:
     print('Parsing all_data.json...')
     parser = ijson.kvitems(f, "")
 
+    start_time = time.time()
     for idx, (height, value) in enumerate(parser):
-        if len(value['decoded_txs']) == 0:
-            continue
+        if len(value['decoded_txs']) == 0: continue
         # 4570598 {
         # 'time': '2022-08-29T04:46:40.171071833Z', 
         # 'num_txs': 1, 
         # 'decoded_txs': [{msg_here}]
         for msg in value['decoded_txs']:            
-            # decoded_tx = str(base64.b64decode(tx))
-            msg_type = msg["@type"]     
             msg['height'] = height  
             set_height(height)     
-            ALL_MSGS[msg_type] = ALL_MSGS.get(msg_type, []) + [msg]
+            # decoded_tx = str(base64.b64decode(tx))
+            # msg_type = msg["@type"]     
+            # ALL_MSGS[msg_type] = ALL_MSGS.get(msg_type, []) + [msg] # This is way to slow
+            if msg["@type"] in ALL_MSGS:
+                ALL_MSGS[msg["@type"]].append(msg)
+            else:
+                ALL_MSGS[msg["@type"]] = [msg]
             
         if idx % 10_000 == 0:
-            print(f'Parsed {idx} blocks so far')
+            print(f'Parsed {idx} blocks so far. Time: {time.time() - start_time:.2f}s')
 
 
 msgs_dir = "msgs"
@@ -69,7 +71,7 @@ for msg_type in ALL_MSGS.keys():
     with open(loc, 'w') as f:
         print(f'Dumping {msg_type} to {loc}...')
         # json.dump(ALL_MSGS[msg_type], f, indent=4)
-        json.dump(ALL_MSGS[msg_type], f)
+        json.dump(ALL_MSGS[msg_type], f, default=str) # fixes Object of type Decimal is not JSON serializable. Could have a custom func serialize_decimal, check if of Decimal, then return str() if so.
 
 
 # print(ALL_MSGS['/cosmwasm.wasm.v1.MsgExecuteContract'])

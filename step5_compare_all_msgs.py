@@ -94,7 +94,13 @@ for msg_type, heights_data in total_messages.items():
         # print(closest)
         # add the # of txs to the closest key
         # final_output[closest_height] = final_output.get(closest_height, 0) + amt
-        all_txs[closest_height] = all_txs.get(closest_height, 0) + amt
+
+        # TODO: Ensure this works
+        # all_txs[closest_height] = all_txs.get(closest_height, 0) + amt # this is way to slow
+        if closest_height in all_txs:
+            all_txs[closest_height] += amt
+        else:
+            all_txs[closest_height] = amt
 
     # print(final_output)
     # exit()
