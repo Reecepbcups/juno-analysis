@@ -79,19 +79,72 @@ for contract in unique_interactions:
         
         # print(msg)
     
+def pie_chart(sorted_all: dict, filename: str):
+    pie_chart = {
+        "labels": [],
+        "sizes": [],        
+        "explode": [],        
+    }
+
+    total_contracts = len(sorted_all.keys())
+    print(f"{total_contracts=}")
+
+    for idx, contract in enumerate(sorted_all):        
+        # if Staking is in sorted_all[contract]["label"]
+        if "airdrop" in sorted_all[contract]["label"].lower():
+            continue
+        elif "rewards" in sorted_all[contract]["label"].lower():
+            continue
+        elif idx > total_contracts * 0.05: # only top X% of contracts are saved
+            break
+
+        pie_chart["labels"].append(sorted_all[contract]["label"])
+        pie_chart["sizes"].append(sorted_all[contract]["total_number_of_calls"])        
+        pie_chart["explode"].append(0.1)
+
+    fig, ax = plt.subplots()
+    ax.pie(pie_chart["sizes"], explode=pie_chart["explode"], labels=pie_chart["labels"], autopct='%1.1f%%', shadow=True, startangle=90)
+    ax.axis('equal')
+    plt.savefig(f"{extra_data}/{filename}")    
+
+def bar_chart(sorted_all: dict, filename: str):
+    bar_chart = {
+        "labels": [],
+        "sizes": [],
+        "colors": [],
+    }
+    for contract in sorted_all:
+        bar_chart["labels"].append(sorted_all[contract]["label"])
+        bar_chart["sizes"].append(sorted_all[contract]["total_number_of_calls"])
+        bar_chart["colors"].append("red")
+
+    fig, ax = plt.subplots()
+    ax.bar(bar_chart["labels"], bar_chart["sizes"], color=bar_chart["colors"])
+    plt.xticks(rotation=90)
+    plt.savefig(f"{extra_data}/{filename}")
     
 
-# from pprint import pprint
-# pprint(all)
 
 # save to file
-with open(f"{extra_data}/unique_contract_info.json", "w") as f:
-    # sort all as a dict by unique_wallet_interactions
-    sorted_all = {k: v for k, v in sorted(all.items(), key=lambda item: item[1]['unique_wallet_interactions'], reverse=True)}
-    json.dump(sorted_all, f, indent=4)
+# with open(f"{extra_data}/unique_contract_info.json", "w") as f:
+#     # sort all as a dict by unique_wallet_interactions
+#     sorted_all = {k: v for k, v in sorted(all.items(), key=lambda item: item[1]['unique_wallet_interactions'], reverse=True)}
+#     json.dump(sorted_all, f, indent=4)
 
 
-with open(f"{extra_data}/unique_contract_info-sorted-by-total-calls.json", "w") as f:    
+# with open(f"{extra_data}/unique_contract_info-sorted-by-total-calls.json", "w") as f:    
     # sort all as a dict by unique_wallet_interactions
-    sorted_all = {k: v for k, v in sorted(all.items(), key=lambda item: item[1]['total_number_of_calls'], reverse=True)}
-    json.dump(sorted_all, f, indent=4)
+    # sorted_all = {k: v for k, v in sorted(all.items(), key=lambda item: item[1]['total_number_of_calls'], reverse=True)}
+    # # json.dump(sorted_all, f, indent=4)
+    # pie_chart(sorted_all, "unique_contract_info-sorted-by-total-calls.png")
+    # bar_chart(sorted_all, "unique_contract_info-sorted-by-total-calls-bar.png")
+
+    # save sorted_all to a pie chart with matplotlib
+    # https://matplotlib.org/stable/gallery/pie_and_polar_charts/pie_features.html
+
+sorted_all = {k: v for k, v in sorted(all.items(), key=lambda item: item[1]['total_number_of_calls'], reverse=True)}
+pie_chart(sorted_all, "unique_contract_info-sorted-by-total-calls-5%.png")
+
+sorted_all = {k: v for k, v in sorted(all.items(), key=lambda item: item[1]['unique_wallet_interactions'], reverse=True)}
+pie_chart(sorted_all, "unique_contract_info-sorted-by-total-calls-unique-wallets-5%.png")
+
