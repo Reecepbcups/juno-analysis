@@ -1,5 +1,5 @@
 '''
-Makes commands since python has GIL bleh
+Makes the commands.sh file (Only run this step if you do not have the data/ folder)
 '''
 
 import os
