@@ -1,26 +1,32 @@
-## Juno Transaction Counter
-(Since block)
-Counting the number of Txs per block for the RAC community.
+## Juno Tx Analysis
+Saves every Tx as JSON for future processing of the data by height, and message data.
 
-[Twitter Post](https://twitter.com/Reecepbcups_/status/1571109060963078145?s=20&t=5fPdMu3FWXoCg_qHOT3pEw)
+[Example Post](https://twitter.com/Reecepbcups_/status/1571109060963078145?s=20&t=5fPdMu3FWXoCg_qHOT3pEw)
 
-Solution:
+In the future, you can cross-compare data between different networks.
+
+### Solution:
 - Use RPC / REST to query every block.
-- Saves every XXXXX blocks to a JSON file with the data we want, using height as the key.
-- Set of contract addresses that are Rac based (from their games). If it is one, we count it.
-- save each height to its own grouped JSON file.
-- Combine all into all_data file and graph it
-
-Todo:
-- save all blocks & txs to files then combine to be nice to RPC endpoints (future)
-- Keep a running record of all Txs via JSON (Full node essentially) with all base64 data saved from earliest block height I can get
-Other:
-- Fix httpx timeout errors (2,000 blocks affected)
-- Ensure the last command can't return blocks < minimum height required (despite spread)
+- Saves every XXXX blocks to a JSON file with the data we want, using height as the key. Forked processes for speed
+- Combine all into all_data file and graph it / sort
+- Loop through given data sets with what ever logic we want :)
 
 
-How To Run:
-- `python3 make_commands.py` will generate commands.sh for you (Linux only)
-- `sh commands.sh` to run the forked processes (This will take a big)
-- `python3 get_all_data_info.py` merges all the data/ files into 1 massive file all_data.json
-- `graph_data_blocks.py` graph all data into matplot lib, and save to file (relative path)
+### How To Run:
+```bash
+cp .env.example .env # then edit
+python3 step1_make_commands.py # generates commands to run forked main's for (batching Height groups)
+sh commands.sh # to run the forked processes (With junod tx decode, this takes ~4 hours for 500k blocks on a Ryzen 5 3600 Hetzner)
+
+python3 step2.py # combines all the data/ into 1 large file
+python3 step3.py # combines all the data.json -> sorted sub files, name = file type
+
+# steps 4+ are logic using the data and comparing.
+```
+
+
+### Future todo
+- Bring proto decoding into here, sys calls too expensive. Forking is just fine
+- Easy backup all msgs -> nginx server for others to easily download compressed version of already decoded msg JSON
+- More Networks
+- Make more OOP based for commonly used functions, like loading all the msgs into 1 dict

@@ -4,7 +4,7 @@
 | Rank |                             Contract                            |            Name            | # of Execs | % of Juno Total |
 +------+-----------------------------------------------------------------+----------------------------+------------+-----------------+
 |  #1  | juno1y9rf7ql6ffwkv02hsgd4yruz23pn4w97p75e2slsnkm0mnamhzysvqnxaq |           BLOCK            |   125491   |      9.90%      |
-|  #2  | juno1wgkhhyf5zg2pxfxfzmq7rtx7jx5r294m2kudq3vqktfua5jay6xs04375w |                            |   52759    |      4.16%      |
+|  #2  | juno1wgkhhyf5zg2pxfxfzmq7rtx7jx5r294m2kudq3vqktfua5jay6xs04375w |          racoon            |   52759    |      4.16%      |
 |  #3  | juno15u3dt79t6sxxa3x3kpkhzsy56edaa5a66wvt3kxmukqjz2sx0hes5sn38g |     RAW DAO Gov token      |   51448    |      4.06%      |
 |  #4  | juno124d0zymrkdxv72ccyuqrquur8dkesmxmx2unfn7dej95yqx5yn8s70x3yj |       JUNO/RAW Pool        |   43250    |      3.41%      |
 |  #5  | juno1g0gp2wk39crkw0e776cql66hda7dl33n7wlqe3e3shu3p4f9k7jqq732vv |    UniverseDAO Staking     |   39121    |      3.09%      |
