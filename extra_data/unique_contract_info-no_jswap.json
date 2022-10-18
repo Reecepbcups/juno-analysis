@@ -1,0 +1,4497 @@
+{
+    "juno1atxy988x7nkv3x5zc9x8dx35xnswge9rz24kvy0qsfth5zv8sc6qrlsv6a": {
+        "label": "label",
+        "unique_wallet_interactions": 22108,
+        "total_number_of_calls": 22111
+    },
+    "juno105jclaywm4lxt74z8a3jgtpfr6jzlx5edg6h0sp024gm292ah2usdln48t": {
+        "label": "WYND Proposal Voting",
+        "unique_wallet_interactions": 8475,
+        "total_number_of_calls": 34669
+    },
+    "juno1sy9mlw47w44f94zea7g98y5ff4cvtc8rfv75jgwphlet83wlf4ssa050mv": {
+        "label": "WYND Staking Module",
+        "unique_wallet_interactions": 4641,
+        "total_number_of_calls": 12179
+    },
+    "juno1qsrercqegvs4ye0yqg93knv73ye5dc3prqwd6jcdcuj8ggp6w0us66deup": {
+        "label": "Loop Protocol Token Contract",
+        "unique_wallet_interactions": 4623,
+        "total_number_of_calls": 8627
+    },
+    "juno1qc8mrs3hmxm0genzrd92akja5r0v7mfm6uuwhktvzphhz9ygkp8ssl4q07": {
+        "label": "pair",
+        "unique_wallet_interactions": 4089,
+        "total_number_of_calls": 7753
+    },
+    "juno140h0ctxu0ete06a86u4has6ymppqpx30z6yfyumlkfwqjkv3grrs089el6": {
+        "label": "lp",
+        "unique_wallet_interactions": 2181,
+        "total_number_of_calls": 3079
+    },
+    "juno1l6p6qa0l4hdhedgvwhdqcua9sq4un8ugg5rk4nhh4mnrz7a3sl9sfwzg7l": {
+        "label": "Loop Protocol Farming Contract",
+        "unique_wallet_interactions": 2138,
+        "total_number_of_calls": 6115
+    },
+    "juno1dd0k0um5rqncfueza62w9sentdfh3ec4nw4aq4lk5hkjl63vljqscth9gv": {
+        "label": "seJUNO token Tue Aug 23 2022 14:37:47 GMT+0000 (Coordinated Universal Time)",
+        "unique_wallet_interactions": 1973,
+        "total_number_of_calls": 11469
+    },
+    "juno1utkr0ep06rkxgsesq6uryug93daklyd6wneesmtvxjkz0xjlte9qdj2s8q": {
+        "label": "pair",
+        "unique_wallet_interactions": 1892,
+        "total_number_of_calls": 2880
+    },
+    "juno1tyw3kx4y9nt6gxjvg9pw9hcjqgtf6gmw7g8g0u8uyfww66y5lv7qppw7uz": {
+        "label": "GFOT Updated Staking",
+        "unique_wallet_interactions": 1663,
+        "total_number_of_calls": 4914
+    },
+    "juno1xmpenz0ykxfy8rxr3yc3d4dtqq4dpas4zz3xl6sh873us3vajlpshzp69d": {
+        "label": "Fortis Oeconomia Token",
+        "unique_wallet_interactions": 1343,
+        "total_number_of_calls": 3803
+    },
+    "juno1eqfqxc2ff6ywf8t278ls3h3rdk7urmawyrthagl6dyac29r7c5vqtu0zlf": {
+        "label": "RAW DAO proposal module.",
+        "unique_wallet_interactions": 1298,
+        "total_number_of_calls": 1301
+    },
+    "juno1rws84uz7969aaa7pej303udhlkt3j9ca0l3egpcae98jwak9quzq8szn2l": {
+        "label": "POSTHUMAN",
+        "unique_wallet_interactions": 1180,
+        "total_number_of_calls": 7362
+    },
+    "juno1vaeuky9hqacenay9nmuualugvv54tdhyt2wsvhnjasx9s946hhmqaq3kh7": {
+        "label": "Burned Fortis Oeconomia Token",
+        "unique_wallet_interactions": 1170,
+        "total_number_of_calls": 3452
+    },
+    "juno168ctmpyppk90d34p3jjy658zf5a5l3w8wk35wht6ccqj4mr0yv8s4j5awr": {
+        "label": "NETA Token",
+        "unique_wallet_interactions": 1080,
+        "total_number_of_calls": 2560
+    },
+    "juno1hnftys64ectjfynm6qjk9my8jd3f6l9dq9utcd3dy8ehwrsx9q4q7n9uxt": {
+        "label": "AQUA",
+        "unique_wallet_interactions": 1046,
+        "total_number_of_calls": 1328
+    },
+    "juno1wwnhkagvcd3tjz6f8vsdsw5plqnw8qy2aj3rrhqr2axvktzv9q2qz8jxn3": {
+        "label": "bJUNO token Tue Aug 23 2022 14:37:47 GMT+0000 (Coordinated Universal Time)",
+        "unique_wallet_interactions": 1020,
+        "total_number_of_calls": 3629
+    },
+    "juno1n0f2y6hfwtq7ga6j0h5ra9x2sgkwkj87700uwx0g8d56xp88ezpqfuyn9c": {
+        "label": "Levana Alchemy",
+        "unique_wallet_interactions": 981,
+        "total_number_of_calls": 24480
+    },
+    "juno1dlp8avgc2r6t4nnsv4yydc6lc73rjtjqvdcee9r2kf0uwuef7v0smljy8w": {
+        "label": "stakeeasy contract Tue Aug 23 2022 14:37:47 GMT+0000 (Coordinated Universal Time)",
+        "unique_wallet_interactions": 947,
+        "total_number_of_calls": 3753
+    },
+    "juno1kqx9rhc8ksx52tukdx797k4rjrhkgfh4gljs04ql97hmnnkgyvxs5cqt7d": {
+        "label": "UniverseDAO",
+        "unique_wallet_interactions": 933,
+        "total_number_of_calls": 1541
+    },
+    "juno1vjc9p9k5jh6kxj272pwlwnl0nxty6lv5eszdlqvnlc4wdfgqxszq8wjled": {
+        "label": "juno1q5xlmqwmpzvtmc8f549vm7vpmcds3xlcsuulz5cmu7nx9klqfj7sp8ujyy",
+        "unique_wallet_interactions": 827,
+        "total_number_of_calls": 1178
+    },
+    "juno10ynpq4wchr4ruu6mhrfh29495ep4cja5vjnkhz3j5lrgcsap9vtssyeekl": {
+        "label": "Grand Fortis Oeconomia Token",
+        "unique_wallet_interactions": 778,
+        "total_number_of_calls": 2112
+    },
+    "juno1t46z6hg8vvsena7sue0vg6w85ljar3cundplkre9sz0skeqkap9sxyyy6m": {
+        "label": "BlackHole",
+        "unique_wallet_interactions": 588,
+        "total_number_of_calls": 628
+    },
+    "juno1wgkhhyf5zg2pxfxfzmq7rtx7jx5r294m2kudq3vqktfua5jay6xs04375w": {
+        "label": " ",
+        "unique_wallet_interactions": 561,
+        "total_number_of_calls": 52759
+    },
+    "juno1g0mcluvskz63dj6uy06kvqhkuxk24g5shrdc99vst5t8rw35vqusfgpedh": {
+        "label": "UniverseDAO Public Sale Distribution",
+        "unique_wallet_interactions": 560,
+        "total_number_of_calls": 883
+    },
+    "juno1ju8k8sqwsqu5k6umrypmtyqu2wqcpnrkf4w4mntvl0javt4nma7s8lzgss": {
+        "label": "CASA",
+        "unique_wallet_interactions": 546,
+        "total_number_of_calls": 767
+    },
+    "juno12p7h49hvqpldc08zyz26v0qasm0ecuxlh43a6t72ueudj06clxdsr30k2k": {
+        "label": "SFOT Staking",
+        "unique_wallet_interactions": 528,
+        "total_number_of_calls": 1839
+    },
+    "juno1y9rf7ql6ffwkv02hsgd4yruz23pn4w97p75e2slsnkm0mnamhzysvqnxaq": {
+        "label": "BLOCK",
+        "unique_wallet_interactions": 498,
+        "total_number_of_calls": 1328
+    },
+    "juno1622m6mxq8qd4ynnm4500vj3dnlhg7cz9zamg92pvaw0lxh47suyqcwssnc": {
+        "label": "NEARHOLDERS1053",
+        "unique_wallet_interactions": 479,
+        "total_number_of_calls": 595
+    },
+    "juno1uw3pxkga3dxhqs28rjgpgqkvcuedhmc7ezm2yxvvaey9yugfu3fq7ej2wv": {
+        "label": "Levana Dragon Riders",
+        "unique_wallet_interactions": 474,
+        "total_number_of_calls": 1239
+    },
+    "juno1qnmgent6fmw8rufz978rhmzfgmvme9gvyj0t7rkpffklvwr9tteste35lg": {
+        "label": "nft_token",
+        "unique_wallet_interactions": 444,
+        "total_number_of_calls": 665
+    },
+    "juno1vc5rx2le4y98mvaa27arstyd8ujgmdpdkm5hgltkk8vfwjh6j3mqcqj8qd": {
+        "label": "SFOT-UST LP Staking",
+        "unique_wallet_interactions": 439,
+        "total_number_of_calls": 1531
+    },
+    "juno1jnesmj0kg0sg475fd87q9l5vn67gxg4mafm5rtp03ayhjxhey2wqasrcuk": {
+        "label": "loop-launchpad-nft-staking",
+        "unique_wallet_interactions": 415,
+        "total_number_of_calls": 6429
+    },
+    "juno1umd7k0nrnjjqj2cuu3aclfjcfje4hvdehq2a309g6ery0fjhwf9sh6geq8": {
+        "label": "SFOT-GFOT LP Staking",
+        "unique_wallet_interactions": 414,
+        "total_number_of_calls": 1376
+    },
+    "juno17xudkf5a2m2nny7gqzss4wuges5v0ek035m3wzefp3a99x80kxasj5whwu": {
+        "label": "lp",
+        "unique_wallet_interactions": 412,
+        "total_number_of_calls": 755
+    },
+    "juno1799tpjfjesxvydvutk53dy9a2tzlf2ugc35tzfzlqxwcq6cyg2eswje7fj": {
+        "label": "tradoors-nft-minter",
+        "unique_wallet_interactions": 396,
+        "total_number_of_calls": 475
+    },
+    "juno17c7zyezg3m8p2tf9hqgue9jhahvle70d59e8j9nmrvhw9anrpk8qxlrghx": {
+        "label": "Stable Fortis Oeconomia Token",
+        "unique_wallet_interactions": 369,
+        "total_number_of_calls": 1231
+    },
+    "juno10gthz5ufgrpuk5cscve2f0hjp56wgp90psqxcrqlg4m9mcu9dh8q4864xy": {
+        "label": "KLEO Instance",
+        "unique_wallet_interactions": 345,
+        "total_number_of_calls": 444
+    },
+    "juno1g2g7ucurum66d42g8k5twk34yegdq8c82858gz0tq2fc75zy7khssgnhjl": {
+        "label": "MARBLE",
+        "unique_wallet_interactions": 340,
+        "total_number_of_calls": 881
+    },
+    "juno18hsatg55uk7sf2hm0j36402aej729g395egq9rt5rjvz7gazdfcss9egmd": {
+        "label": "the_100_sided_dice_v2",
+        "unique_wallet_interactions": 339,
+        "total_number_of_calls": 24235
+    },
+    "juno1jkxqwxazm93nd7mgkavr46k8fyadpmlk4snf2r8kn7dn3jdw8a2sgzxupc": {
+        "label": "BLOCK- Incentive",
+        "unique_wallet_interactions": 336,
+        "total_number_of_calls": 1068
+    },
+    "juno1xf32js0lc6v7quxj5twuna97hwff7dhkz6psujavvknh2yzty5uq6wut8j": {
+        "label": "BLOCK-JUNO",
+        "unique_wallet_interactions": 325,
+        "total_number_of_calls": 714
+    },
+    "juno1dl8zdygs57lcwm3e9tnq4pdmmp8nhhf08jcne72nsjkf7qntfz3s0e99x3": {
+        "label": "pair",
+        "unique_wallet_interactions": 319,
+        "total_number_of_calls": 539
+    },
+    "juno1e4gxx99ufal40jkrl90ucjlvuvns942xqg3ycu9gmw4nwgyrap8sk52ua8": {
+        "label": "pair",
+        "unique_wallet_interactions": 319,
+        "total_number_of_calls": 623
+    },
+    "juno1dug89d22vtu7v27ee9gg4xq5seu2tu705d6eh3kmvh0uvy7depaqg45qdj": {
+        "label": "sFOT-bFOT",
+        "unique_wallet_interactions": 300,
+        "total_number_of_calls": 893
+    },
+    "juno1kceqgs9hr4qt2ln87k6hqkgge6545cskpalyxjdyh99gr77kvw7szgctjx": {
+        "label": "lp",
+        "unique_wallet_interactions": 291,
+        "total_number_of_calls": 509
+    },
+    "juno102ez6q5vqgh0a56rttvl5hwx2adp7hn2lxnhygm93exkkac6hrkstlh5mw": {
+        "label": "label",
+        "unique_wallet_interactions": 288,
+        "total_number_of_calls": 37992
+    },
+    "juno194m6qvjr424hzqax5kgx2racpg2gx4yeq3d8kg0dm0xte3e7hpvq7ceceu": {
+        "label": "lp",
+        "unique_wallet_interactions": 267,
+        "total_number_of_calls": 292
+    },
+    "juno1mz8yzrgyp9mmq9aksxgpy83vmu8p4j8h3qyf9waxcd2epchqx5ps0ekj27": {
+        "label": "pair",
+        "unique_wallet_interactions": 264,
+        "total_number_of_calls": 440
+    },
+    "juno1eu0cf0eeksxse8g2mgkarhxjfpx9mzmlkjpgmw6cn526sv92zf5shjmnz2": {
+        "label": "lp",
+        "unique_wallet_interactions": 264,
+        "total_number_of_calls": 526
+    },
+    "juno15lyzzjppt5epwgv482ck03unjxp8qf944ucmpxkemerwman00u3s3963a7": {
+        "label": "GRAC",
+        "unique_wallet_interactions": 263,
+        "total_number_of_calls": 971
+    },
+    "juno1kylehdql046nep2gtdgl56sl09l7wv4q6cj44cwuzfs6wxnh4flszdmkk0": {
+        "label": "loop-nft-fixed-sale",
+        "unique_wallet_interactions": 257,
+        "total_number_of_calls": 1315
+    },
+    "juno1jjksuu26kfhrjqmh9h60ksewk0zarp08xfk23n76ggrg8anzv07qw20jqr": {
+        "label": "label",
+        "unique_wallet_interactions": 223,
+        "total_number_of_calls": 223
+    },
+    "juno12fdnmycnuvhua3y9pzxweu2eqqv77k454h0w8vwjjajvjrawuaksfn88u9": {
+        "label": "Levana Profile",
+        "unique_wallet_interactions": 219,
+        "total_number_of_calls": 314
+    },
+    "juno1k5rsc7nqp8zvx8v4acz37s928gptf3cqxc3dk0gmtyxfv89qvy4qptngta": {
+        "label": "label",
+        "unique_wallet_interactions": 212,
+        "total_number_of_calls": 1358
+    },
+    "juno1an55u6dmsuw9etmyw3pccjn2qm4uddnyu4c6yusc8y5mdf77yjlq9p4k9y": {
+        "label": "the_dungeon_v2_1",
+        "unique_wallet_interactions": 208,
+        "total_number_of_calls": 8672
+    },
+    "juno1w9xdfr8j47209dae5t3l37g8qp2y67z4dgnrfd43040u7uvwnp3s6p89s4": {
+        "label": "SFOT-UST LP Staking",
+        "unique_wallet_interactions": 206,
+        "total_number_of_calls": 696
+    },
+    "juno1pshrvuw5ng2q4nwcsuceypjkp48d95gmcgjdxlus2ytm4k5kvz2s7t9ldx": {
+        "label": "HULCAT Token",
+        "unique_wallet_interactions": 200,
+        "total_number_of_calls": 227
+    },
+    "juno1aagw3m89ze94v6e56k0eeemldrk8ajmtccmwer9ffrzduw3zuwds0w58xk": {
+        "label": "pair",
+        "unique_wallet_interactions": 197,
+        "total_number_of_calls": 373
+    },
+    "juno1p6v3a0kzzghnp8vm7esd7m4xgkw2gstaq8fkaepgz9hfufsvvvtq45jkj3": {
+        "label": "Community Sale",
+        "unique_wallet_interactions": 193,
+        "total_number_of_calls": 490
+    },
+    "juno15q5eyvwrrjgje2djy63453tywwgn4stjcvr2f8kmlnls509tdznsa3p7jz": {
+        "label": "SFOT-GFOT LP Staking",
+        "unique_wallet_interactions": 192,
+        "total_number_of_calls": 608
+    },
+    "juno1wuu8nwr37kmg0njg6p3ag7j4qcm08vs6z9e9j28aendnfnuxmd3sc4yrhm": {
+        "label": "SFOT-JUNO",
+        "unique_wallet_interactions": 190,
+        "total_number_of_calls": 559
+    },
+    "juno1m7uwvetjxr2efmlenvk2pzgsyzpnetlta95lx4rmmest6y0x8nvqh5he5k": {
+        "label": "JunoPunks Staking",
+        "unique_wallet_interactions": 179,
+        "total_number_of_calls": 553
+    },
+    "juno16520d773llklaxq9ddcqwptlrjaspt85lpaj9lw9rc5a8l09yp3scpsqcp": {
+        "label": "gelotto NETA GODS lottery",
+        "unique_wallet_interactions": 177,
+        "total_number_of_calls": 306
+    },
+    "juno1re3x67ppxap48ygndmrc7har2cnc7tcxtm9nplcas4v0gc3wnmvs3s807z": {
+        "label": "HOPE",
+        "unique_wallet_interactions": 172,
+        "total_number_of_calls": 452
+    },
+    "juno1sr4d0lq5njnfs0l59u92cerhr24zkczysxft4rvaas6gw3zt9lhqju02x4": {
+        "label": "the_mixed_lottery_v1",
+        "unique_wallet_interactions": 172,
+        "total_number_of_calls": 695
+    },
+    "juno1g0gp2wk39crkw0e776cql66hda7dl33n7wlqe3e3shu3p4f9k7jqq732vv": {
+        "label": "UniverseDAO Staking",
+        "unique_wallet_interactions": 164,
+        "total_number_of_calls": 39121
+    },
+    "juno19u80rx7fyun6q3e5tg0dj0fy78q7rk2rycv94k9dqrkth5kmtttqmkqxpw": {
+        "label": "lp",
+        "unique_wallet_interactions": 164,
+        "total_number_of_calls": 191
+    },
+    "juno1r72th8l800djmhu8f0xhfkw046a4zlm0kcrela2vxwf0ehh3l68qumh53q": {
+        "label": "sFOT-gFOT",
+        "unique_wallet_interactions": 161,
+        "total_number_of_calls": 365
+    },
+    "juno1804qz457akjcret7akpgk04zskqz5kggljgne97sggwnm88mc9gsk0esgd": {
+        "label": "Instantiate",
+        "unique_wallet_interactions": 158,
+        "total_number_of_calls": 276
+    },
+    "juno12sn90fnwhfhsdp8v0x3stpg8pmuuwptn9zjp5ansts2844k49xfsuq9gzx": {
+        "label": "SFOT-GFOT LP Staking",
+        "unique_wallet_interactions": 151,
+        "total_number_of_calls": 588
+    },
+    "juno1tggawg6x3qnxmcngxg9w0qy6au8r8q5hdfqg2tpspt3xdyduyytqk6lnp5": {
+        "label": "rac_dao_ext_rewards",
+        "unique_wallet_interactions": 147,
+        "total_number_of_calls": 446
+    },
+    "juno1het9ffzp62k32pp4qt4ag08f3nyhcwqrspsnha6s30nhxpr2agnsjuunvx": {
+        "label": "label",
+        "unique_wallet_interactions": 142,
+        "total_number_of_calls": 1123
+    },
+    "juno17tl4zhg98j8elgtwk580hqul0lk5q7gtamd3vlwjht70cjx2ssfs6vwusy": {
+        "label": "BLOCK-MARBLE Incentive",
+        "unique_wallet_interactions": 139,
+        "total_number_of_calls": 612
+    },
+    "juno180jzqh7vefwuks6eyvf0lkecdl2mp8u08d844245faunja969p3s8w3t3q": {
+        "label": "BLOCK-MARBLE",
+        "unique_wallet_interactions": 134,
+        "total_number_of_calls": 517
+    },
+    "juno1t83eed0qgateq74q4aw2rxwn5au4atz3wz7j2hesc76v9ayafy6qqe3zlh": {
+        "label": "gelotto Sunnyside Island lottery",
+        "unique_wallet_interactions": 131,
+        "total_number_of_calls": 246
+    },
+    "juno19cc3f24hmmtd0tedrjwzw7xs6d9wyatcevx28ulcj84sut5xh4yqw82qqf": {
+        "label": "FarmingStaking",
+        "unique_wallet_interactions": 128,
+        "total_number_of_calls": 226
+    },
+    "juno1ac82jwnmfx7fqehac3ufwk7ve9juagsrk9umyduqzuwh9n7qjnesxe88k9": {
+        "label": "BLOCK-ATOM Incentive",
+        "unique_wallet_interactions": 121,
+        "total_number_of_calls": 544
+    },
+    "juno1eeqgsjyqxcscpxwa6ut36py8vfpu6hxrwy62n2vgu8ud72wa9pyqv38q7y": {
+        "label": "admin factory contract",
+        "unique_wallet_interactions": 118,
+        "total_number_of_calls": 170
+    },
+    "juno10njts2m24u03cx7tq97de44y8pcv4y87apya2894n9ut9gcmhx6sxug0fe": {
+        "label": "reward contract Tue Aug 23 2022 14:37:47 GMT+0000 (Coordinated Universal Time)",
+        "unique_wallet_interactions": 116,
+        "total_number_of_calls": 220
+    },
+    "juno14umelpxlujja7lysyhufqdp2rlzyuvlek3lgz0v54wp0gyvwnp4s7f3sgs": {
+        "label": "Hopers.io_3.0",
+        "unique_wallet_interactions": 112,
+        "total_number_of_calls": 294
+    },
+    "juno177m3f78mg5cek8gf5xgea49vs32dt3d6f9dwmuxd3hez3nd7yzgq3ahufw": {
+        "label": "cw721-marketplace",
+        "unique_wallet_interactions": 105,
+        "total_number_of_calls": 321
+    },
+    "juno1gmnkf4fs0qrwxdjcwngq3n2gpxm7t24g8n4hufhyx58873he85ss8q9va4": {
+        "label": "Levana Loot",
+        "unique_wallet_interactions": 103,
+        "total_number_of_calls": 940
+    },
+    "juno1z9pn2f92r75967lce824uywwjzqrh4cfgwtznldj9q65hzvntxjsk8gaxf": {
+        "label": "FLP Token",
+        "unique_wallet_interactions": 99,
+        "total_number_of_calls": 127
+    },
+    "juno166nqpdute25frcw5xsg6ax8gj84jcdmsk5grrdecz673pxcjyzlqgnjc0f": {
+        "label": "Hope Galaxy",
+        "unique_wallet_interactions": 94,
+        "total_number_of_calls": 95
+    },
+    "juno1nu553h7erd73e4z4eh2efax6kcdaqfz9emvw75ucrwal0vws3wwq502xn7": {
+        "label": "label",
+        "unique_wallet_interactions": 93,
+        "total_number_of_calls": 425
+    },
+    "juno1a90f8jdwm4h43yzqgj4xqzcfxt4l98ev970vwz6l9m02wxlpqd2squuv6k": {
+        "label": "Levana Dragons",
+        "unique_wallet_interactions": 93,
+        "total_number_of_calls": 663
+    },
+    "juno1ysj68e0fd8skp7xy23rm4jstwm0jpwmyckpj5zge9a03rxy4ay2s7ltm7f": {
+        "label": "JACKAL Name Service",
+        "unique_wallet_interactions": 91,
+        "total_number_of_calls": 152
+    },
+    "juno156pr6v6jawhq9qmn52azgdka95nere3mecp7khn2k4c3jw0elg9sg9wtjv": {
+        "label": "label",
+        "unique_wallet_interactions": 90,
+        "total_number_of_calls": 482
+    },
+    "juno1s0tewcu485syneth968n7hz3vx23t24k904j26ae3lw75vzv7d3qtg8sp3": {
+        "label": "JunoPunks2_Staking",
+        "unique_wallet_interactions": 89,
+        "total_number_of_calls": 290
+    },
+    "juno1tdjwrqmnztn2j3sj2ln9xnyps5hs48q3ddwjrz7jpv6mskappjys5czd49": {
+        "label": "#decentralizehk",
+        "unique_wallet_interactions": 88,
+        "total_number_of_calls": 699
+    },
+    "juno1tju0xt0hsuj8jvjrpkka4ljrnyur2y37aw3zce9k5nhavjxhlh6slwr7wl": {
+        "label": "gelotto EYE of JUNO lottery",
+        "unique_wallet_interactions": 88,
+        "total_number_of_calls": 118
+    },
+    "juno1nhavnz7tgttlvje39pnulya72aej6z4g0qkrhzdt4rltnm0vfmyqmq3geq": {
+        "label": "sunnyside-island-nft-minter",
+        "unique_wallet_interactions": 87,
+        "total_number_of_calls": 958
+    },
+    "juno1mf309nyvr4k4zv0m7m40am9n7nqjf6gupa0wukamwmhgntqj0gxs9hqlrr": {
+        "label": "Decentralized Name Service v0.5.1",
+        "unique_wallet_interactions": 81,
+        "total_number_of_calls": 139
+    },
+    "juno1lmknz9atq3m739u8xkk35l57v88vq70g4s68mg747f3zum4dfutqsqszu4": {
+        "label": "marketplace-legacy",
+        "unique_wallet_interactions": 81,
+        "total_number_of_calls": 345
+    },
+    "juno1l3aygqg8en2hh396wph6he4x05ujkm6vc48sf0c34ema0mm24d5qdhn00s": {
+        "label": "nft_token",
+        "unique_wallet_interactions": 79,
+        "total_number_of_calls": 210
+    },
+    "juno1xhdu25f3a2qrntyq06m4mk733p06cf0x5lu67mfu3nt6dvgepc2sm4k5e3": {
+        "label": "nft_token",
+        "unique_wallet_interactions": 79,
+        "total_number_of_calls": 283
+    },
+    "juno1cltgm8v842gu54srmejewghnd6uqa26lzkpa635wzra9m9xuudkqa2gtcz": {
+        "label": "some_label",
+        "unique_wallet_interactions": 75,
+        "total_number_of_calls": 1162
+    },
+    "juno1nljy8gst5agtc0zstfjytf2hrnj8vcxgcdzrp4qj7k2dcnrfz4wsu6ty4f": {
+        "label": "BLOCK-ATOM",
+        "unique_wallet_interactions": 75,
+        "total_number_of_calls": 294
+    },
+    "juno1qrwfsx7r3xvsw4jsm5meq4lj32l78sdzn57tkcszycqprweekmtskfhekk": {
+        "label": "gelotto Gelotto NFT JACKPOT lottery",
+        "unique_wallet_interactions": 73,
+        "total_number_of_calls": 84
+    },
+    "juno1z668mx8cm5rra3y76w43ethdhag2jc05fgn7epwxxguhva46t9zs65pwtw": {
+        "label": "Hope_Staking_V2.0",
+        "unique_wallet_interactions": 72,
+        "total_number_of_calls": 113
+    },
+    "juno1tg8vvz3v6kkncvznp4suuakjngyelta2h45pn6nwkd6c8677u66qhemxj3": {
+        "label": "gelotto Share The Wealth 2.3 lottery",
+        "unique_wallet_interactions": 69,
+        "total_number_of_calls": 102
+    },
+    "juno1lqqv9qt5ghlpzsy0wsk02zh0qdansm8fkh9rjz97ke4zvh78254qx80jj6": {
+        "label": "dao_Marble DAO_staking_contract",
+        "unique_wallet_interactions": 67,
+        "total_number_of_calls": 101
+    },
+    "juno1p6glgysp3zehqpj8d7alp4hztyte42flrsrvt52gve4fyyqxezaqkwhyhh": {
+        "label": "gelotto Juno Gods lottery",
+        "unique_wallet_interactions": 66,
+        "total_number_of_calls": 82
+    },
+    "juno16zzxl06jk9edxgskxc5rhsjp38ndhaxgphm70gx7u3r587gycmss4kqg9k": {
+        "label": "gelotto GELOTTO WORLD lottery",
+        "unique_wallet_interactions": 66,
+        "total_number_of_calls": 79
+    },
+    "juno1aqu8zz6wgl35z8xvh0xfdflwwejf785zvs5vz5m2xv2nqjqcqsdsdwlv67": {
+        "label": "gelotto JUNO Delight lottery",
+        "unique_wallet_interactions": 65,
+        "total_number_of_calls": 94
+    },
+    "juno1ppgzyrw5304yudzv7qzkmq3ymmekhu6e3z6jl5wyl4yecp9tptysmnpgvp": {
+        "label": "KING DAO Token",
+        "unique_wallet_interactions": 63,
+        "total_number_of_calls": 66
+    },
+    "juno14uv4nkeafxdc7hn2s8aweenjpvd8jpuw4ef8wrgpl8wg0yutrefqm3vps8": {
+        "label": "neta-nft-minter",
+        "unique_wallet_interactions": 62,
+        "total_number_of_calls": 92
+    },
+    "juno1lqtavuw24dnnu56w79k7mefn8fhuz2w247dks2fes6hwd4rhpu2sumhhap": {
+        "label": "RevealNft",
+        "unique_wallet_interactions": 59,
+        "total_number_of_calls": 134
+    },
+    "juno1lkash8jlp93eemsrsxjdewry8736rlqvzuf08g2ucfpdnt52wh2ssj7c3j": {
+        "label": "gelotto Daily JUNO Takes All lottery",
+        "unique_wallet_interactions": 59,
+        "total_number_of_calls": 75
+    },
+    "juno167v5rm7sfrtl4hvud2w2wg2ejkyxkeym7t69y7hh7pftug6rusxq9xe20n": {
+        "label": "cosmic-sky-monks-nft-minter",
+        "unique_wallet_interactions": 58,
+        "total_number_of_calls": 3010
+    },
+    "juno14237hj4uvjruu4ucfzz0kpc8lxauwjhuzr3y8wqxlwcw9vhwkw9s9hxtw8": {
+        "label": "tfm-aggregator",
+        "unique_wallet_interactions": 56,
+        "total_number_of_calls": 285
+    },
+    "juno1fan0ttn9w5xawn6dv4hv6t2xzpu6cgnvmy0ymt6z7nd0zkvfj76q4pm585": {
+        "label": "DAO_Czech Cosmos Institut_cw-proposal-single",
+        "unique_wallet_interactions": 56,
+        "total_number_of_calls": 285
+    },
+    "juno1zykpdzu8kvqmq47zsad6nrus7ayzw7uz9mt2evg9xc4qsc3zjucsulwlk9": {
+        "label": "gelotto Daily JUNO Takes All lottery",
+        "unique_wallet_interactions": 56,
+        "total_number_of_calls": 73
+    },
+    "juno1a7x8aj7k38vnj9edrlymkerhrl5d4ud3makmqhx6vt3dhu0d824qh038zh": {
+        "label": "juno1839rlmw33avduccuhpnv6cqxsdlwpz87vq8g6x6jkfrdzpwtl8nsgf20f4",
+        "unique_wallet_interactions": 55,
+        "total_number_of_calls": 55
+    },
+    "juno173c59crjqeec28cpzs7n0y7hm4cd308zda8z6j4cnl6pct3stenseg2dxp": {
+        "label": "steak_token",
+        "unique_wallet_interactions": 53,
+        "total_number_of_calls": 251
+    },
+    "juno1za0uemnhzwkjrqwguy34w45mqdlzfm9hl4s5gp5jtc0e4xvkrwjs6s2rt4": {
+        "label": "cw721-passage",
+        "unique_wallet_interactions": 52,
+        "total_number_of_calls": 135
+    },
+    "juno1htenug55g0dxdt0hg7vktccnxanpft9q0zgl5panw5c9paret9vsme9a25": {
+        "label": "gelotto Gelotto Takes All lottery",
+        "unique_wallet_interactions": 51,
+        "total_number_of_calls": 57
+    },
+    "juno10r96k8x6szjvc4yme6rh7venu2mqhuemnfnwzn7xquulqpsslp4s20ndcq": {
+        "label": "Fixed price minter",
+        "unique_wallet_interactions": 50,
+        "total_number_of_calls": 196
+    },
+    "juno19w5u94yzwaexvjkz5fqz8469va4fgacvmudrnpta9z0yk5hhqa7qhaakch": {
+        "label": "label",
+        "unique_wallet_interactions": 49,
+        "total_number_of_calls": 238
+    },
+    "juno17wzaxtfdw5em7lc94yed4ylgjme63eh73lm3lutp2rhcxttyvpwsypjm4w": {
+        "label": "Another.Software Profit Sharing Token",
+        "unique_wallet_interactions": 49,
+        "total_number_of_calls": 58
+    },
+    "juno16s4ujr7ykk6c84n4l46zuya09aag887yngjqjzs6fhy0d08l3qfsssclpg": {
+        "label": "gelotto JUNO Gate Keeper lottery",
+        "unique_wallet_interactions": 49,
+        "total_number_of_calls": 61
+    },
+    "juno129w2xu6um6k06664w3prfsztl5cs2qe2j5am0q0d4fcrxpw5fc2sh4jffv": {
+        "label": "gelotto Freaky Clown Town lottery",
+        "unique_wallet_interactions": 48,
+        "total_number_of_calls": 62
+    },
+    "juno1q435929mr4whtkp7e5nwugyycdttaqmlsfadu7ehsulca3qa5ylqh7cnph": {
+        "label": "FLP Token",
+        "unique_wallet_interactions": 48,
+        "total_number_of_calls": 56
+    },
+    "juno12pd78reuunetuqv8m749zrf4se5jep9gtwf6yxntn3dlxwf6ll2ste0943": {
+        "label": "gelotto NETA Villains lottery",
+        "unique_wallet_interactions": 47,
+        "total_number_of_calls": 58
+    },
+    "juno1fst4u684k3t893mn3z5dgrm5hkg2qh9cd0c9pgskw0ymcffztqnsvqvuax": {
+        "label": "gelotto SHARE THE WEALTH 2.1 lottery",
+        "unique_wallet_interactions": 47,
+        "total_number_of_calls": 59
+    },
+    "juno1vntnqevwk47escuxrfrdk99070vs0gczyyx0wa2pp08j25n0ee6qryqhzk": {
+        "label": "DHK",
+        "unique_wallet_interactions": 45,
+        "total_number_of_calls": 66
+    },
+    "juno1lyhldc8spuea6df39nhdecl7he9jq90u7ddn27u8murqvsasmjuq02nm2q": {
+        "label": "dao_Hope Galaxy_staking_contract",
+        "unique_wallet_interactions": 44,
+        "total_number_of_calls": 55
+    },
+    "juno1856y7ldmh7kcrcx3f6wm6nrh23hhk2rhk0qx4pm7jqpaafyawq5qqueyhj": {
+        "label": "Vesting and Distribution",
+        "unique_wallet_interactions": 43,
+        "total_number_of_calls": 77
+    },
+    "juno1wcdzefz62qhyat7fghr2csj575s5djtqrjlcx7yz2tyues4e49tq0xngvu": {
+        "label": "gelotto Buttons lottery",
+        "unique_wallet_interactions": 42,
+        "total_number_of_calls": 48
+    },
+    "juno1ey60skesl0wldcu0z2ew8f7kdlkn6chelw423pjnvlyavsr0yl8qunqdxj": {
+        "label": "DAO_JUNO PUNK DAO_cw-proposal-single",
+        "unique_wallet_interactions": 41,
+        "total_number_of_calls": 42
+    },
+    "juno17gdhjxt2d5mhx6paxc85g4pr5myew8pq0lm7usdsavsfk34ldrsqqhtafc": {
+        "label": "juno19anck9qdup3hgxv2mns29t494qhprej2756au3f0fr06yctsaghssfm5kr",
+        "unique_wallet_interactions": 40,
+        "total_number_of_calls": 63
+    },
+    "juno16mk9j4s4n8xx2avsc6ckpauqlhrk60c0sx35wjnvmhah87hye0rscdjed2": {
+        "label": "gelotto Banana Split lottery",
+        "unique_wallet_interactions": 40,
+        "total_number_of_calls": 52
+    },
+    "juno1pnl583txjtts234hxx2acrdznx2h0876panhv9x05fwaua0r6rmsdgfrpz": {
+        "label": "gelotto NETA Supervillain lottery",
+        "unique_wallet_interactions": 38,
+        "total_number_of_calls": 53
+    },
+    "juno1fc8jh9lxv9ge2ysggjwcul6r8cvrsqud5gp3qy9fww7ueqsd250syy96rw": {
+        "label": "FLP Token",
+        "unique_wallet_interactions": 38,
+        "total_number_of_calls": 80
+    },
+    "juno1sm7pq9rpknttfkr5gg0p98nlsxcncuu8zlcywc8xts3spuck4c0seaqqkt": {
+        "label": "gelotto Gelottian Warriors lottery",
+        "unique_wallet_interactions": 37,
+        "total_number_of_calls": 47
+    },
+    "juno1kwa20qgh2d6r37r0vwc2dcsvf6q26t99ynl78g4nu50wsvswr27swtuz9n": {
+        "label": "Staking contract",
+        "unique_wallet_interactions": 37,
+        "total_number_of_calls": 399
+    },
+    "juno1wjpdhpv7x5cusg028xglazr8ldxr7cnm0tss8sd9pg4r959rlgtqjkf70x": {
+        "label": "SFOT-ATOM",
+        "unique_wallet_interactions": 36,
+        "total_number_of_calls": 176
+    },
+    "juno13lqzm7z7zl6v9sqku8yyk55zfnlsj9xhuhkcc3tph4ct2qkdtj3syyd7kv": {
+        "label": "gelotto Baddies vs Goodies lottery",
+        "unique_wallet_interactions": 36,
+        "total_number_of_calls": 45
+    },
+    "juno1kq5l2p4ld5zvxewaqtg5tjh2eds0za367xmux69tahp58shw8sysxcfhrc": {
+        "label": "gelotto GLTO Takes All lottery",
+        "unique_wallet_interactions": 36,
+        "total_number_of_calls": 38
+    },
+    "juno1mf72y2za08muuy9jtwsgayt2hdtwpspzfqleh0jufwl6k86v437qlnxxpx": {
+        "label": "gelotto RAC Adventure lottery",
+        "unique_wallet_interactions": 35,
+        "total_number_of_calls": 51
+    },
+    "juno1qjrcf2sd96xxhwmpqxxucqj5z372r9psjjjy56f8zd7k2dfx0crs27u255": {
+        "label": "gelotto GLTO SPLIT lottery",
+        "unique_wallet_interactions": 35,
+        "total_number_of_calls": 42
+    },
+    "juno13g45k46762aghe3p6zendzzlghec7aqhz660mxnf8hzvftax774qe05c3v": {
+        "label": "Fanfury-swap",
+        "unique_wallet_interactions": 34,
+        "total_number_of_calls": 472
+    },
+    "juno1cznm2auulgyych9j6n46u62y5au7kzzqnts3h4ck7lj9td6hc6fq8rr4np": {
+        "label": "gelotto GKEY Nightmare lottery",
+        "unique_wallet_interactions": 34,
+        "total_number_of_calls": 49
+    },
+    "juno1zzcugrt4x30vu0qxg765rnxkxm6lru6cwe0nvcl90ctc9k4cwvksx8tcew": {
+        "label": "nft_token",
+        "unique_wallet_interactions": 33,
+        "total_number_of_calls": 282
+    },
+    "juno198r5c2w37t39v7may9926u0yy22k372pxjxuddlnlnrmjr55kcmsqd0fvx": {
+        "label": "gelotto GKEY DREAMS lottery",
+        "unique_wallet_interactions": 33,
+        "total_number_of_calls": 43
+    },
+    "juno13hsmf05g3ukaz6z5cxfxuxnfgtlpdw9w8qma3yyvk43s9sztdsxqakrpt9": {
+        "label": "dao_Marble DAO_staking_contract",
+        "unique_wallet_interactions": 33,
+        "total_number_of_calls": 47
+    },
+    "juno1vn38rzq0wc7zczp4dhy0h5y5kxh2jjzeahwe30c9cc6dw3lkyk5qn5rmfa": {
+        "label": "CannaLabs",
+        "unique_wallet_interactions": 33,
+        "total_number_of_calls": 50
+    },
+    "juno1jktfdt5g2d0fguvy8r8pl4gly7wps8phkwy08z6upc4nazkumrwq7lj0vn": {
+        "label": "juno1w5e0ctxgq4kt8cmhyga0e6a77h623peqyte7m46l90ddnnt7j9usm4xpr7",
+        "unique_wallet_interactions": 33,
+        "total_number_of_calls": 47
+    },
+    "juno1rz4n290ht20x9n82v3y2ejllkf0gntju67mmj7xrnwzs8y2mnsssurgstj": {
+        "label": "gelotto Daily JUNO Takes All lottery",
+        "unique_wallet_interactions": 33,
+        "total_number_of_calls": 36
+    },
+    "juno1qg9m2zdqaxx4udxxyun4cjq5myazlldymdmhkuy7fmvretyxz92q89zdvv": {
+        "label": "sFOT-UST",
+        "unique_wallet_interactions": 32,
+        "total_number_of_calls": 153
+    },
+    "juno133aqsjzlqrd8hs3agguezuf7ghl9tj489jfft0r3hdl8t93q4g4stlfrua": {
+        "label": "gelotto Gelotto Takes All lottery",
+        "unique_wallet_interactions": 32,
+        "total_number_of_calls": 38
+    },
+    "juno18u5m3zamdz7hayj9qxx6jahps9y367myjhs88fe0fu9qu8hnnydstjwcs8": {
+        "label": "loop-nft-auction",
+        "unique_wallet_interactions": 32,
+        "total_number_of_calls": 57
+    },
+    "juno1avmfr9ea2dw67wr4jkklzv6g7vr4axggl57egarvmqewdfadswjqjdhvx2": {
+        "label": "gelotto GLTO SPLIT lottery",
+        "unique_wallet_interactions": 32,
+        "total_number_of_calls": 41
+    },
+    "juno1x3ay62mdesgk9geusgrvnmdgz85rjzudwx79u73n8q0rqrhd8wtqycs6f5": {
+        "label": "gelotto ToriPunks WL Giveaway lottery",
+        "unique_wallet_interactions": 30,
+        "total_number_of_calls": 31
+    },
+    "juno1lyg9wwjc4psrh6u7c5ummt4er6uzuztd345wmrr7xwrk4amrwkwq2vd2ws": {
+        "label": "'POOL8'",
+        "unique_wallet_interactions": 29,
+        "total_number_of_calls": 92
+    },
+    "juno1k8w4j8jecdanwvu5phzh4uru5t09tu3jqwfy40hn3r8ryxx7kwrqpl8l4j": {
+        "label": "gelotto Share The Wealth 2.0 lottery",
+        "unique_wallet_interactions": 29,
+        "total_number_of_calls": 33
+    },
+    "juno1ykh92v3cq5lqgk0s44wly66cuu7mm9wfjwh2kaq56dnaeylfxz2qy0lukm": {
+        "label": "gelotto GLTO TAKES ALL lottery",
+        "unique_wallet_interactions": 28,
+        "total_number_of_calls": 43
+    },
+    "juno1yxglckfvnzx4utgkk9u8z4mu8yz2vwz7g2uqpxna4e577fxfjc4q3c6acf": {
+        "label": "label",
+        "unique_wallet_interactions": 28,
+        "total_number_of_calls": 337
+    },
+    "juno14z2x9druc74a4z4wfvdujudfg8snp30rpa6yfxeax8hwr5dtjugsjt9qpu": {
+        "label": "nft_token",
+        "unique_wallet_interactions": 27,
+        "total_number_of_calls": 30
+    },
+    "juno1ajtzf25zp3jt8tgzlhptelsxuj0pfcjsuxw9mkxa2ptt9nd4zqeseldpnc": {
+        "label": "'POOL7'",
+        "unique_wallet_interactions": 27,
+        "total_number_of_calls": 116
+    },
+    "juno18ujcn207dv8y6u7p7rg9uhhzcayy9w22f3jzcgctadfwwefc6kdqzdgnz5": {
+        "label": "dao_$RAC DAO_staking_contract",
+        "unique_wallet_interactions": 27,
+        "total_number_of_calls": 52
+    },
+    "juno1zrwlwlmuqfhptvkp56sakvxxrx65yfq7y7qjx6u3tls20n9e5grsswu9vx": {
+        "label": "FLP Token",
+        "unique_wallet_interactions": 27,
+        "total_number_of_calls": 32
+    },
+    "juno1ff6jly3enug0lffyj6423yr8m7fs69p2pzqwl9zwx9udcfqq4tsqwztq08": {
+        "label": "Staking_New1",
+        "unique_wallet_interactions": 26,
+        "total_number_of_calls": 106
+    },
+    "juno145gcmkgr2gftxzlqhvsg3za40ktkfhhxlf4wqk2r4cgz7du8awvqrjdfef": {
+        "label": "Juno birthday wishes wall!",
+        "unique_wallet_interactions": 26,
+        "total_number_of_calls": 29
+    },
+    "juno1s0s2nfrpfdqk3epatmv047wk0ljecfaxw2cn3wq80mpl6tlxuf5sfu5rw4": {
+        "label": "nft_token",
+        "unique_wallet_interactions": 26,
+        "total_number_of_calls": 1329
+    },
+    "juno1kvreymavv6fg7sajy4z8kfzgjlxtrsj0umly4l4h6mv90k4yqt5sandkuc": {
+        "label": "gelotto Eggs Benedict lottery",
+        "unique_wallet_interactions": 26,
+        "total_number_of_calls": 35
+    },
+    "juno1luxk9u2fny8hpdncc7ygz6lafme3jcv4q0ydcnt2gk35zr7evu5q395vv9": {
+        "label": "gelotto Spooky GLTO lottery",
+        "unique_wallet_interactions": 25,
+        "total_number_of_calls": 27
+    },
+    "juno1jmyu3y9fetu2lxgxz7qfwmkvd9ap0esme684gq2flvvmrmyr557swspnwf": {
+        "label": "carbonZERO",
+        "unique_wallet_interactions": 25,
+        "total_number_of_calls": 45
+    },
+    "juno1e229el8t4lu4rx7xeekc77zspxa2gz732ld0e6a5q0sr0l3gm78stuvc5g": {
+        "label": "PunksNft",
+        "unique_wallet_interactions": 24,
+        "total_number_of_calls": 42
+    },
+    "juno1n7n7d5088qlzlj37e9mgmkhx6dfgtvt02hqxq66lcap4dxnzdhwqfmgng3": {
+        "label": "JoeDAO",
+        "unique_wallet_interactions": 24,
+        "total_number_of_calls": 62
+    },
+    "juno1w8pj7ng48ryzk6cv302nv6jn55edvr46sdzc9mc60xz0dh40h3gshf70tm": {
+        "label": "gelotto Jack-O'-GLTO lottery",
+        "unique_wallet_interactions": 24,
+        "total_number_of_calls": 30
+    },
+    "juno1m7qmz49a9g6zeyzl032aj3rnsu856893cwryx8c4v2gf2s0ewv8qvtcsmx": {
+        "label": "cosmoverse-nft-minter",
+        "unique_wallet_interactions": 23,
+        "total_number_of_calls": 1564
+    },
+    "juno1et5j95kdyyeffyd5dwrf9299zjcggzqs7hdhfxf3lqrg9j0ch29s3kcj55": {
+        "label": "gelotto Neta Super Villain lottery",
+        "unique_wallet_interactions": 22,
+        "total_number_of_calls": 28
+    },
+    "juno1gz9qhtcafjc0c9hnvrn2au253yaae6qunymt5yrgvagxejr2n2lquk6ss8": {
+        "label": "white whale ujuno vault",
+        "unique_wallet_interactions": 22,
+        "total_number_of_calls": 57
+    },
+    "juno17qwc3j4hd9eeqdkpq3jp7ajs69zdl632wtpl2364waqgsgjg9kes8dwlx5": {
+        "label": "los-nft-minter",
+        "unique_wallet_interactions": 21,
+        "total_number_of_calls": 25
+    },
+    "juno102mspc0t3v42f92v05am9950j9f6868gvq9y54v6fsf5j4ecsazqqttdun": {
+        "label": "gelotto Micro RAC House lottery",
+        "unique_wallet_interactions": 21,
+        "total_number_of_calls": 26
+    },
+    "juno1ccl3kw74hl3ez4ljhx0qzwe7hl8egqcsc2mcjkgga3af86jjek0q9645r8": {
+        "label": "Hope_NFT",
+        "unique_wallet_interactions": 21,
+        "total_number_of_calls": 38
+    },
+    "juno128lewlw6kv223uw4yzdffl8rnh3k9qs8vrf6kef28579w8ygccyq7m90n2": {
+        "label": "White Whale Pool Router",
+        "unique_wallet_interactions": 20,
+        "total_number_of_calls": 57
+    },
+    "juno1v930newf9rruwrg989hc732fkr5h8uq3ta6t3pnxne0ugf0ff9asyyp4ss": {
+        "label": "Dungeon Pool 8 LP Staking",
+        "unique_wallet_interactions": 20,
+        "total_number_of_calls": 20
+    },
+    "juno13fys2pc2revsnh55q2g5g6y6p9ppan2waww8qhvu3t3s2ju9yjxsw59sa2": {
+        "label": "label",
+        "unique_wallet_interactions": 20,
+        "total_number_of_calls": 56
+    },
+    "juno1trlja8xlh04k6rzmka0tduj36zwzllql466ad67y82gxf4aslzmsqyfkvw": {
+        "label": "MarblenautsSale1049",
+        "unique_wallet_interactions": 20,
+        "total_number_of_calls": 452
+    },
+    "juno1hsrm7w4twf0jv3ep0we4q0x36ee46atrv2hstq0mccq90t7zjx5sn2vk4t": {
+        "label": "gelotto GLTO  Takes All lottery",
+        "unique_wallet_interactions": 20,
+        "total_number_of_calls": 27
+    },
+    "juno1rw36pzarjypnufn7vwsjnr3ul9t5wqj4wrdfwpvlxkxcns4qrc9qawtk0p": {
+        "label": "FLP Token",
+        "unique_wallet_interactions": 20,
+        "total_number_of_calls": 25
+    },
+    "juno1khltl0mxzasakjnz0ax4knskxn3guymx7slm7vs3wdtn4qvammpq9a28u4": {
+        "label": "gelotto Gelotto Scoops lottery",
+        "unique_wallet_interactions": 20,
+        "total_number_of_calls": 25
+    },
+    "juno16aacgqv6xneuwdmsdz8evuv3ec8c5k7mgycgld2cskv79tthspxqpwru7c": {
+        "label": "gelotto Gelotto Lightning Round lottery",
+        "unique_wallet_interactions": 20,
+        "total_number_of_calls": 24
+    },
+    "juno1j6ewq25hfgww8pty9p4d5q8kkyf4sg9j24crstj78a237tk0thnqe0pa93": {
+        "label": "nft_token",
+        "unique_wallet_interactions": 19,
+        "total_number_of_calls": 21
+    },
+    "juno1w0ydaqem2xn0w8p28hvvqu9rmahhk2alg0qa9mt0nuuy4dk9yunst0yw0z": {
+        "label": "BlackHole",
+        "unique_wallet_interactions": 19,
+        "total_number_of_calls": 19
+    },
+    "juno1fcresq244kksmletp30nmsmrx847mla93vls7zszv8zs5haam8qskw7363": {
+        "label": "label",
+        "unique_wallet_interactions": 19,
+        "total_number_of_calls": 136
+    },
+    "juno14wh95tv40z5jd76ppxv08jzpqr2lfvujl9tvxj0zac5tx3sfjdqqvuzs5t": {
+        "label": "'POOL2'",
+        "unique_wallet_interactions": 19,
+        "total_number_of_calls": 51
+    },
+    "juno1jj0a0fqqzz9tk0pylq69yxr54h53anrgr2uctvsla2my5ahzc4lqzxeraz": {
+        "label": "gelotto RAC The House lottery",
+        "unique_wallet_interactions": 18,
+        "total_number_of_calls": 25
+    },
+    "juno1efpdnnwmhhc0cgjue4mcxjh3rl0twypfedy4fsyjt8ge49anp57sx0veqp": {
+        "label": "gelotto NETA Villains lottery",
+        "unique_wallet_interactions": 18,
+        "total_number_of_calls": 24
+    },
+    "juno1crr2p0kdz88rgekfyrd9m2cleay90k76cz4eaxtts8yvnrva4plqrett0k": {
+        "label": "gelotto Daily JUNO Takes All lottery",
+        "unique_wallet_interactions": 18,
+        "total_number_of_calls": 23
+    },
+    "juno15fph3q0sd3eygcv7acmqw4u6hvfxkh77l76d4t5rzl2smutpyq8sslcs3f": {
+        "label": "gelotto NETA GODS lottery",
+        "unique_wallet_interactions": 18,
+        "total_number_of_calls": 23
+    },
+    "juno1kyjudduyx0870tgcpj60tkxv73p0awl5fysledwufatkldpjd3xqgcc7yx": {
+        "label": "gelotto Gelotto Circus lottery",
+        "unique_wallet_interactions": 18,
+        "total_number_of_calls": 23
+    },
+    "juno1dxzvsghxgem5ywx2nc5f97yrx4m6eklym9g7djrn9qjnex99ep3ssdq4wn": {
+        "label": "gelotto RAW SCOOPS lottery",
+        "unique_wallet_interactions": 18,
+        "total_number_of_calls": 28
+    },
+    "juno12mu0pr5j5tdnyuald4t2kwtgpj7g9wu3wn6263zj5hdh0e0e25qqgfuzux": {
+        "label": "gelotto RAW Meat lottery",
+        "unique_wallet_interactions": 18,
+        "total_number_of_calls": 20
+    },
+    "juno1t5uhk3s34jy322ps4z4ffwmzs2zraqh8whv2fze20kq6avclpu4qgdswq5": {
+        "label": "'POOL3'",
+        "unique_wallet_interactions": 17,
+        "total_number_of_calls": 53
+    },
+    "juno1dmtl07fen6kqqzfu9t6azz86rrs82udglmzhfztnhq7z20w2wtmsq2k6l0": {
+        "label": "gelotto RAW lottery",
+        "unique_wallet_interactions": 16,
+        "total_number_of_calls": 19
+    },
+    "juno1r48wqcm3kmgw4xn40luxhwku9jwx8er4u3na2ap2y003acghwpusrf5zde": {
+        "label": "steak",
+        "unique_wallet_interactions": 16,
+        "total_number_of_calls": 54
+    },
+    "juno1fwuq2hx2p7lww458zxzfutkqadenj8v4tcaxjevndhclmkrsjznq0n5xlu": {
+        "label": "gelotto GLTO HAUNT lottery",
+        "unique_wallet_interactions": 16,
+        "total_number_of_calls": 17
+    },
+    "juno1xkqyafslv3ym40ew8utxf0qm4d7kvm0wu6f4w6unfmc5d2jvk2nqxa5t5p": {
+        "label": "label",
+        "unique_wallet_interactions": 16,
+        "total_number_of_calls": 112
+    },
+    "juno1xqagamw96d9j00ct2q0cad7dt4rnp2nv3g4anw5s3h9x77gtjp8q5k3qt9": {
+        "label": "gelotto GLTO POTLUCK lottery",
+        "unique_wallet_interactions": 16,
+        "total_number_of_calls": 20
+    },
+    "juno1cl2ewl842wcnagz5psd68z4dpp4gfxrrm9atm807uvyyg235h85stg7awy": {
+        "label": "CoinDex",
+        "unique_wallet_interactions": 15,
+        "total_number_of_calls": 33
+    },
+    "juno1amn4fp4fgreyn9erxcgzg7u5xf75nl9eqrmqllv9rr36k0l4mwvsygduhk": {
+        "label": "'POOL6'",
+        "unique_wallet_interactions": 15,
+        "total_number_of_calls": 77
+    },
+    "juno12600mqxh6hqj3re2lgswmzvmc8sv9m8z8wahhntgy9ec9e5tt8zszxwth5": {
+        "label": "gelotto GKEY VIBES lottery",
+        "unique_wallet_interactions": 15,
+        "total_number_of_calls": 21
+    },
+    "juno1cd2akq9derqkqlvwkvy66kfm8sqyp4fdqr2k9l8qylp8nfvs6qmqa6xm2l": {
+        "label": "Marblenauts",
+        "unique_wallet_interactions": 15,
+        "total_number_of_calls": 41
+    },
+    "juno1t8dnpktypue65q0hjz7tr3cvqypgj5vkxhd2twvng4a2ywa3j25spjuk6z": {
+        "label": "Cardinal Finance ",
+        "unique_wallet_interactions": 15,
+        "total_number_of_calls": 51
+    },
+    "juno1tguedn0d7k8y7c6xys86zcqc40rcdrazyuw9ayc9vuue43y6zc6qj2xrzw": {
+        "label": "FLP Token",
+        "unique_wallet_interactions": 15,
+        "total_number_of_calls": 15
+    },
+    "juno1hy0ky3pe742phd4w55tdfej0ez55h4jx4g06rp4wsa0mne9wzudqy4hum2": {
+        "label": "Arto DAO",
+        "unique_wallet_interactions": 15,
+        "total_number_of_calls": 18
+    },
+    "juno1ydq4mdrccwlkymacpg3lpul3dpt7vz7ca5z9v7mj0uey9hfm5lns4fy5rk": {
+        "label": "gelotto Lightning NETA lottery",
+        "unique_wallet_interactions": 15,
+        "total_number_of_calls": 19
+    },
+    "juno1smtyfg7036ds982x94l543gwj7f0fky73hjtvxdpf83m0t0f86sstr3pal": {
+        "label": "FarmingNft",
+        "unique_wallet_interactions": 15,
+        "total_number_of_calls": 67
+    },
+    "juno1panpvpe879q60xmr2qn0kz26ptph0kcq97dset9e5zzqddqspndsudjc0v": {
+        "label": "Vesting and Distribution",
+        "unique_wallet_interactions": 15,
+        "total_number_of_calls": 16
+    },
+    "juno1slkeu5cal4ujnetmdxhwdt4nuzrnywdek8h9nhkmjr2zq5tpjymq4mqnhk": {
+        "label": "Fanfury-nativeBonding",
+        "unique_wallet_interactions": 14,
+        "total_number_of_calls": 72
+    },
+    "juno1jwe052xe99v7jwy8ucsphgqkzwm8lkqddws8h8dxyq9ylf0cwges265vrr": {
+        "label": "juno1l3cwavlcrtdl9uyyhtt3u9648fsfjq5l5hfg35h3lk3pakkm9v4s0p3v7d",
+        "unique_wallet_interactions": 14,
+        "total_number_of_calls": 16
+    },
+    "juno10jyn2tjd843t8klcl6336thrd00vdumwwfpxe8m564lzx6wvdepqrv242x": {
+        "label": "KING DAO proposal module",
+        "unique_wallet_interactions": 14,
+        "total_number_of_calls": 14
+    },
+    "juno19p4e3y2nnh7jp7wlh6z5pyxve3wrxc5xzcca9hs6nsvtgmlxpadqlzhm07": {
+        "label": "RevealContract",
+        "unique_wallet_interactions": 14,
+        "total_number_of_calls": 26
+    },
+    "juno14ez2f5gclm87rxa58rrpf7y2sd97z9w0mm5fhpu9xteu0z2yy35q7k0agf": {
+        "label": "StakeDragons Eggs NFT x RacoonSupply Lottery",
+        "unique_wallet_interactions": 14,
+        "total_number_of_calls": 19
+    },
+    "juno1twdllpxjsqy8hwxcpr9muxyal5z7l4n9c6u35rm2nqcy8ndd7vkqyh2drv": {
+        "label": "gelotto Lightning GLTO lottery",
+        "unique_wallet_interactions": 14,
+        "total_number_of_calls": 17
+    },
+    "juno1354wx7sgdux72vxrxjxs2wqfcmtyxujp4mjngxkxld8p8srm33essytwjd": {
+        "label": "FURY",
+        "unique_wallet_interactions": 13,
+        "total_number_of_calls": 65
+    },
+    "juno1pqht3pkhr5fpyre2tw3ltrzc0kvxknnsgt04thym9l7n2rmxgw0sgefues": {
+        "label": "DAO DAO",
+        "unique_wallet_interactions": 13,
+        "total_number_of_calls": 17
+    },
+    "juno1y2x2ur4ptfurdca3gk05n62h93tgqluzj5zvm03c0vhxu8pu3pjs9flzz6": {
+        "label": "'POOL5'",
+        "unique_wallet_interactions": 13,
+        "total_number_of_calls": 42
+    },
+    "juno1a8cm4ntdr8gsmvdsjg6mhr8ynd8cvf8juthywgvuren89ean5t9quff6us": {
+        "label": "StakeDragons Eggs NFT x RacoonSupply Lottery",
+        "unique_wallet_interactions": 13,
+        "total_number_of_calls": 19
+    },
+    "juno1xcnjcqes5qdyys0ewr99w6salalaa6st4w3sqcephp6f9uh9qhdsnnarsw": {
+        "label": "BAIC",
+        "unique_wallet_interactions": 13,
+        "total_number_of_calls": 24
+    },
+    "juno10u3st6w8tx95ejtq6drffk6zy68z76m32lapq9m5shj7gu0y5mxswj6we0": {
+        "label": "JunoPunks2",
+        "unique_wallet_interactions": 13,
+        "total_number_of_calls": 27
+    },
+    "juno1u3r9xz5gp74vezctgz953nh973xqgvsutu5zv4ts9j2atwdgzwpq039ak5": {
+        "label": "gelotto RACCOON CITY lottery",
+        "unique_wallet_interactions": 12,
+        "total_number_of_calls": 17
+    },
+    "juno1hlrdjqs0jst7lq46h6sak7fwjjnta65emr9gaftynpvkqahxghjsw0zmvw": {
+        "label": "Staking_Reveal_Contract",
+        "unique_wallet_interactions": 12,
+        "total_number_of_calls": 33
+    },
+    "juno17v8uc3cqq3jqd4q9gl2qxd5zqmug4m9phnzj7ak6k70ttf2g374q3a6ew3": {
+        "label": "Lunatics Loser",
+        "unique_wallet_interactions": 12,
+        "total_number_of_calls": 20
+    },
+    "juno17r8dyxuj25muaudhgqgx4xrg6gzr6tvzem6gwtpprnfld58yggcqjhhkjy": {
+        "label": "OpenNMN",
+        "unique_wallet_interactions": 12,
+        "total_number_of_calls": 14
+    },
+    "juno1p6uu6ukm3rka4xpswhtqmn6a045egvgvuy3n4qxtej0z2q8xtn2qajfv5k": {
+        "label": "gelotto RACS on RACS lottery",
+        "unique_wallet_interactions": 12,
+        "total_number_of_calls": 16
+    },
+    "juno1x5kqvep2fq5sgvwwjn9uctzn0ts8vxnrtalxjucs5juu07hxxsvqgseuhr": {
+        "label": "MintPass2_NFT",
+        "unique_wallet_interactions": 12,
+        "total_number_of_calls": 19
+    },
+    "juno1v0km8gytmzpmtnwv8mpx26kctt5szuzudhg209fxee57yh9u2cvs88rn7p": {
+        "label": "dao_The Signal DAO _staking_contract",
+        "unique_wallet_interactions": 12,
+        "total_number_of_calls": 12
+    },
+    "juno1gzys54drag6753qq75mkt3yhjwyv4rp698kfvesh0wcy5737z4tsn0chtm": {
+        "label": "FUTURE",
+        "unique_wallet_interactions": 11,
+        "total_number_of_calls": 12
+    },
+    "juno1vuvesdre2w8k0e0t5z584qsm8w3dfpafg8c0rkc08w7ea2zsexzq4u63kd": {
+        "label": "Romans",
+        "unique_wallet_interactions": 11,
+        "total_number_of_calls": 14
+    },
+    "juno1gz34z4an9rv5ec6j6fryucycjzfl8qvy9gdlre8djdf8lsu74r7qvw5uat": {
+        "label": "USDC_Fury_LP_Bonding",
+        "unique_wallet_interactions": 10,
+        "total_number_of_calls": 84
+    },
+    "juno1vyvdyd70pz3yhnduzfhl098dk5pfpjl8nxmsrm6gmd3f7y5yrxvqw7e892": {
+        "label": "BAIC3D",
+        "unique_wallet_interactions": 10,
+        "total_number_of_calls": 24
+    },
+    "juno13lj9w9jq4hxqafawx8chzute2mzn7yjf7flnfjcxeze0hzptk0dqe2w3tg": {
+        "label": "DAO_Hex Gorilla Universe_cw-proposal-single",
+        "unique_wallet_interactions": 10,
+        "total_number_of_calls": 70
+    },
+    "juno109w44tz6fhkvarer3e9j09nlvy5ttmyy0jh68f7q0r82upteas5scw06pp": {
+        "label": "Hex Gorilla Universe",
+        "unique_wallet_interactions": 10,
+        "total_number_of_calls": 35
+    },
+    "juno1ta2656qpuwl0y4cq3zc7vjchzsmlednwu29k2nmq9mcnc2vm3hzqv7m73e": {
+        "label": "gelotto RAW DIN DIN lottery",
+        "unique_wallet_interactions": 10,
+        "total_number_of_calls": 16
+    },
+    "juno1hjmxtgc4dkmk3qvj2al0ct8c2z4f9envujs70yh7ngeu7rml804sgwkt84": {
+        "label": "USDC-FURY",
+        "unique_wallet_interactions": 9,
+        "total_number_of_calls": 37
+    },
+    "juno1p9z8xe96fyvg3h5gtvnpjjv2u47q6l7sdhg6asmyfgc6q8l8ttgqfvxnxh": {
+        "label": "ibc/C4CF...19F9-ujuno pair",
+        "unique_wallet_interactions": 9,
+        "total_number_of_calls": 11
+    },
+    "juno1wdfrzgyl79r4rqhjzqn2s4pc446004wrtsnjt6fkz7r4zwg4ptcqttzu2u": {
+        "label": "'POOL4'",
+        "unique_wallet_interactions": 9,
+        "total_number_of_calls": 28
+    },
+    "juno1xu5nm2n7drr6hmjvy6l88n2u5kve8hay3x5djls4ee2x9dxzfn8q7w2awm": {
+        "label": "Dungeon Pool 3 LP Staking",
+        "unique_wallet_interactions": 9,
+        "total_number_of_calls": 10
+    },
+    "juno1gdpguq452yed7hgfdtp68dnmm5y2zrh08njre6l5juruwgv7ygkql3y59m": {
+        "label": "some_label",
+        "unique_wallet_interactions": 9,
+        "total_number_of_calls": 51
+    },
+    "juno1u6w6qkuj6765w37n5uxlwrmsfq2fv7c6qt76lwmxgnx32kfljrjsussc7h": {
+        "label": "gelotto RAW Dinner lottery",
+        "unique_wallet_interactions": 9,
+        "total_number_of_calls": 11
+    },
+    "juno1066vq5g9qdprhgjst444rgf0zknhlqwmdnm7xyqhprt9whctzzxqdx90lu": {
+        "label": "dao_CannaLabs DAO_staking_contract",
+        "unique_wallet_interactions": 9,
+        "total_number_of_calls": 10
+    },
+    "juno164sk3xk9ql84l350n446lzu5vef7vnupcmpwd54296zheslq3p9sdrqu79": {
+        "label": "Hopers.io_2.0_Mint",
+        "unique_wallet_interactions": 9,
+        "total_number_of_calls": 25
+    },
+    "juno1p32te9zfhd99ehpxfd06hka6hc9p7tv5kyl5909mzedg5klze09qrg08ry": {
+        "label": "DaisyFinance",
+        "unique_wallet_interactions": 8,
+        "total_number_of_calls": 10
+    },
+    "juno1t63rzch8ud4ywg0025s9me57v7dntgdu85f4xjgzch3hyrkpxrdqchxgp6": {
+        "label": "FURYBONDING",
+        "unique_wallet_interactions": 8,
+        "total_number_of_calls": 25
+    },
+    "juno1wkjy5wl0pd5xxvwtrx37r7ydkt3dkwvghs00tvvqyd3xnjukah7qpj0vj7": {
+        "label": "ujuno-ibc/EAC3...8034 pair",
+        "unique_wallet_interactions": 8,
+        "total_number_of_calls": 11
+    },
+    "juno16phk79s72y03w99h5z8ut76jwnsu38swznnmc59qvay8ge8gxzrsf3zynw": {
+        "label": "DAO_Kleomedes Core Team_cw-proposal-single",
+        "unique_wallet_interactions": 8,
+        "total_number_of_calls": 9
+    },
+    "juno1lxvlu538vs3dl7jquhjh00p4gadkr8ql7uwyjxn2rkjfqrxnwqxqq84ead": {
+        "label": "Jgoblin",
+        "unique_wallet_interactions": 8,
+        "total_number_of_calls": 8
+    },
+    "juno1fq2y4xac75vm70pkxy64uyr5w28nvarcpj0wvjvadr8r3ypa3m8sqwqasy": {
+        "label": " ",
+        "unique_wallet_interactions": 7,
+        "total_number_of_calls": 35
+    },
+    "juno1g2geyxp6qp7rnl6an993f03canpkyu0atghrgxnnlpvgny8atzsqfp6skq": {
+        "label": "DENGAKU",
+        "unique_wallet_interactions": 7,
+        "total_number_of_calls": 15
+    },
+    "juno19jrfw6y7ljxnh389cl9eewrs4rfgf0w92g0m59lp0llvdsf8a0csunfq3p": {
+        "label": "junochess 0.4.1",
+        "unique_wallet_interactions": 7,
+        "total_number_of_calls": 38
+    },
+    "juno1tyehrpxka7kgyuv94lc4dhc3wjuvnn0zk7zgd5ha5zvd7z8pe0wsqcc6y9": {
+        "label": "DAO_Development Fund_cw-proposal-single",
+        "unique_wallet_interactions": 6,
+        "total_number_of_calls": 14
+    },
+    "juno1njr5uu6snhqch2s7yyyns829pysn5we69g8se98n929m8ey6me0s5jhsa4": {
+        "label": "NAPALA",
+        "unique_wallet_interactions": 6,
+        "total_number_of_calls": 32
+    },
+    "juno1pu5k9965hcxx670gzxmlxqsy90pvfd8muef3lttux95gal5vsecqlf9x7h": {
+        "label": "NetaNOTS",
+        "unique_wallet_interactions": 6,
+        "total_number_of_calls": 8
+    },
+    "juno1lgnstas4ruflg0eta394y8epq67s4rzhg5anssz3rc5zwvjmmvcql6qps2": {
+        "label": "Terra Developer Fund",
+        "unique_wallet_interactions": 6,
+        "total_number_of_calls": 18
+    },
+    "juno1vg4dqcn5h3xtpfqu7hudn96s0wwnn6qh4c0ce8k28gngpavppptq59lajw": {
+        "label": "gelotto G KEY Paradise lottery",
+        "unique_wallet_interactions": 6,
+        "total_number_of_calls": 8
+    },
+    "juno19778adwcy8r5ermj678dyhsn7aj4fpar375jmhuwezc9uxed7tnqxwvcv3": {
+        "label": "HopeTestPresale",
+        "unique_wallet_interactions": 6,
+        "total_number_of_calls": 24
+    },
+    "juno190r3fwdh60vx9gwyqvjuunxu43lc687j0algc622ljjpasksllqsezmfrt": {
+        "label": "DAO_Neta DAO Treasury_cw-proposal-single",
+        "unique_wallet_interactions": 6,
+        "total_number_of_calls": 7
+    },
+    "juno1jg5c2r53ahqvrze9l3d2el4wlvzdd0yfv9adqhjw8e56w22lz22q8amqup": {
+        "label": "Cosmology",
+        "unique_wallet_interactions": 6,
+        "total_number_of_calls": 6
+    },
+    "juno19337trqwen5qyxnv7k248aevj4ywlljs3eetehy6t6tgvvaqquasasmqat": {
+        "label": "minter-metadata-onchain-init",
+        "unique_wallet_interactions": 5,
+        "total_number_of_calls": 5
+    },
+    "juno19rh9f3k8rh4le356ez79sr984rtr6k7akux6wc52me0u9qdvaxmq0wzl3v": {
+        "label": "USDC_Fury_LP_Bonding",
+        "unique_wallet_interactions": 5,
+        "total_number_of_calls": 13
+    },
+    "juno1pt9496k5xdx2u7zmssq4e0saxdhpqqguppuufzdhcg6fmhcpgalq9cn5ek": {
+        "label": " ",
+        "unique_wallet_interactions": 5,
+        "total_number_of_calls": 7
+    },
+    "juno1xpt9mkncxadadn5t8s4t74nmw5zlarghmpme26857s07xz388d6sukvtnz": {
+        "label": "ujuno-RAW pair",
+        "unique_wallet_interactions": 5,
+        "total_number_of_calls": 8
+    },
+    "juno17det76u6x952cjrj0zm65zqasa0e7u3rnw5sf5yqt9d02fthkuwqhdlmlq": {
+        "label": "label",
+        "unique_wallet_interactions": 5,
+        "total_number_of_calls": 20
+    },
+    "juno15lpqzf9ml0awj99wc7vrv4ggy7xf46ka0xzputnfh2395xrxmvqsu2gwsp": {
+        "label": "DAO_Hack Juno_cw-proposal-single",
+        "unique_wallet_interactions": 5,
+        "total_number_of_calls": 7
+    },
+    "juno1m9rrvcdjatkvvdmly6pxq3yvxkp8ufaf23qkqvjcgzjgaxsef3ns6xe994": {
+        "label": "MarketPlaceReveal",
+        "unique_wallet_interactions": 5,
+        "total_number_of_calls": 9
+    },
+    "juno1ew3820nkq9wlpnta87lws3kps4ezln23kav6u2ky6zy8zzm6re5qh27zcm": {
+        "label": "DAO_Plurigrid_cw-proposal-single",
+        "unique_wallet_interactions": 5,
+        "total_number_of_calls": 7
+    },
+    "juno158mcxa5ajpjfxgy60asrg3m0823m2el5n333xdypcw8h5uwhuvyqkyc4a7": {
+        "label": "ujuno-LOOP pair",
+        "unique_wallet_interactions": 5,
+        "total_number_of_calls": 6
+    },
+    "juno18c5uecrztn4rqakm23fskusasud7s8afujnl8yu54ule2kak5q4sdnvcz4": {
+        "label": "Drinks at the Loop Cosmoverse Party!",
+        "unique_wallet_interactions": 5,
+        "total_number_of_calls": 6
+    },
+    "juno1z39tf6xk42g5cuy3e3guck64t7rtjxcg7r50stfpjvr4cggckjaq89cm7t": {
+        "label": "label",
+        "unique_wallet_interactions": 5,
+        "total_number_of_calls": 9
+    },
+    "juno1wurfx334prlceydmda3aecldn2xh4axhqtly05n8gptgl69ee7msrewg6y": {
+        "label": "Tuckermint",
+        "unique_wallet_interactions": 5,
+        "total_number_of_calls": 5
+    },
+    "juno1kn5th7y0cwpl89cw2aua0lfaq2x0x8qmajkueay63r8wx57mp7kse79pkv": {
+        "label": "DAO_Stake Dragons Multisig_cw-proposal-single",
+        "unique_wallet_interactions": 4,
+        "total_number_of_calls": 191
+    },
+    "juno1y0qhtvy68vcl9y0l9aaqgfphy3npqx3m3zxs0u9ap9tsnqp8j2fs3ae20c": {
+        "label": "RAW Liquidity Incentives",
+        "unique_wallet_interactions": 4,
+        "total_number_of_calls": 43
+    },
+    "juno1c92uduarcjq3zhdcrt84cmf8zndujn2ewzdqrfjwp05xgaemmy6snwcaz4": {
+        "label": "White Whale",
+        "unique_wallet_interactions": 4,
+        "total_number_of_calls": 8
+    },
+    "juno1zke6gegjkza6cd3tm5xt9pvpmnwp55z8p8fvku7prevsvh9s8qmsujkvxf": {
+        "label": "DAO_Kleomedes Development Fund_cw-proposal-single",
+        "unique_wallet_interactions": 4,
+        "total_number_of_calls": 9
+    },
+    "juno1u3kh3y5daurmat6advaqhzawlzsagl3x9ejwjc78rpywr3n5r0sqcxw7wj": {
+        "label": "Core 1 proposal module",
+        "unique_wallet_interactions": 4,
+        "total_number_of_calls": 16
+    },
+    "juno1pg2u38ffhv3qqlw9sknsmlqzk7uu88prxel3w68f5m25d6rl9a7q4vqzcd": {
+        "label": "Sky Monks NFT Multisig proposal module",
+        "unique_wallet_interactions": 4,
+        "total_number_of_calls": 15
+    },
+    "juno1u35ml65uvca92mvtulljrgngxnymtvjqw3gfljqlsnyl9hs4rhvqtx5f73": {
+        "label": "label",
+        "unique_wallet_interactions": 4,
+        "total_number_of_calls": 58
+    },
+    "juno15xzsa020c5km6axfas7hy20v6e3cqs5x9cjyuzuz8ypk28ffdxksdtjgmc": {
+        "label": "label",
+        "unique_wallet_interactions": 4,
+        "total_number_of_calls": 71
+    },
+    "juno13g9va2eetf2nhknlhashvrj9hdptek66t25lzedzjcg9vkqrzf7qdvyl8f": {
+        "label": "label",
+        "unique_wallet_interactions": 4,
+        "total_number_of_calls": 9
+    },
+    "juno1kkzx52hz5uc7ttuv2p03r635s7dh5a5cr9lqdrfesngckxny3njqxcqjf8": {
+        "label": "juno10w0ctw38cdjr4gyd9dyjrlmlljrun6a3ntthqa4agd75htqy7pyqcrv646",
+        "unique_wallet_interactions": 4,
+        "total_number_of_calls": 6
+    },
+    "juno1jxpkymvmvlp2lem650dx2tvqkpqd3js50j94hj8d8hjf2lu3wwyqvp39ja": {
+        "label": "MarbleMarketplace",
+        "unique_wallet_interactions": 4,
+        "total_number_of_calls": 25
+    },
+    "juno1zj2zy5zny2y8atnpp3l6gq72ka29xp3v2t00u7cfct4jgtkdye7qgvwfsp": {
+        "label": "CCG",
+        "unique_wallet_interactions": 4,
+        "total_number_of_calls": 6
+    },
+    "juno1h47wn0p3tlwteamkzkqzenan0pxxfk9tg2vzlk03s07qcgvddm6qedjkwy": {
+        "label": "LOOP NCO proposal module",
+        "unique_wallet_interactions": 4,
+        "total_number_of_calls": 47
+    },
+    "juno16yzefc0wf6vy4lskazgffp9prfq29hjkyr3r78nwcmezc9mc0z9s4qhdxu": {
+        "label": "dao_JoeDAO_staking_contract",
+        "unique_wallet_interactions": 4,
+        "total_number_of_calls": 4
+    },
+    "juno1m40xck7t7ckpz2kv7rzeum26qk0wcm3thae5zep87a6assgsawgqu0rjgc": {
+        "label": "\u0411\u041a\u041eDAO",
+        "unique_wallet_interactions": 4,
+        "total_number_of_calls": 10
+    },
+    "juno1qfx94jjjuagkx0n8yc9q69035nnjck6t579mnacgy2tfkwr30r2s6q5qmt": {
+        "label": "abstract:os_factory",
+        "unique_wallet_interactions": 4,
+        "total_number_of_calls": 6
+    },
+    "juno1yta5dreyjsphprfd0unt7edhhu8jfx2c74z8l9c8p9294a8wz5qs8ls20e": {
+        "label": "Wizard and Witches",
+        "unique_wallet_interactions": 4,
+        "total_number_of_calls": 5
+    },
+    "juno1zmv6xjwg92vv2hjcsppnqwlgfphtee04ugjlz0ss4tgv0hnvt35q66fnmp": {
+        "label": "DAO_Digital Land Acquisition DAO_cw-proposal-single",
+        "unique_wallet_interactions": 4,
+        "total_number_of_calls": 6
+    },
+    "juno1pn3ghdjpw27c4etwkx5tguyalenq6ep9ls7ldacczuz58ef72tzq8x87mx": {
+        "label": "DAO_Loop Admin Multi_cw-proposal-single",
+        "unique_wallet_interactions": 4,
+        "total_number_of_calls": 10
+    },
+    "juno1uru665pfc3r2m8yr0d0y4svuym67k5lycvtfs3vzv6zm67yacaxsrgtkna": {
+        "label": "junotools escrow",
+        "unique_wallet_interactions": 4,
+        "total_number_of_calls": 13
+    },
+    "juno19xlmsfuzcgvtmz0evtq67lgd6f386w55lyz0j0smwcshp05xl2hqc3k0xs": {
+        "label": "Ark Protocol Token",
+        "unique_wallet_interactions": 4,
+        "total_number_of_calls": 5
+    },
+    "juno10qm4s9lgyual59k0ns7kkkpdqj7ctru85p5l7zkax0y993mu4v5stfd6y9": {
+        "label": "label",
+        "unique_wallet_interactions": 4,
+        "total_number_of_calls": 8
+    },
+    "juno196g8w2xqv4vyvvz752hme6uwvzyklj0um7ruu80hnujgpqncw0uqe2p4lw": {
+        "label": "DAO_WBA TWT_cw-proposal-single",
+        "unique_wallet_interactions": 4,
+        "total_number_of_calls": 8
+    },
+    "juno15z2yw5ajr98t3h97ult8neujq0qm6lyn99mtsevffteuvuw8zaxs9ft899": {
+        "label": "Obi Proxy",
+        "unique_wallet_interactions": 3,
+        "total_number_of_calls": 8
+    },
+    "juno1ps9sk7fqh2f95waggk3r5un6sr7rd4gxmq4kzh73zstgkqz52wmqh2wr0s": {
+        "label": "Obi Proxy",
+        "unique_wallet_interactions": 3,
+        "total_number_of_calls": 47
+    },
+    "juno1m9skms04ymmhsyc2q9cguja47d07mljsfnvm8f584dc645urxvjsjc9ep0": {
+        "label": "DAO_Neta DAO Operations_cw-proposal-single",
+        "unique_wallet_interactions": 3,
+        "total_number_of_calls": 5
+    },
+    "juno14u03u3np9kfqe3s7hhl9n0x5gwfutcfde0ll4tg0weef3c6x53uq6eydzn": {
+        "label": "Test instantiation",
+        "unique_wallet_interactions": 3,
+        "total_number_of_calls": 16
+    },
+    "juno1xyug7j8hgxfah0whkyv8ccyjwprrv8lya29eytlduhzy87dqw5ushxuwv6": {
+        "label": "label",
+        "unique_wallet_interactions": 3,
+        "total_number_of_calls": 14
+    },
+    "juno1qm087c2wrlzsaskv3kngcmuamsha77vxgkkpgeqkrzemtpe95uhsjc65hh": {
+        "label": "juno18mgqtspuydkn9kx4khp7652x3dmg9teryj845dz99tfp5jar6y5q4fks0z",
+        "unique_wallet_interactions": 3,
+        "total_number_of_calls": 5
+    },
+    "juno16jakdtn7k2y64xlg456v7mw95qfer42xwmdlyxupmyhtrrxn0shqt8w0lv": {
+        "label": " ",
+        "unique_wallet_interactions": 3,
+        "total_number_of_calls": 27
+    },
+    "juno1menz0s2rgu62c0lrrfw7zswrs2deeh9emnawt5jjgdfgvja4uqmq50hfhp": {
+        "label": "WW Vault ujuno LP token",
+        "unique_wallet_interactions": 3,
+        "total_number_of_calls": 60
+    },
+    "juno1x346rxsk9jw6sjuvgjwuc5kjr38ymjk4jvexszcy5z5yd4f5kz0sa8k3p0": {
+        "label": "juno1prnelgk9l2zd9rpp3ddmm4r3p6m4l807sfa2dgd38t9gplrjr53qa4wppc",
+        "unique_wallet_interactions": 3,
+        "total_number_of_calls": 6
+    },
+    "juno1cxtq9w9sctnanzykphd2ac009k4fe2z43rv9lq5thde3tc2x3a0q764484": {
+        "label": "MarbleT",
+        "unique_wallet_interactions": 3,
+        "total_number_of_calls": 15
+    },
+    "juno13r2x5e6uefwl4weu29kfr746ege68cffleaeex47q7jfmm282q9sq2cpdn": {
+        "label": "Marblenauts",
+        "unique_wallet_interactions": 3,
+        "total_number_of_calls": 433
+    },
+    "juno1e0w8892n60v0juuugvwptj8f6v3ad56ydr3cgxstmpkggjrqzfhsaqh38c": {
+        "label": "instantiate-566",
+        "unique_wallet_interactions": 3,
+        "total_number_of_calls": 241
+    },
+    "juno18gywxgcrl8ed2p67p6k24lvye2m49n3qrykt4ytxd6usnmrmacrsfts0a5": {
+        "label": "label",
+        "unique_wallet_interactions": 3,
+        "total_number_of_calls": 31
+    },
+    "juno17lfzjk0zxwduqt6258u7xv67qcq2e5jvh7f0ydwqazv8vu7k90esax4pt8": {
+        "label": "juno1n8mruzhqz64ayhatnrwuc276tvvz7y8lfn5pqhzg37du0ym4z0fqeqpelp",
+        "unique_wallet_interactions": 3,
+        "total_number_of_calls": 5
+    },
+    "juno1gzj7j357em7vxasde33a23kjq8fsuhdax3p2vcuz5dmujz2lh8hq7dlk7f": {
+        "label": "DAO_Entropy Foundation_cw-proposal-single",
+        "unique_wallet_interactions": 3,
+        "total_number_of_calls": 16
+    },
+    "juno199k5526srh0l845tt5dsyk8up22q729hc8n6w9njnqvyfwp7sjrskvvm3e": {
+        "label": "SunnyNft",
+        "unique_wallet_interactions": 3,
+        "total_number_of_calls": 4
+    },
+    "juno1vp2q50smgzw64xm2j2ksntej34pnnedaz4qkwdh8zah9kjcaas6s8g92t8": {
+        "label": "instantiate-184",
+        "unique_wallet_interactions": 3,
+        "total_number_of_calls": 278
+    },
+    "juno1zetjfu8j0ndt4d3mgewhatgpfrj8pwhev2tdp3sa9dwwmqlgdxws4257we": {
+        "label": "ujuno-RAW-LP",
+        "unique_wallet_interactions": 3,
+        "total_number_of_calls": 6
+    },
+    "juno19mkjyvydnq440a3ms4fccpltrzmxlvlz6nvz6qul0mgxvse42n2q9qkf72": {
+        "label": "ujuno-ibc/EAC3...8034-LP",
+        "unique_wallet_interactions": 3,
+        "total_number_of_calls": 8
+    },
+    "juno1t45ynmw867gg6eun7dtm6ddyj9hstusc5cnw9q74ltdhrqp5lzuqk2mrlu": {
+        "label": "DAO_Chihuahua Eco DAO_cw-proposal-single",
+        "unique_wallet_interactions": 3,
+        "total_number_of_calls": 8
+    },
+    "juno1c9dr05cryh2fn5hwr4aa9rhzfy5vxdmq3uc3xfrku9e5cs8sqcrq5r5g6d": {
+        "label": "Hopers.io Mint",
+        "unique_wallet_interactions": 3,
+        "total_number_of_calls": 4
+    },
+    "juno1hssyp2k83vw3dardm32n33j3pea33jzv0pf33hsnhnuy7yrd4tuqffty0u": {
+        "label": "Prop 14",
+        "unique_wallet_interactions": 3,
+        "total_number_of_calls": 11
+    },
+    "juno1k9cw9yghf04cqlu290n4zlveker5cev5ahweqkh07y7zc3xq9hrshjruk8": {
+        "label": "ibc/C4CF...19F9-ibc/107D...5CBF pair",
+        "unique_wallet_interactions": 3,
+        "total_number_of_calls": 6
+    },
+    "juno1z3tqzxremg70dx99wrg8whx5t8xktqrq5s20a6satl5ljngnlhjsfr5dlw": {
+        "label": " ",
+        "unique_wallet_interactions": 3,
+        "total_number_of_calls": 174
+    },
+    "juno1rwwnwhh3jrhh82v50gqmf2vyemlxvdea7zxl7yhpltsmf7trjw3s4yx5q8": {
+        "label": "HexGorilla",
+        "unique_wallet_interactions": 3,
+        "total_number_of_calls": 15
+    },
+    "juno1t3h9jrgl9ngz2rlqmcap07jcsugtw95ek5wvh38dzd4xunh3p6js0uyt75": {
+        "label": "Dog",
+        "unique_wallet_interactions": 3,
+        "total_number_of_calls": 4
+    },
+    "juno19p474gfhz6wlju0hlvxlvxamp2w0hk4syxzy4kvvtwly0n5z8rusaz0plq": {
+        "label": "ReFi Zone proposal module",
+        "unique_wallet_interactions": 3,
+        "total_number_of_calls": 5
+    },
+    "juno12xy7jfh8pe7fr2saycdjkjxfaq26882lm8tdxsq2n3gdflztnnps9ryj7e": {
+        "label": "DAO_Secret Network Czech_cw-proposal-single",
+        "unique_wallet_interactions": 3,
+        "total_number_of_calls": 5
+    },
+    "juno1pzunyv3g4gy37aqhzczwdhl9cw9ne4t49wd754tqug96g6e0j0fsjmhufk": {
+        "label": "LOOP NLF proposal module",
+        "unique_wallet_interactions": 3,
+        "total_number_of_calls": 10
+    },
+    "juno1v6stcdrvwrthfvcwvlmmzht32ft9g9nw85tthcjqer242xg3nvdq8fjasx": {
+        "label": "ibc/C4CF...19F9-ibc/EAC3...8034 pair",
+        "unique_wallet_interactions": 3,
+        "total_number_of_calls": 3
+    },
+    "juno1fy4u59mxamxud04kdz848hjan9yqpfuymm5qvf9m9sjz498vet0sdf6lqe": {
+        "label": "Loop Multisig",
+        "unique_wallet_interactions": 3,
+        "total_number_of_calls": 4
+    },
+    "juno13g5r0tmmngmm9d0clwa7exjamxxxag5p5fgdra7qjtaexdg6yprq5298fn": {
+        "label": "instantiate",
+        "unique_wallet_interactions": 3,
+        "total_number_of_calls": 10
+    },
+    "juno13c7fau2fdrgfk3zsadccjpxaul22ag33z0l8v9yfq0l54wgy2hzqeu7s6x": {
+        "label": "DAO_COSMOS PANAMA_cw-proposal-single",
+        "unique_wallet_interactions": 3,
+        "total_number_of_calls": 13
+    },
+    "juno1synkwsqkgmgmzec5wn90p79v383mcwnscpwzzhpkjhmha3xx6mcsdgqma0": {
+        "label": "DAO_Ark Protocol_cw-proposal-single",
+        "unique_wallet_interactions": 3,
+        "total_number_of_calls": 5
+    },
+    "juno1x5xz6wu8qlau8znmc60tmazzj3ta98quhk7qkamul3am2x8fsaqqcwy7n9": {
+        "label": "Bottles at the Cosmoverse Party!",
+        "unique_wallet_interactions": 3,
+        "total_number_of_calls": 3
+    },
+    "juno187mn3s6jq64lgpgp9dwcv053tcftu6j7xcx05hlwmqgcewdw4y8q8gdhc5": {
+        "label": "DAO_WYND MS DAO V2_cw-proposal-single",
+        "unique_wallet_interactions": 3,
+        "total_number_of_calls": 11
+    },
+    "juno1fvjuraveg8y5v2ume0jdyztq30dg6wgduuepf3me737fug6h6p7sx4sduu": {
+        "label": "CryptoCrew",
+        "unique_wallet_interactions": 3,
+        "total_number_of_calls": 4
+    },
+    "juno1rt728ugakd7jsh3fer4tx3ffgnhv5a8d585pp7zn7mm29xvrx5jqnufyz6": {
+        "label": "vault",
+        "unique_wallet_interactions": 2,
+        "total_number_of_calls": 1475
+    },
+    "juno1vxethawq7535yx3cdg7vkqr3agsk2u3g9emhvdtdf69r6gcrs2qsvxttvy": {
+        "label": "some_label",
+        "unique_wallet_interactions": 2,
+        "total_number_of_calls": 39
+    },
+    "juno1f3sdd6rakhe7av6tydyzyv82xxvsn65wwnreusu76yhnsl65lgcq9a602r": {
+        "label": "some_label",
+        "unique_wallet_interactions": 2,
+        "total_number_of_calls": 44
+    },
+    "juno1v4887y83d6g28puzvt8cl0f3cdhd3y6y9mpysnsp3k8krdm7l6jqgm0rkn": {
+        "label": "ICS20 contract",
+        "unique_wallet_interactions": 2,
+        "total_number_of_calls": 5
+    },
+    "juno132xlc76sjzdh0hnwykrfg0qzp6rxddkl2xe3qmm28ddedhe6e2cs5l95pv": {
+        "label": "Obi Proxy",
+        "unique_wallet_interactions": 2,
+        "total_number_of_calls": 4
+    },
+    "juno1zruj2dl889ayyadhl5grkxv89ekkeazyp8ajkyt9h6w87zfwfyds5dplcd": {
+        "label": "\ud83e\udd16",
+        "unique_wallet_interactions": 2,
+        "total_number_of_calls": 490
+    },
+    "juno1va9lrjgc6l8ar99wmlqwlpz9fdvdum2cf79ax30quxjkywx3ph2qcl75nh": {
+        "label": "DAO_noahDAO_cw-proposal-single",
+        "unique_wallet_interactions": 2,
+        "total_number_of_calls": 4
+    },
+    "juno18jy629ehmfp2w4nnnyajj955npuw0ryhrvxauff47s65nev8eyuqnpfsd2": {
+        "label": "RAW Foundation Dev Fund",
+        "unique_wallet_interactions": 2,
+        "total_number_of_calls": 2
+    },
+    "juno1fapp0hf6907a6qmak5a2zajk0jvwgpxhpn8p6dss2sr05m9gdahqsrvfk2": {
+        "label": "dao_DHK_staking_contract",
+        "unique_wallet_interactions": 2,
+        "total_number_of_calls": 3
+    },
+    "juno18kts2cckc2z92n486ntv7mn85nlep44glhy3297z2aryman89vgsaepatu": {
+        "label": "Module: Info: [Name: abstract:etf, Version: 0.1.0-rc.3)], Kind: [AddOn]",
+        "unique_wallet_interactions": 2,
+        "total_number_of_calls": 5
+    },
+    "juno14muynfvevawjg27glcn6e8wlj6uwfn5nxgp89a5yhhgcv4fnf0aqhe9szu": {
+        "label": " ",
+        "unique_wallet_interactions": 2,
+        "total_number_of_calls": 39
+    },
+    "juno1hurw78k6f88mgke26znnqwy39d8vmynxv3qfpe8ss3zj5s4jq78q5cpxke": {
+        "label": " ",
+        "unique_wallet_interactions": 2,
+        "total_number_of_calls": 114
+    },
+    "juno1lhsxqc2ukj3acvdhhcz4hj93a0lyxl8yw3epgf2fdrd8zrattm2q5v54xh": {
+        "label": "DAO_KompleSocial grant management multisig_cw-proposal-single",
+        "unique_wallet_interactions": 2,
+        "total_number_of_calls": 4
+    },
+    "juno12wxyvtqe76x2a5jj6ckp2hfq8v32m6rvyyxwwufl2tksqvkt7whqczv6pa": {
+        "label": "CATOM",
+        "unique_wallet_interactions": 2,
+        "total_number_of_calls": 73
+    },
+    "juno16hjg4c5saxqqa3cwfx7aw9vzapqna7fn2xprttge888lw0zlw5us87nv8x": {
+        "label": "Marblenauts",
+        "unique_wallet_interactions": 2,
+        "total_number_of_calls": 5
+    },
+    "juno1wrs4zqhk6x3p734jj9yyzfkext9h9rde54f0z0v88278cn47pk7sfy97aj": {
+        "label": "label",
+        "unique_wallet_interactions": 2,
+        "total_number_of_calls": 11
+    },
+    "juno1zcrhv2rlehgz522jvpfx063fq93a9s5mfrdylvqrp9lt2gyzydhskgc8se": {
+        "label": "DAO_Voiyd_cw-proposal-single",
+        "unique_wallet_interactions": 2,
+        "total_number_of_calls": 4
+    },
+    "juno1wl6qx2fpl0nt5qt78afdfhwcq8jkpuhmgwhn3pgw8y9hdavmjugspng4y4": {
+        "label": "DAO_Spark IBC Validator Commissions_cw-proposal-single",
+        "unique_wallet_interactions": 2,
+        "total_number_of_calls": 19
+    },
+    "juno1nzaffrmxxd2j8rqtuyuwsdn27qsy85v3e0tle09cmjhhydk79gfqnvquyc": {
+        "label": "DAO Up! proposal module",
+        "unique_wallet_interactions": 2,
+        "total_number_of_calls": 4
+    },
+    "juno1zqfv7rq6f2a98c3mrn2auahtvdxmk4vew6yqrmrd4zsar2uxq6gs755xfl": {
+        "label": "DAO_MuseCore_cw-proposal-single",
+        "unique_wallet_interactions": 2,
+        "total_number_of_calls": 8
+    },
+    "juno1m42pa6wy4wugafr3ssshtrf3q2gur0gfevfy8pvlu589ptwwrefqh68fzn": {
+        "label": "Test instantiation",
+        "unique_wallet_interactions": 2,
+        "total_number_of_calls": 27
+    },
+    "juno1wap7wdwt748xn0g37yux6mv3hjv8p24xhkztwrgjlp3n7c6czjnsnvzcux": {
+        "label": "DAO_111_cw-proposal-single",
+        "unique_wallet_interactions": 2,
+        "total_number_of_calls": 60
+    },
+    "juno1mpufvc3j6v2zc2959lf838lnfv80c3hscgpfzqzkezyeceth9z6s37yeck": {
+        "label": "racoon_auto_juno_lottery",
+        "unique_wallet_interactions": 2,
+        "total_number_of_calls": 2
+    },
+    "juno1nmmwrwfjcd5khx4w8y7savxf7h03herd5t5qg7f985fmrs38y3rq0t47a4": {
+        "label": "Obi Proxy",
+        "unique_wallet_interactions": 2,
+        "total_number_of_calls": 8
+    },
+    "juno1uwhg7mrln5tv5523rcn6yndp9gek9hvjz344gttsh2tdgpez0nds5s3lav": {
+        "label": "HUGINN DAO Token",
+        "unique_wallet_interactions": 2,
+        "total_number_of_calls": 3
+    },
+    "juno1at865ge47c8fcvye4mlg35vu2gpydq95nfr9fucxjt92xge58qwqqlpyfy": {
+        "label": "Obi Proxy",
+        "unique_wallet_interactions": 2,
+        "total_number_of_calls": 46
+    },
+    "juno1f7c2nm85a7vyjhs2zcqgzgpvr533mlr8jsjantsqrjgrxkz0x40s0uhgvx": {
+        "label": "Obi Test Proxy 24866",
+        "unique_wallet_interactions": 2,
+        "total_number_of_calls": 15
+    },
+    "juno1y9ckm4q2260f3632r83k776q2q82xe437twvxt3u9f8t9juz4xlsewdur7": {
+        "label": "VOTING",
+        "unique_wallet_interactions": 2,
+        "total_number_of_calls": 26
+    },
+    "juno1c9hfqkv5hd2f3xe67cfzkr664exmax6krfvgh8yym0ycdws786psr0hu6v": {
+        "label": "Vesting and Distribution",
+        "unique_wallet_interactions": 2,
+        "total_number_of_calls": 3
+    },
+    "juno16chnq7j49z289wlhjv3qjzrddz4jf332crz964c8csclydlqxxdqt2ht9t": {
+        "label": "dao_Marble DAO_staking_contract",
+        "unique_wallet_interactions": 2,
+        "total_number_of_calls": 3
+    },
+    "juno18cpnn3cnrr9xq7r0cqp7shl7slasf27nrmskw4rrw8c6hyp8u7rqe2nulg": {
+        "label": "CryptoCrew",
+        "unique_wallet_interactions": 2,
+        "total_number_of_calls": 2
+    },
+    "juno1ckk063sagqpweeapqk9s5dls2tkyd8xvqx88m7eluz4pzlkczk9qgr7ppz": {
+        "label": "dao_Hope Galaxy_staking_contract",
+        "unique_wallet_interactions": 2,
+        "total_number_of_calls": 4
+    },
+    "juno1aep0r4ar8gz2ktlj94pq5kw6g4v0m77ytxtmjvpa6509fvc5t98qtr8eyr": {
+        "label": "MarbleT",
+        "unique_wallet_interactions": 2,
+        "total_number_of_calls": 13
+    },
+    "juno14pta5dueuv8ttlt5tw3nrwemu0qveyqfx9fd2p3g5dw465w49kgs2sl59v": {
+        "label": "Obi Proxy",
+        "unique_wallet_interactions": 2,
+        "total_number_of_calls": 2
+    },
+    "juno1npvdkwk0wax3w5l47vjtl9ldmccyu4ua6tk3wdmpdrrlx9y7mc5q5lzlnt": {
+        "label": "instantiate-1061",
+        "unique_wallet_interactions": 2,
+        "total_number_of_calls": 3
+    },
+    "juno1ktc54kturphm7ktyyfect40d65spm7t6jemre5xaez2nl3me934qm2ufr8": {
+        "label": "label",
+        "unique_wallet_interactions": 2,
+        "total_number_of_calls": 6
+    },
+    "juno1rl77a4jpwf5rzmk9d6krrjekukty0m207h0sky97ls7zwq06htdqq6eq7r": {
+        "label": "Loop Protocol Staking",
+        "unique_wallet_interactions": 2,
+        "total_number_of_calls": 9
+    },
+    "juno1dapd6e8ueyzfeh5terfxpzfzlwx40yp8k6umyf42d2646czge5dqfrahcl": {
+        "label": "juno1lqqgf5dtmjkvqr0cekw7nlf502wl83tg3rvpnlx49w92v778lxmslpqvcc",
+        "unique_wallet_interactions": 2,
+        "total_number_of_calls": 2
+    },
+    "juno18nynuaq4pjc4tx0yjkljcvy6uy2vhsckatnk5sgrv505ufcrp5zq93s6uj": {
+        "label": "Frog Token",
+        "unique_wallet_interactions": 2,
+        "total_number_of_calls": 8
+    },
+    "juno1tsxxfzdkd38z909wxh2dvz07dyshuts4ty965pzxdkyjkrvzq4jswf5kxy": {
+        "label": "label",
+        "unique_wallet_interactions": 2,
+        "total_number_of_calls": 3
+    },
+    "juno1s44fpqc5rp4rfs7vzpr3e7y64kjwuf62yjrqjrlt484lpw27zhtsn8d922": {
+        "label": "cw-croncat-manager",
+        "unique_wallet_interactions": 2,
+        "total_number_of_calls": 5
+    },
+    "juno1y9642apk78m6n0wnp7lm3e3hxej6tc7ka0t0ekdq46c8l5z0l4gqvh5stv": {
+        "label": "NEARHOLDERS1022",
+        "unique_wallet_interactions": 2,
+        "total_number_of_calls": 3
+    },
+    "juno1qgcp8rm5wr5dz2mcql3u6nspr6w29pvqfr368ln8l5ymf9taurvsjxtfd9": {
+        "label": "Obi Test Proxy 28501",
+        "unique_wallet_interactions": 2,
+        "total_number_of_calls": 10
+    },
+    "juno1254y2mracz9d2ama8q8y7ur6kzr3amy8pvxt7l4e38ec6ektfe4sjzqds2": {
+        "label": "Loyal DAO",
+        "unique_wallet_interactions": 2,
+        "total_number_of_calls": 6
+    },
+    "juno1tj3c2zxrrqwc43ggzjghhv028httr7x4kgygg3vzacggqpxw7zdslszay3": {
+        "label": "label",
+        "unique_wallet_interactions": 2,
+        "total_number_of_calls": 2
+    },
+    "juno1prjkndy8c84rddzufqq0js05wkyf9tlyxyvam8st5hpknjgtt73q4ccwn9": {
+        "label": "juno1hqr0t3scwkrmuu3554lnqzrccuevd8huxmu533gtm6s7vuzeztzqh6tuwq",
+        "unique_wallet_interactions": 2,
+        "total_number_of_calls": 2
+    },
+    "juno109kmet4ngfrmac7tqh3qur9g9se0j98uv299rj9uqackft5ughnscxjzj4": {
+        "label": "Obi Test Proxy 26411",
+        "unique_wallet_interactions": 2,
+        "total_number_of_calls": 10
+    },
+    "juno1chffcwpn5kyk9ejnmxqd9m7e7phdfm2crnrew4qhjxrjfrpd9lgszwy7jg": {
+        "label": "Purple Token",
+        "unique_wallet_interactions": 2,
+        "total_number_of_calls": 2
+    },
+    "juno16zvq5x954cgf9gqxfuxdttvy5eqldl6pqzgvfczv6uqvvjnmv4qshwgeam": {
+        "label": "MarblenautsStaking1141",
+        "unique_wallet_interactions": 2,
+        "total_number_of_calls": 3
+    },
+    "juno1mdejqpq3jus6cqv3zs53040r5cn9dtqjvjjm3jtk899zx3tusv5q0qqty6": {
+        "label": "Obi Test Proxy 8096",
+        "unique_wallet_interactions": 2,
+        "total_number_of_calls": 10
+    },
+    "juno1vw8hdrwhe9yj482wnkjmzr6gyjuay4uldn0f4hzxgallzwlehj4qst7c3r": {
+        "label": "Obi Test Proxy 3979",
+        "unique_wallet_interactions": 2,
+        "total_number_of_calls": 8
+    },
+    "juno1vn7sf8yv4k9m23u30fr2zx8a4nt44eyxu8qehkvrnjx4s85dyttqwtc0e3": {
+        "label": "gelotto Test lottery",
+        "unique_wallet_interactions": 2,
+        "total_number_of_calls": 4
+    },
+    "juno18jad2ag893ut3y67muclw2wnpun57e09qg5zf70xdxzdce56waws8c0uf6": {
+        "label": "gelotto Test lottery",
+        "unique_wallet_interactions": 2,
+        "total_number_of_calls": 4
+    },
+    "juno1tp449zxvwmv762tpnwrfu6tlc8amqpqxhezz4jc0pws587q9kp5s5yd8l0": {
+        "label": "some_label",
+        "unique_wallet_interactions": 2,
+        "total_number_of_calls": 50
+    },
+    "juno1nac45hcvysqyx5wscwtqe0s4hw2w2vkxl4h66deg489gnr0uquhqcl5x4h": {
+        "label": "Staking contract Tue Sep 20 2022 09:50:35 GMT+0530 (India Standard Time)",
+        "unique_wallet_interactions": 2,
+        "total_number_of_calls": 21
+    },
+    "juno1g3ng6mhwq2nessf3g2ytxa7jgt5fqj0rtz9x3yhsspstu4tpq9ns0jf56m": {
+        "label": "dao_Fortis Oeconomia DAO_staking_contract",
+        "unique_wallet_interactions": 2,
+        "total_number_of_calls": 3
+    },
+    "juno1cvgj6w5ctfll54tp64ctg4e40vnevaez9szgh5zlzqas8tpl7gkq5t282a": {
+        "label": "label",
+        "unique_wallet_interactions": 2,
+        "total_number_of_calls": 2
+    },
+    "juno1jarhz8ea2xe7t7ff9ka5s26caqh2rmsedkfdjxjjkz6pjmjtphvs4h4rwv": {
+        "label": "Obi Test Proxy 1474",
+        "unique_wallet_interactions": 2,
+        "total_number_of_calls": 11
+    },
+    "juno1nd2zdlgfuw59fczu5j7y40tqtc7x8ukxk3jl3eyurhgk35jmjm6q2lcprr": {
+        "label": "Obi Test Proxy 24244",
+        "unique_wallet_interactions": 2,
+        "total_number_of_calls": 11
+    },
+    "juno14kv30xgx55556g2lpv7aj9f2h9lyvmu9t2dcafvm89sm87m4j7wstz3f2h": {
+        "label": "Obi Test Proxy 24534",
+        "unique_wallet_interactions": 2,
+        "total_number_of_calls": 11
+    },
+    "juno1qcsyf224yur6f8ymry4p9dqp6fhqedzmvqgnd9n8c3n727hp238qa7q94e": {
+        "label": "Obi Test Proxy 18845",
+        "unique_wallet_interactions": 2,
+        "total_number_of_calls": 10
+    },
+    "juno1a6rna5tcl6p97rze6hnd5ug35kadqhudvr5f4mtr6s0yd5mruhss8gzrdy": {
+        "label": "spark funding contract",
+        "unique_wallet_interactions": 2,
+        "total_number_of_calls": 2
+    },
+    "juno1fummq38s6qtlleu05kh08x5rcgy0cj9t6zl0pvc25ch9vugz9acq8hfz2a": {
+        "label": "label",
+        "unique_wallet_interactions": 2,
+        "total_number_of_calls": 7
+    },
+    "juno1lermefgzje4p8sqtxkr830myngmaryudczpldkdsk7kkzv5m37csp5pggh": {
+        "label": "HEALIOS",
+        "unique_wallet_interactions": 2,
+        "total_number_of_calls": 6
+    },
+    "juno12vw0a5nlvfazg4hf3eyvksg6u2cyx5d2cqwu6v42v4luvljtqfgqes75pf": {
+        "label": "test nft",
+        "unique_wallet_interactions": 2,
+        "total_number_of_calls": 4
+    },
+    "juno1c4m698m65lggcwxvz482tlqwrlc7ndwynsak4eq0ze5kl8pc0vpql96rkm": {
+        "label": " ",
+        "unique_wallet_interactions": 2,
+        "total_number_of_calls": 4
+    },
+    "juno1flwyf8en88lc4fuvase3r6gv3h8ym3hv903mpq0evlsnjhjmjhzsudv4un": {
+        "label": " ",
+        "unique_wallet_interactions": 2,
+        "total_number_of_calls": 4
+    },
+    "juno1e30g6yr2jfpemgck2epeexrlp82c5g7lcn0jlz2dp9enjypv376qn2nm47": {
+        "label": "label",
+        "unique_wallet_interactions": 2,
+        "total_number_of_calls": 3
+    },
+    "juno1k0xerfc7fxlx7u943rdsrnkx73hpdpefm9uu4ex694q9r75e6jfs8qdag7": {
+        "label": "Abstract OS Cw3 group test",
+        "unique_wallet_interactions": 2,
+        "total_number_of_calls": 2
+    },
+    "juno1qzcgwhlnem8pgraz86qxqykngvshtczl7dlknc7d6mq8878ykf0sedechl": {
+        "label": "Obi Proxy",
+        "unique_wallet_interactions": 2,
+        "total_number_of_calls": 12
+    },
+    "juno1grez8m7femejhpqdzxxpc8yfslrzgkwwur4afa3qydc5ufvtchsqc6lqnh": {
+        "label": "Obi Test Proxy 5554",
+        "unique_wallet_interactions": 2,
+        "total_number_of_calls": 10
+    },
+    "juno1dqrt2jd99d7e2w2rhkjqduuhv53epnanc6fsfdvq557cea6fc3hs7a69ye": {
+        "label": "Obi Proxy",
+        "unique_wallet_interactions": 2,
+        "total_number_of_calls": 2
+    },
+    "juno1d96qq62u9nkqw3acnhlxnawhde2fl3sjex7ah6h38950n8h0245salxxpp": {
+        "label": "DAO_Spark IBC Validator Rewards_cw-proposal-single",
+        "unique_wallet_interactions": 2,
+        "total_number_of_calls": 5
+    },
+    "juno1g3549wm0tffdzdpasufjr0nccu9ynzpzway5g3u6ucmhfd4ds05swswasc": {
+        "label": "ibc/C4CF...19F9-ujuno-LP",
+        "unique_wallet_interactions": 2,
+        "total_number_of_calls": 4
+    },
+    "juno1a0khag6cfzu5lrwazmyndjgvlsuk7g4vn9jd8ceym8f4jf6v2l9q6d348a": {
+        "label": "Eris Liquid Staking Token",
+        "unique_wallet_interactions": 2,
+        "total_number_of_calls": 9
+    },
+    "juno1vc6kxhz7dnen2rypyssm70w8xmdt09m473pkwsy7fgap4257epdqx7yr7m": {
+        "label": "ReFi Zone Token",
+        "unique_wallet_interactions": 2,
+        "total_number_of_calls": 3
+    },
+    "juno14wl4yuflkrazmglc2efty5znmkt2aw7xctv32dce6fxpy7kk3z4qryys42": {
+        "label": "label",
+        "unique_wallet_interactions": 2,
+        "total_number_of_calls": 10
+    },
+    "juno10t6s8jlgjtwzrv6498z9gz86e9wp7mvfa4l6cxeaxac85e7xqkssqu8vsa": {
+        "label": "Obi Proxy",
+        "unique_wallet_interactions": 2,
+        "total_number_of_calls": 2
+    },
+    "juno1jexh4vw7vnm4pk99mmhv2jy77y9vrlq2q8p6ry3wvp0mzfx3w82qda9j3r": {
+        "label": "Obi Test Proxy 27067",
+        "unique_wallet_interactions": 2,
+        "total_number_of_calls": 11
+    },
+    "juno1elazwzzxfph9qayrt08cgnlmy3fcvhlkfgjmkxxfz3mp7q75f2lqgd6902": {
+        "label": "Obi Test Proxy 6798",
+        "unique_wallet_interactions": 2,
+        "total_number_of_calls": 10
+    },
+    "juno1w7zg2kugzulmytf86309rsy8c4vstawdtm02nc3zep5j8zadwegsstckug": {
+        "label": "Obi Test Proxy 13907",
+        "unique_wallet_interactions": 2,
+        "total_number_of_calls": 10
+    },
+    "juno1j2xfwcla0qjqam8unwscu86jjsfps2s209tytus3n960tkdv50vsa4m5dq": {
+        "label": "Obi Test Proxy single",
+        "unique_wallet_interactions": 2,
+        "total_number_of_calls": 5
+    },
+    "juno1l9tdldax5lp7987xnktpswmz9c4s8wcvle76tfg4xaqlaapgaf6qu2nsef": {
+        "label": "label",
+        "unique_wallet_interactions": 2,
+        "total_number_of_calls": 17
+    },
+    "juno10dk4eqtx4ly9t0e4fr07y6qmxj7qn3j4rrj9ny2e3pmc8xrak84sywj6s7": {
+        "label": "TOT Token",
+        "unique_wallet_interactions": 2,
+        "total_number_of_calls": 2
+    },
+    "juno1vtzug0vg0r3qqqqtl7r3xptkhjvlnugypptu3dpf23ja506hcvvqsml24g": {
+        "label": "WBA Test12345",
+        "unique_wallet_interactions": 2,
+        "total_number_of_calls": 2
+    },
+    "juno12uzam70vndkakuupksvsasrxwsehz8n8j5s8sw2y0vv5d94dxh0qwmddq4": {
+        "label": "instantiate",
+        "unique_wallet_interactions": 2,
+        "total_number_of_calls": 10
+    },
+    "juno1tsqzlndfplautx3c20zr8ju76ulh3npkch5m08z2ns36r4vl6hesp25jz7": {
+        "label": "DAO_WYND MS DAO_cw-proposal-single",
+        "unique_wallet_interactions": 2,
+        "total_number_of_calls": 3
+    },
+    "juno1dln05shsugpwqvwq85hgrjzn3mr38kltfx73k9aasdm5yka3hhzsqs7q3p": {
+        "label": "label",
+        "unique_wallet_interactions": 2,
+        "total_number_of_calls": 2
+    },
+    "juno162le2nwdl9q0cdtql97e4s74hymyrsrw24qns0qm7huflv0k5x9s9g9x2c": {
+        "label": "Obi Test Proxy 22818",
+        "unique_wallet_interactions": 2,
+        "total_number_of_calls": 10
+    },
+    "juno1navhn8dfzc4p2gm73w464x8trhlp8hp3jw96ll4krgyffg4mx58qrj3zh5": {
+        "label": "label",
+        "unique_wallet_interactions": 2,
+        "total_number_of_calls": 2
+    },
+    "juno1akdp7ha276lddrmracwwr6nyv3708gpfqt2httsk26vsecfnfassfvdfqy": {
+        "label": "label",
+        "unique_wallet_interactions": 2,
+        "total_number_of_calls": 2
+    },
+    "juno1h24cnplkkp69ht5pxqdqldmmk9rf2mnchdq35f8y5q8vyaxz6dssrdru33": {
+        "label": "DAO_DAO \u0411\u044a\u043b\u0433\u0430\u0440\u0441\u043a\u0430\u0442\u0430 \u043a\u0440\u0438\u043f\u0442\u043e \u043e\u0431\u0449\u043d\u043e\u0441\u0442_cw-proposal-single",
+        "unique_wallet_interactions": 2,
+        "total_number_of_calls": 4
+    },
+    "juno100pthune25nrqh0uyerwrgaaedp92rt8cn803gcx0gnrmlxykz5qe65gkm": {
+        "label": "label",
+        "unique_wallet_interactions": 2,
+        "total_number_of_calls": 3
+    },
+    "juno1ve4p3errtjnepxmm9yuq0nvqphq6yaw5hfugq8svtxdjuvy5cmzquslxr8": {
+        "label": "label",
+        "unique_wallet_interactions": 2,
+        "total_number_of_calls": 2
+    },
+    "juno1ycrm8v2kh5juz2kulz83fgnfggtx8h7m0me0nsqwk7zdzlfsfahsacnlls": {
+        "label": "Spark IBC #1",
+        "unique_wallet_interactions": 2,
+        "total_number_of_calls": 15
+    },
+    "juno183whayvzt9smwx8f88pkfzru58ksz853hvm2zz7j9ut5vxeu477qv7prah": {
+        "label": "label",
+        "unique_wallet_interactions": 2,
+        "total_number_of_calls": 4
+    },
+    "juno15z0smy6a9k5k7vjj7dxj6h0azpxxwnrhl99vvprezg04hq0ygx9skmvmnn": {
+        "label": "DAO_Cause Less Harm DAO_cw-proposal-single",
+        "unique_wallet_interactions": 2,
+        "total_number_of_calls": 3
+    },
+    "juno176zxc2qmj9v0w74ygptr0nmww2ceyf58j09jkk8rk53crh8vd6tqc7z3kz": {
+        "label": "Cause Less Harm",
+        "unique_wallet_interactions": 2,
+        "total_number_of_calls": 4
+    },
+    "juno1tkkg2nf4equgv2060rg9ck6cvdudzpltx3z62xvvflg3txru7swq08juev": {
+        "label": "Obi Proxy",
+        "unique_wallet_interactions": 2,
+        "total_number_of_calls": 2
+    },
+    "juno1a8qfsewwmwcgh5hm24ypxnapdcz2lxp4uu3xvlz9q6hdqmxn3ttqusp3sf": {
+        "label": "Obi Test Proxy 20321",
+        "unique_wallet_interactions": 2,
+        "total_number_of_calls": 10
+    },
+    "juno1z5sxvdrlx7mgnk08hmefqkh8ljkl2443eqj5jl8p2gjx4yslvr9qc6dm8r": {
+        "label": "label",
+        "unique_wallet_interactions": 2,
+        "total_number_of_calls": 6
+    },
+    "juno1yrahlxavwr7juyrty580d24mgvmhknn6h3sgepjtkyg7udvj2l2sujdlqn": {
+        "label": "instantiate-457",
+        "unique_wallet_interactions": 2,
+        "total_number_of_calls": 2
+    },
+    "juno16pecvwqqpmh6x32vy7n9ms66rf9cmvtsucwnyu57sxq3ckzvnfmsur9nm9": {
+        "label": "DAO_test su quorum e threshold_nil_falco_cw-proposal-single",
+        "unique_wallet_interactions": 2,
+        "total_number_of_calls": 4
+    },
+    "juno1fz8jx4qhkgdrm5vm3s20n670mf872xsp2c0a6cl0yuncquzmj4jss2cfgj": {
+        "label": "new endowment cw3 multisig - 84",
+        "unique_wallet_interactions": 2,
+        "total_number_of_calls": 5
+    },
+    "juno1w3ezgr9n8e6q9cxsrfzjj0zvgnf3y3ghg5wvzms5zzz2d6tzjggqp9mhh8": {
+        "label": "label",
+        "unique_wallet_interactions": 2,
+        "total_number_of_calls": 4
+    },
+    "juno1pdk8lqh9q9989zk6ws9fsfx9ehr6unxeq3vmqx9z43vpy6slyadseqfwmj": {
+        "label": "label",
+        "unique_wallet_interactions": 2,
+        "total_number_of_calls": 3
+    },
+    "juno1j04444h6ln7n9s7vzudrvzssszzphxg2u233ml4s5s8t3agsmzwq556ztt": {
+        "label": "label",
+        "unique_wallet_interactions": 2,
+        "total_number_of_calls": 22
+    },
+    "juno1rgf366py4mplarflwphgervnnzslyz5et2hm4cg4485hx3chpsvsh9lajt": {
+        "label": "label",
+        "unique_wallet_interactions": 2,
+        "total_number_of_calls": 7
+    },
+    "juno1yrgwxmnxzm4gdd2z2hapw8xyrrjm8vtu52th72aydx67w7rwp3hqf2q86t": {
+        "label": "Juno",
+        "unique_wallet_interactions": 2,
+        "total_number_of_calls": 2
+    },
+    "juno1c7w8tfe4fmjp6u6y5y45ujrle5sqtmv6k8ktuwnc2jzaez2n9l5qggum88": {
+        "label": "Obi Proxy",
+        "unique_wallet_interactions": 2,
+        "total_number_of_calls": 2
+    },
+    "juno1zzmalhc9ekacrh2dulasd4d57stk9s9ldss4h9ku0qhwuz5ptp8sfn4jt6": {
+        "label": "Obi Test Proxy 10712",
+        "unique_wallet_interactions": 2,
+        "total_number_of_calls": 9
+    },
+    "juno1aj34qwsgtdtccwpr2smy9auevlxlndz5r6k56hdgwj7h5wtd37tqgy0hly": {
+        "label": "Obi Test Proxy 13491",
+        "unique_wallet_interactions": 2,
+        "total_number_of_calls": 9
+    },
+    "juno14pvl0rndjtguef4wr4xyhf7ad04duv09zmnzhd6xf2j3a6f299hsnkamhm": {
+        "label": "Obi Test Proxy 21602",
+        "unique_wallet_interactions": 2,
+        "total_number_of_calls": 5
+    },
+    "juno1pakdj7ll0uwm66x892l5hzgpc29wxdgy65z7d9ypl2xkr8df5qjsjt0flt": {
+        "label": "Obi Test Proxy 16117",
+        "unique_wallet_interactions": 2,
+        "total_number_of_calls": 10
+    },
+    "juno1lxqkf2vvgq3t2czqzx6klhve856apwrppe4m236yp0ngw88axncs53hhp2": {
+        "label": "Obi Test Proxy 14260",
+        "unique_wallet_interactions": 2,
+        "total_number_of_calls": 10
+    },
+    "juno1cp9zy04l7jr2zmlhdxt52902nry74ztycy696l707a7hae408xjsyr6ehj": {
+        "label": "testcontract",
+        "unique_wallet_interactions": 2,
+        "total_number_of_calls": 3
+    },
+    "juno1uv2fjxy5748kh04xtr6tcz05xauq9j9kgawnjq7xkg5vefuf0g4ss399pu": {
+        "label": "White Whale proposal module",
+        "unique_wallet_interactions": 2,
+        "total_number_of_calls": 3
+    },
+    "juno1hsce5zez4n0l02h44edam08ke40d89du7p02pqk3hcdg37c8fh4sjaqxzk": {
+        "label": "Obi Test Proxy 24796",
+        "unique_wallet_interactions": 2,
+        "total_number_of_calls": 10
+    },
+    "juno173h9ssqm3xzhms9kcp6fz7fvl8mlq9arj045uh9hqh4vdt9sh6yswllkam": {
+        "label": "test",
+        "unique_wallet_interactions": 1,
+        "total_number_of_calls": 1917
+    },
+    "juno1ls55sj2u8n6750y7677xph9xm7m46qc26045pcrjlsq0wq3g2z9qa0f5vr": {
+        "label": "RAW-STAKING-REWARDS",
+        "unique_wallet_interactions": 1,
+        "total_number_of_calls": 1130
+    },
+    "juno14vz7cph8c5m9an2qyrz2hjxec4rl8zjh3g8mt3hwhnanmt70rurqwvun6h": {
+        "label": "Obi Proxy",
+        "unique_wallet_interactions": 1,
+        "total_number_of_calls": 4
+    },
+    "juno128e9qnvd3zzy2uyusxqa7sluu9gq3vvnj83ghghp47zyz622pl8qsrypr2": {
+        "label": "Obi Proxy",
+        "unique_wallet_interactions": 1,
+        "total_number_of_calls": 7
+    },
+    "juno1flh4lepax9a33ahu2kplekrvfpsm3nhkvwmwypu7llwma24q8y7sxsu355": {
+        "label": "Obi Proxy",
+        "unique_wallet_interactions": 1,
+        "total_number_of_calls": 5
+    },
+    "juno1ctqfckj7zvw30j0s5ygvqx9sqya6mj798wv0ckg7kv5tfacu7k6s3vxzaj": {
+        "label": "Obi Proxy",
+        "unique_wallet_interactions": 1,
+        "total_number_of_calls": 3
+    },
+    "juno1rwd9qgjw940f7utwd4652skleg0j5mhmmt0w0ajt8m83hhpp9vzqdjhwht": {
+        "label": "Obi Proxy",
+        "unique_wallet_interactions": 1,
+        "total_number_of_calls": 3
+    },
+    "juno1fd05y0j0dfvh4drysnjzzcrvvunu2scnde4ekahfpjzmrxz7v2ks2538fp": {
+        "label": "Obi Proxy",
+        "unique_wallet_interactions": 1,
+        "total_number_of_calls": 3
+    },
+    "juno19wvw6x5s4vrmdhsmf7pa3hgjzuaemchgkxhx672sn4hlqnxqqdmsg8u8z8": {
+        "label": "Obi Proxy",
+        "unique_wallet_interactions": 1,
+        "total_number_of_calls": 12
+    },
+    "juno15g2ha5c60468j9t8ejnywv3zzeh6z4xenh20v86ltv2mht95d5sqjf7smp": {
+        "label": "Obi Proxy",
+        "unique_wallet_interactions": 1,
+        "total_number_of_calls": 6
+    },
+    "juno17yc9u7lg7qr7pw2wrltx0rtdeklmpaw2ehgewrt0kz2umf3ud8ksnfhdmj": {
+        "label": "HOLIO Test token",
+        "unique_wallet_interactions": 1,
+        "total_number_of_calls": 1
+    },
+    "juno1ylcsfn822pkq493y648659ltq86hj63myjt57xcerzxntjgw6rwsjz8pcj": {
+        "label": "Obi Proxy",
+        "unique_wallet_interactions": 1,
+        "total_number_of_calls": 4
+    },
+    "juno10m2pchp3fnk43j6md4597geyg80fdhx5pj0cyhx2vnj6f5exxfuqc6adkr": {
+        "label": "Obi Proxy",
+        "unique_wallet_interactions": 1,
+        "total_number_of_calls": 1
+    },
+    "juno1zg0sdndn0929r8azae7sxt7styvedsraxfqdaj2kf05cp43m6cyqf0l9rh": {
+        "label": "Obi Proxy",
+        "unique_wallet_interactions": 1,
+        "total_number_of_calls": 7
+    },
+    "juno1h582md0qcz4jl8usq6mp0phpdukfx5nmarkcckdunevvgchhdhcqdfx8sn": {
+        "label": "Obi Proxy",
+        "unique_wallet_interactions": 1,
+        "total_number_of_calls": 5
+    },
+    "juno1x7rqctksullsv9l0ja6k8hklw76e2m8ns4g30wy264rz59zeuydsuwpaz6": {
+        "label": "Obi Proxy",
+        "unique_wallet_interactions": 1,
+        "total_number_of_calls": 15
+    },
+    "juno15ncxzvjaj2nvawdw26mmp3kxrtt449fl3dtzu5yh47p00nfa8umsmjtgfn": {
+        "label": "Obi Proxy",
+        "unique_wallet_interactions": 1,
+        "total_number_of_calls": 4
+    },
+    "juno1vhp7m97ea3sajx5fwgltmvy6rkjc9l5ap9jke4ej5ff399qek32swqsyn4": {
+        "label": "Obi Proxy",
+        "unique_wallet_interactions": 1,
+        "total_number_of_calls": 5
+    },
+    "juno1yu7s35r3e43j635c7wxfev9876tvfpjf6n5803dwu6e3z8qrmvzshwk075": {
+        "label": "WYND DAO Reward Distribution",
+        "unique_wallet_interactions": 1,
+        "total_number_of_calls": 433
+    },
+    "juno1djgj9kma8nrcl6f80an9jlk33w9m902ea4mrk77p65zx4vpuluyq7s9xez": {
+        "label": "Obi Proxy",
+        "unique_wallet_interactions": 1,
+        "total_number_of_calls": 8
+    },
+    "juno1pjghstx9z0t4ykhc094qgg24jy64fuhzwmf73mm92pd2u2e3tt7sph45ze": {
+        "label": "DAO_modeun_review_cw-proposal-single",
+        "unique_wallet_interactions": 1,
+        "total_number_of_calls": 5
+    },
+    "juno1kl8su820apu63la7tukpcw9c2vpj7etfljhg7ysjxtmyk788a79szykmjv": {
+        "label": "Review",
+        "unique_wallet_interactions": 1,
+        "total_number_of_calls": 3
+    },
+    "juno14qmrretdavjr33ze9r7eyal0ngajedwka7n27kz3htha6t0vfezsdfdxsf": {
+        "label": "Obi Proxy",
+        "unique_wallet_interactions": 1,
+        "total_number_of_calls": 8
+    },
+    "juno16j3qlxc5jey52agq8gku2wkzzrt9a7wvnrm9hxkje9wqm4rqvvysw0346f": {
+        "label": "Obi Proxy",
+        "unique_wallet_interactions": 1,
+        "total_number_of_calls": 4
+    },
+    "juno1e5p0kylsmchnjhu0yy4jg0y8srn6px4xnph4ur0t78059pw07nvsclvthf": {
+        "label": "Obi Proxy",
+        "unique_wallet_interactions": 1,
+        "total_number_of_calls": 1
+    },
+    "juno1y22pt85jpqz8l8vtsqxv6eetjpd5fnxxjdjtsygzguuafpylhzrsa5deup": {
+        "label": "Obi Proxy",
+        "unique_wallet_interactions": 1,
+        "total_number_of_calls": 1
+    },
+    "juno1k7nwfd4xdytfrjdwsqrrqmasc7kvyyr9g92wnvyt2gk3z75zt07q3gfya9": {
+        "label": "Obi Proxy",
+        "unique_wallet_interactions": 1,
+        "total_number_of_calls": 4
+    },
+    "juno1umsgxnu5lmzuu7xxv6ry3ey0zj0smpgmkwgp8x53f5z8yv2kep9skd5vzd": {
+        "label": "Obi Proxy",
+        "unique_wallet_interactions": 1,
+        "total_number_of_calls": 12
+    },
+    "juno1fquzufhtmcl4eg76g2mnmegj30adaf7rjkzx04xhl8w2pldrnxgsnzyvx4": {
+        "label": "Obi Proxy",
+        "unique_wallet_interactions": 1,
+        "total_number_of_calls": 2
+    },
+    "juno1rl7dqpl937upuyywrjrlhvv4a4p8c4ve37l46gf39gs6hrnlq48q0atjnc": {
+        "label": "Obi Proxy",
+        "unique_wallet_interactions": 1,
+        "total_number_of_calls": 7
+    },
+    "juno1gxjgp4la2ysvuxwvpzz2wryszszfcrcx70c8zkx6fdqumwtcgztq05vdqc": {
+        "label": "cw-croncat-manager",
+        "unique_wallet_interactions": 1,
+        "total_number_of_calls": 1
+    },
+    "juno1eaxh3kywr8k2qmx7p4adrddvuh5xa0es3cafadvtptg22lg87krq9snu4f": {
+        "label": "Obi Proxy",
+        "unique_wallet_interactions": 1,
+        "total_number_of_calls": 2
+    },
+    "juno1sk0sqps8cfl4w3hf65eq5q93kqw6a92jyx603warqd5fmqpy69ssn8hhxm": {
+        "label": "Obi Proxy",
+        "unique_wallet_interactions": 1,
+        "total_number_of_calls": 1
+    },
+    "juno1nuezc324djpt66k8u4rgquznzvz3k0hwzxq7f2a3r3uwl2vgz04q6dwyh7": {
+        "label": "Abstract OS: 12",
+        "unique_wallet_interactions": 1,
+        "total_number_of_calls": 13
+    },
+    "juno1fuxqkymwvh305h2vskremzrtt022mlv38z9eyn3faulrgk0w5lastwcm9f": {
+        "label": "JunoTools CW721 Base Contract",
+        "unique_wallet_interactions": 1,
+        "total_number_of_calls": 1
+    },
+    "juno184346ms6yxcj8hmxtvyrk6jlyxjrjr578zlkczsvx3hdpz4mu34s2d4qs0": {
+        "label": "Obi Proxy",
+        "unique_wallet_interactions": 1,
+        "total_number_of_calls": 51
+    },
+    "juno1dglj390xqg0hvedr4f222exv9wzst2u4tfh83ujdwveurxlcq0rsqmxy4p": {
+        "label": " a",
+        "unique_wallet_interactions": 1,
+        "total_number_of_calls": 2
+    },
+    "juno1hv8ywlum4t4zw4c5ecrz85q998lt33wku69hjqarndumtht072lsrua7mw": {
+        "label": " ",
+        "unique_wallet_interactions": 1,
+        "total_number_of_calls": 10
+    },
+    "juno1sad7hk5lq04gw5jnfsemuljhqzzsdfjjcc6w6gkz5fgj2ms3pgmquvhuj0": {
+        "label": "some_label",
+        "unique_wallet_interactions": 1,
+        "total_number_of_calls": 1
+    },
+    "juno1p4nd3geqz8rp8x627yslsl06slehnrs5phezv9rlekd072jvznpqqdafj2": {
+        "label": "some_label",
+        "unique_wallet_interactions": 1,
+        "total_number_of_calls": 3
+    },
+    "juno1d5jqnnh6juc9haf8pxtvkuck4gkqqqttnngu7ep7w82vevtkr8vqnknsdn": {
+        "label": "pBLOCK",
+        "unique_wallet_interactions": 1,
+        "total_number_of_calls": 1
+    },
+    "juno1hj95z6jwxvdvylnqhf0qwka32e8vdq07mprcp9zs9qzqjmleqspqyz24ue": {
+        "label": "some_label",
+        "unique_wallet_interactions": 1,
+        "total_number_of_calls": 1
+    },
+    "juno14c586vffqstjjk89y9vedc5qlw93l37e34vfclswv7pftddsfrwqg60j25": {
+        "label": "Blockchain RD",
+        "unique_wallet_interactions": 1,
+        "total_number_of_calls": 2
+    },
+    "juno15q5jygdygy3teckavrh86379wc7ddfc6zxrm5qfywsxf7wp7vj2qy0m0yz": {
+        "label": "BlockchainRD",
+        "unique_wallet_interactions": 1,
+        "total_number_of_calls": 1
+    },
+    "juno1p7tppz9340yhf8k8u6mztwp73mxlgumskvn8cfgpkmepku935z9qaualxl": {
+        "label": "instantiate-v2 endowment cw3 multisig - 77",
+        "unique_wallet_interactions": 1,
+        "total_number_of_calls": 39
+    },
+    "juno18xp59u280vd9qx53dvwf6r0tftfzs7g2l64yh0g2n9d4zezgzc3sq9s7pz": {
+        "label": "DAO_Frog Land_cw-proposal-single",
+        "unique_wallet_interactions": 1,
+        "total_number_of_calls": 9
+    },
+    "juno1lh5r6hqfskpphemhrtwhht9cpxcg4v36a42smydd308qwvvv9q8qy8a0e0": {
+        "label": "Vesting and Distribution",
+        "unique_wallet_interactions": 1,
+        "total_number_of_calls": 4
+    },
+    "juno17cya4sw72h4886zsm2lk3udxaw5m8ssgpsl6nd6xl6a4ukepdgkqeuv99x": {
+        "label": "Eris Liquid Staking Hub",
+        "unique_wallet_interactions": 1,
+        "total_number_of_calls": 1
+    },
+    "juno1tys3384wr4zafgs4z8y29wegf8dp9f7l93j0mmzykmyvccx5tu0svnky4e": {
+        "label": "label",
+        "unique_wallet_interactions": 1,
+        "total_number_of_calls": 10
+    },
+    "juno12ekw6wkdgkw2x7pwt66yp3whcshvltrfat0yf709nddknpr2zvzqtu4ha3": {
+        "label": "iCosmosDAO",
+        "unique_wallet_interactions": 1,
+        "total_number_of_calls": 1
+    },
+    "juno1vpe9qwvgayng8puyngcxdt8ldumerj78euzqjdp3yuja0uqh30xsqkrzgv": {
+        "label": "label",
+        "unique_wallet_interactions": 1,
+        "total_number_of_calls": 5
+    },
+    "juno1fjjjus7wfad5r54vtsyzwcyd2tkmzetx9puccc9nmndt6n732sxscs709n": {
+        "label": "label",
+        "unique_wallet_interactions": 1,
+        "total_number_of_calls": 3
+    },
+    "juno12gv53vx4dv9eaacerxwnlvtax8d8u0p3qf8l7r5c9zqu0f0yww7sgyy24k": {
+        "label": "label",
+        "unique_wallet_interactions": 1,
+        "total_number_of_calls": 1
+    },
+    "juno1skdr56wdg8fd89lgshnmpmse0xa0mxtvkd57lgtnsr5fc5zrcqasfysqld": {
+        "label": "label",
+        "unique_wallet_interactions": 1,
+        "total_number_of_calls": 1
+    },
+    "juno1h56xqpmknv6yaazpy9frl3j3en47lmttm060td6uzu9zh2dh5a2stmd6gv": {
+        "label": "Obi Proxy",
+        "unique_wallet_interactions": 1,
+        "total_number_of_calls": 5
+    },
+    "juno1kjcn6ggq4sdh4gkjj9kzefxn0nh6f887ly7fghwx6nyjv3c9l3hqztqxu5": {
+        "label": "DAO_Juno Bitcoin_cw-proposal-single",
+        "unique_wallet_interactions": 1,
+        "total_number_of_calls": 2
+    },
+    "juno159dspqjj83uryk794aqfe0dqwp3ufp4f7acnn0xdk6dtxshtsmvslhdr85": {
+        "label": "Juno Bitcoin",
+        "unique_wallet_interactions": 1,
+        "total_number_of_calls": 2
+    },
+    "juno1yr0g6xt4r2ayq8alsmf8uurnxew7p0nc9q7lu9vat0ky3p5mrh9sxtl5zc": {
+        "label": "Obi Proxy",
+        "unique_wallet_interactions": 1,
+        "total_number_of_calls": 2
+    },
+    "juno1luly38gu0gqcepxql6tfe3qqlzla6sdrd9zqcs5f0ky0dftsjttswn6w5m": {
+        "label": "DAO_drugs_cw-proposal-single",
+        "unique_wallet_interactions": 1,
+        "total_number_of_calls": 1
+    },
+    "juno17tx0l99n3ckjgrqlnlq4pwuw2rqa2vvnr750kpzj27chm95tdpgsy8d7u6": {
+        "label": "dao_CoinDex_staking_contract",
+        "unique_wallet_interactions": 1,
+        "total_number_of_calls": 1
+    },
+    "juno16xy0my802eaq46tqg2egvymatszud4achrlgpwr59uveycpk5wvqn3x9su": {
+        "label": "Portfolio",
+        "unique_wallet_interactions": 1,
+        "total_number_of_calls": 2
+    },
+    "juno1qa7vdlm6zgq3radal5sltyl4t4qd32feug9qs50kcxda46q230pqzny48s": {
+        "label": "White Whale Vault Router",
+        "unique_wallet_interactions": 1,
+        "total_number_of_calls": 10
+    },
+    "juno1xhdaxsmz3yaxckgz0wesm2ury3q2savjayhj5ehx2tlwx9meha0szmr822": {
+        "label": "DAO_Multisig test creation_cw-proposal-single",
+        "unique_wallet_interactions": 1,
+        "total_number_of_calls": 2
+    },
+    "juno1sn5xjea5d7km8dumxay8redk6kgpa7lnw4n57akckdy6e2lgz5jsu5p4px": {
+        "label": "DAO_TestDao_cw-proposal-single",
+        "unique_wallet_interactions": 1,
+        "total_number_of_calls": 2
+    },
+    "juno1av2af7aynlyvmmz72exau2hs67nf7el8ksfya6vfxfa4u7exqelqy8vxgp": {
+        "label": "TestD",
+        "unique_wallet_interactions": 1,
+        "total_number_of_calls": 2
+    },
+    "juno1vyqzx8s3wp9tzvm98aq7tda6uwcqc6q93resya9sxawfmm9vje9q473nay": {
+        "label": "Test-cosmic-sky-monks-nft-minter",
+        "unique_wallet_interactions": 1,
+        "total_number_of_calls": 169
+    },
+    "juno1qdnkksulrwp6f0d3f905gxfjxke7klcslu4r3fs66j6ky65sgsmq3z46g9": {
+        "label": "KIDA",
+        "unique_wallet_interactions": 1,
+        "total_number_of_calls": 2
+    },
+    "juno1q7uafqrvawr7sscrsc7uyx399vrgq9sd8fjvk86zlz5putja88yss3q2uh": {
+        "label": "Obi Proxy",
+        "unique_wallet_interactions": 1,
+        "total_number_of_calls": 3
+    },
+    "juno1lnqhfvgr9x2u40z4d4u5ezep6cxk2kq7agd33evmjl5lfuwr52kszp0y57": {
+        "label": "HOT & COLD FINANCE",
+        "unique_wallet_interactions": 1,
+        "total_number_of_calls": 1
+    },
+    "juno17r3sz5f4wapr75zycgcauy9jcnfl20nmk89fak5j5j3z404agzhs80fa3y": {
+        "label": "Cry DAO",
+        "unique_wallet_interactions": 1,
+        "total_number_of_calls": 1
+    },
+    "juno1r84qytkqkd8ppe25kr29y733xc3hf5jm662h9n2retyr5fws3ghqkcre56": {
+        "label": "Obi Proxy",
+        "unique_wallet_interactions": 1,
+        "total_number_of_calls": 7
+    },
+    "juno1rdyv4kvplv07v38tp8t04d8zpnmwefwt50xy8ecmalfq3ednwspsyzynwq": {
+        "label": "uzst",
+        "unique_wallet_interactions": 1,
+        "total_number_of_calls": 3
+    },
+    "juno1s8xlzh4svyk2dvmsfwxy8g95485u5m2sefrfgh2fywp0l6942rkszaj6m8": {
+        "label": "DAO_Test Dao ;)_cw-proposal-single",
+        "unique_wallet_interactions": 1,
+        "total_number_of_calls": 2
+    },
+    "juno1qnfsrwx4c0qnvcnscwm7r55nxr8rpfckq6v8yvuvg7zuqj0uk2hsrssj2n": {
+        "label": "White Whale Vault Factory",
+        "unique_wallet_interactions": 1,
+        "total_number_of_calls": 5
+    },
+    "juno1m5yvjl5wesgexqulhvxak9k7y4xuagm3xxw8aar25y6gx3t9vz3qkxhq3c": {
+        "label": "label",
+        "unique_wallet_interactions": 1,
+        "total_number_of_calls": 56
+    },
+    "juno13ves8f8u24z4sqwa34sx9z50u9v8vfvsqusy5xc8tl3f2pf9uelspjvk7t": {
+        "label": "Juno-Muse lp staking",
+        "unique_wallet_interactions": 1,
+        "total_number_of_calls": 2
+    },
+    "juno1jdrrf7pq0w6pnmtfrfq3ux4ydkdkrs9qahg3n8rv2ehxtmqcazdqr2fdsk": {
+        "label": "Obi Proxy",
+        "unique_wallet_interactions": 1,
+        "total_number_of_calls": 9
+    },
+    "juno1xjg52fu7w3efchwdsrp26p6hfkwtfr8hx75yuz5ndepz7fvlp7wsnnmxku": {
+        "label": "Sasuke",
+        "unique_wallet_interactions": 1,
+        "total_number_of_calls": 5
+    },
+    "juno1te3lafkrfegkxvu4re4t30nf6w7gn53qjn58e7uuvjwsfe947nlsk2zs8l": {
+        "label": "arb",
+        "unique_wallet_interactions": 1,
+        "total_number_of_calls": 4
+    },
+    "juno1053hrg7eq2qdlamplqvt0r7sq6zzdrsw3073vuxy48ju08e40jlq5sl2gr": {
+        "label": "yihui",
+        "unique_wallet_interactions": 1,
+        "total_number_of_calls": 1
+    },
+    "juno13ygmj0rjjj8clkdpa2p2taclg7zlc4mt2f6ut8xawde7w8vuh58q97u5gu": {
+        "label": "sunnyside-island-nft-minter",
+        "unique_wallet_interactions": 1,
+        "total_number_of_calls": 669
+    },
+    "juno160z8mk4xm6maywsa8ctn8t38l826p3pzvet5l8hwhl83v2ymlv9qjjhkh6": {
+        "label": "MDAO - JunoMint.com by EZStaking.io",
+        "unique_wallet_interactions": 1,
+        "total_number_of_calls": 2
+    },
+    "juno1n4gca9zhv793tqvj4hcatsynqa8wzqv6ms9kfve50yeg08p6j2ns9kyc0r": {
+        "label": "Mdao_staking for reward",
+        "unique_wallet_interactions": 1,
+        "total_number_of_calls": 3
+    },
+    "juno1f0hj5jh2dpdvjjzhpmnjnhqdl7m06z6rc229hwdnurjxgat5uunqpeyuj7": {
+        "label": "DAO_Mago Test_cw-proposal-single",
+        "unique_wallet_interactions": 1,
+        "total_number_of_calls": 2
+    },
+    "juno1caqr5sr6ujp2n25a89hnh4sw2nxqwwhusmtnm9tcgehw3pr53qtq96kazh": {
+        "label": "vault",
+        "unique_wallet_interactions": 1,
+        "total_number_of_calls": 37
+    },
+    "juno177z9k42m7x6wxe7y8uxntrzgqgqlwx3en282gkv6dp6rqwd2cnms76era0": {
+        "label": "Probe Service",
+        "unique_wallet_interactions": 1,
+        "total_number_of_calls": 138
+    },
+    "juno1cse858922rz9560ynstwj48jjj5u5768szx9fqmpcxk4xmrhkuvqp52prk": {
+        "label": "Juno-Muse lp staking",
+        "unique_wallet_interactions": 1,
+        "total_number_of_calls": 2
+    },
+    "juno1jquy3mhwnk24ft8q0tna8cw66vzqa4u4h9t9gtvrrh39tald8egsdyfj42": {
+        "label": "juno1y0th8xeff5jj5q4a78fwne93rde25ykc9jj8aj0hckjvjwq3980qkk7mdt",
+        "unique_wallet_interactions": 1,
+        "total_number_of_calls": 1
+    },
+    "juno1ms8lys6enh08xf4ehdys9x8ay28xmn4nl26za6epqsaraym433dsxfuwqm": {
+        "label": "label",
+        "unique_wallet_interactions": 1,
+        "total_number_of_calls": 1
+    },
+    "juno1agkye8hp835gm80pa2v880zy955xcl6m4ge73zslxhv3wzhy5rsq8htjte": {
+        "label": "label",
+        "unique_wallet_interactions": 1,
+        "total_number_of_calls": 3
+    },
+    "juno1fljcvxev7jlvsv2s7qejn9v9zz23cugaptmnppq985c9cuwwjmqqytncrs": {
+        "label": "juno1vk0mjlvq5pdrc4nfk9gzwcvd2mw9kdxf2jn79jucrsfhlspkjl2s9s3yy8",
+        "unique_wallet_interactions": 1,
+        "total_number_of_calls": 1
+    },
+    "juno1848zg7hk7v7w2s5u6jwfrg2hm4vq7vwvfhydt9l5wx6lnhgs0acs0rkrx4": {
+        "label": "Obi Test Proxy 15571",
+        "unique_wallet_interactions": 1,
+        "total_number_of_calls": 4
+    },
+    "juno1sae4p8crnac0h9m27psn205d6k586f7cnm4eshws623v05g95teqvj2s8q": {
+        "label": "instantiate-156",
+        "unique_wallet_interactions": 1,
+        "total_number_of_calls": 170
+    },
+    "juno10sddzs2dkwa4dmd3rjna67rtc646wypxx7rqr3634geq9rwy379su74g72": {
+        "label": "Obi Proxy",
+        "unique_wallet_interactions": 1,
+        "total_number_of_calls": 9
+    },
+    "juno1qr3xxchus8gdh38kukukzcn4a59k9zc6ejuqre5a7p20tv365y7q05gqyk": {
+        "label": "GOI Token",
+        "unique_wallet_interactions": 1,
+        "total_number_of_calls": 1
+    },
+    "juno1pdhxxgg8pstez89vlaluj7y3rt2sk9qm7qup2rck5mu8j2uevs4q48w8er": {
+        "label": "DAO_Hakma Body DAO_cw-proposal-single",
+        "unique_wallet_interactions": 1,
+        "total_number_of_calls": 2
+    },
+    "juno12mx6rtuy4wxkqmlnhxq674f2t0qu29hj325n6jew5qn48w0dx6mqpfgqfn": {
+        "label": "Hakma Coin ",
+        "unique_wallet_interactions": 1,
+        "total_number_of_calls": 2
+    },
+    "juno1358spsx5k9fu5szf9vaj0q8gwq5ga2xy7culp0y0rdxq3h20nfvst5hurn": {
+        "label": "Juno the Protector",
+        "unique_wallet_interactions": 1,
+        "total_number_of_calls": 1
+    },
+    "juno1lkv72wruk6m39a2j4ps036hzxyhjccwncgfzzcaqxuwndg5x0ghqa8mrhg": {
+        "label": "SynergyNodes.com cw20-ics20",
+        "unique_wallet_interactions": 1,
+        "total_number_of_calls": 1
+    },
+    "juno1yt72hmd8m5yf5k0xahdws9nz3rkxxcwvrj20qfzlk9lgrhghzjnq2esgz8": {
+        "label": " ",
+        "unique_wallet_interactions": 1,
+        "total_number_of_calls": 1
+    },
+    "juno1ujr67sjn464nz3czyvftu4jng708rn9vp755p6nt62ps74a3klls96chk7": {
+        "label": " ",
+        "unique_wallet_interactions": 1,
+        "total_number_of_calls": 9
+    },
+    "juno1mvpquzcu9e0fzs4sy3mx9vx3n0h9zphjh2xh6u3m50a8jt93htfslt7u8q": {
+        "label": " ",
+        "unique_wallet_interactions": 1,
+        "total_number_of_calls": 122
+    },
+    "juno1pkt7nap94lrtswtvgm5g9f4s2vzkznpegdejmn85tm9ad687nrtqzu6ynf": {
+        "label": "label",
+        "unique_wallet_interactions": 1,
+        "total_number_of_calls": 1
+    },
+    "juno1fkejwm7alyfnjngtpgtxvreqfcz8uwer2jgwjn40suvgq20tm8ss73cj05": {
+        "label": "ibc/C4CF...19F9-ibc/107D...5CBF-LP",
+        "unique_wallet_interactions": 1,
+        "total_number_of_calls": 6
+    },
+    "juno16e0q02ykmjx5k6hagtredc5ctcvxjwzugz3qemx87jrqg9fr6l5qulg3tt": {
+        "label": "label",
+        "unique_wallet_interactions": 1,
+        "total_number_of_calls": 7
+    },
+    "juno1huxp8waf2rdte0p89nwpzdkalc7zwvkgfyuxrqwcrj9ewzlgsjmswr2cvh": {
+        "label": "Digital Land Acquistion ",
+        "unique_wallet_interactions": 1,
+        "total_number_of_calls": 1
+    },
+    "juno1ttk30ura2p79l7tu7n2ayltl8sfr2pzkmn52a7hnrrzf5w8tvewqlqkqq0": {
+        "label": "My Argonaut",
+        "unique_wallet_interactions": 1,
+        "total_number_of_calls": 1
+    },
+    "juno1zua8zy3f3luzvj6pwdc0ule8ds64peeu80fpsy4pnuhjqs584zyqrq0l90": {
+        "label": "NEARHOLDERS1040",
+        "unique_wallet_interactions": 1,
+        "total_number_of_calls": 8
+    },
+    "juno12ej06eyes8ttqpkqvx0hjexxk8ju0c2794ar0akrt2anyrp83a5szxhpu6": {
+        "label": "Atlas DAO",
+        "unique_wallet_interactions": 1,
+        "total_number_of_calls": 1
+    },
+    "juno134fvz0qzumrxhh9xvtapnvtlq4nzrg7dxt0yts3guzwnjw7lu2zqdhzx0j": {
+        "label": "Portfolio",
+        "unique_wallet_interactions": 1,
+        "total_number_of_calls": 7
+    },
+    "juno1n04trzpecszvxna0qas34h9nys4slq8wtuxczl6fecx5rlsstuzqws6suc": {
+        "label": "DAO_Infra Square_cw-proposal-single",
+        "unique_wallet_interactions": 1,
+        "total_number_of_calls": 13
+    },
+    "juno1elmkk77yul63ryakx5dypvlv7rg85g6ephtjue3uvxa406uey6jqp2r5cx": {
+        "label": "gelotto Gelotto Micro Brew lottery",
+        "unique_wallet_interactions": 1,
+        "total_number_of_calls": 1
+    },
+    "juno1gz2la4a6z0gr0tmyeudge4pvn38s8nwh0r9egu8zmn2jk4v04cws4wjm3y": {
+        "label": "Obi Proxy",
+        "unique_wallet_interactions": 1,
+        "total_number_of_calls": 4
+    },
+    "juno15fqy2a7e3zehx9cmvcqae9e63f7z682dskedp7ks5twa2a83htwqj336uj": {
+        "label": "DAO_Fuegos Dao_cw-proposal-single",
+        "unique_wallet_interactions": 1,
+        "total_number_of_calls": 6
+    },
+    "juno170rh6yj5y04shx8t03cedphrj0sktsn9v4e0v33uz8rsw4z04vast8twd5": {
+        "label": "test",
+        "unique_wallet_interactions": 1,
+        "total_number_of_calls": 1
+    },
+    "juno1r3eq2y8chlw4ws4n3pxc29y8fkspaudsj34gw70js3a2umsje7dsvkaksv": {
+        "label": "Obi Proxy",
+        "unique_wallet_interactions": 1,
+        "total_number_of_calls": 2
+    },
+    "juno1je2zf37r2dv3qa3y4ct4qffhzgl0t5zvzcm8du8f9z5q9jtqtpxshzyr7n": {
+        "label": "Obi Proxy",
+        "unique_wallet_interactions": 1,
+        "total_number_of_calls": 32
+    },
+    "juno1uwsl2akys23ghv7rd52a4zafwx06k6vhpfpt3qs6cqsml6mgpekse6sk5w": {
+        "label": "Obi Proxy",
+        "unique_wallet_interactions": 1,
+        "total_number_of_calls": 11
+    },
+    "juno185877ee4pnj9nqru00jm0p96dcaqwt3rac8fhg8t9s3cavkx6uzq3gqhe4": {
+        "label": "Obi Proxy",
+        "unique_wallet_interactions": 1,
+        "total_number_of_calls": 2
+    },
+    "juno1jg2z0frzvlnys8lujfhz8fgq7rymxupq0pfhj4zkvfs08m6h5dms5dpy4u": {
+        "label": "label",
+        "unique_wallet_interactions": 1,
+        "total_number_of_calls": 4
+    },
+    "juno18ly8jz5ta5k08p34pcysqpxd23v9xhyauqzxyl94g4449mqszreqqxafhs": {
+        "label": "JunoTools CW721 Base Contract",
+        "unique_wallet_interactions": 1,
+        "total_number_of_calls": 1
+    },
+    "juno1s4094gv5yf4v64wzmp5k9d3809mdld6yaygfykstdsgptup08vfq87eluq": {
+        "label": "instantiate-v2 endowment cw3 multisig - 75",
+        "unique_wallet_interactions": 1,
+        "total_number_of_calls": 1
+    },
+    "juno1rrrukluu8xn3fsaazjnaqqx4wrefceygtj7msx7t5hyke756lp4s3swrvc": {
+        "label": "Vesting and Distribution",
+        "unique_wallet_interactions": 1,
+        "total_number_of_calls": 1
+    },
+    "juno1fhal4ztd8w8rjmlts9zh9expjwz75l0ywhsxppgttz4t33lzwkuqcjnr2z": {
+        "label": "CDGS Juno Talis Metaverse Warriors",
+        "unique_wallet_interactions": 1,
+        "total_number_of_calls": 29
+    },
+    "juno18q7ctzzjdsezjnm9ldy9wgy2943ye52aecqa22jnafevqerp9g9saw7xnc": {
+        "label": "CanaDAO",
+        "unique_wallet_interactions": 1,
+        "total_number_of_calls": 1
+    },
+    "juno10fpud2y0pehg5ny8sa4qdjep8p9d39k0tm4lkhgwcegdnfcnafpq3pmku8": {
+        "label": "Durak DAO",
+        "unique_wallet_interactions": 1,
+        "total_number_of_calls": 1
+    },
+    "juno1gpalwpa0pvh8xkq487500ha45up57pt2w7jtryp2v0ynhh2lxhtqhm7x0p": {
+        "label": "new endowment cw3 multisig - 25",
+        "unique_wallet_interactions": 1,
+        "total_number_of_calls": 3
+    },
+    "juno15fzqzyjxvlv8u00eukwex0glcsth2e02paxu29ehc5fsw2eyrkzqwrssse": {
+        "label": "ChimbaDAO Token",
+        "unique_wallet_interactions": 1,
+        "total_number_of_calls": 9
+    },
+    "juno1rvqkcup0rrwdc3gm0letcdevdf03k4jrx5q6h4qkhs4rmn5w8kpsdvnhz7": {
+        "label": "Abstract OS: 9",
+        "unique_wallet_interactions": 1,
+        "total_number_of_calls": 6
+    },
+    "juno1clyme345kmxah4c6u35lu9dlefh6pyex2av6q9s23al8248erqpq2h8dhz": {
+        "label": "NEARHOLDERS1032",
+        "unique_wallet_interactions": 1,
+        "total_number_of_calls": 1
+    },
+    "juno1m9nqnu0y7na97msy3fhdz8y6jdcvhmh7kjajx568fpln9gwaawpspynrfe": {
+        "label": "DAO_Juno Bear Society_cw-proposal-single",
+        "unique_wallet_interactions": 1,
+        "total_number_of_calls": 10
+    },
+    "juno13hpnxew4k63cwew5dms3xdqerzph9spza32y94n7r505xpee4scsus7j25": {
+        "label": "junopunks minter",
+        "unique_wallet_interactions": 1,
+        "total_number_of_calls": 1
+    },
+    "juno122fxw2mq2t5sla4vgal2fyzwhhvj6j8w6llwzaay5mp0p79tsu8s8z2veq": {
+        "label": "label",
+        "unique_wallet_interactions": 1,
+        "total_number_of_calls": 1
+    },
+    "juno1aynh995hjyjvyc7w9desh95k5fgw7depdaual0phyfe7rzy7tyms4mr8p2": {
+        "label": "label",
+        "unique_wallet_interactions": 1,
+        "total_number_of_calls": 6
+    },
+    "juno1hdffvz0r63s3t29twa03e9lfcqs5l6376r43cuf2zdhynd08p7ys8d0y63": {
+        "label": "Loop Protocol Staking",
+        "unique_wallet_interactions": 1,
+        "total_number_of_calls": 11
+    },
+    "juno1d7lm8yydzyk03z6jkszqa839zfk5vgczw9qrvu3ler82wmxqmansdanfnw": {
+        "label": "label",
+        "unique_wallet_interactions": 1,
+        "total_number_of_calls": 1
+    },
+    "juno15wmpgh2vyed2n8qc67gw68ljrqavl569cfpnc6zg2p8n9sj5e56qv6lkl2": {
+        "label": "instantiate-v2 endowment cw3 multisig - 34",
+        "unique_wallet_interactions": 1,
+        "total_number_of_calls": 3
+    },
+    "juno1qfv99mdcxpe5pv4utfc8zssfuqsms6f7xq2h7led4w79ww80wajqtmef36": {
+        "label": "DAO_ART_cw-proposal-single",
+        "unique_wallet_interactions": 1,
+        "total_number_of_calls": 17
+    },
+    "juno1pc0958n9pv4758l2u7hqekk8xh5l9nk4tnkhnz94kr8ecpkf5ttsleawrl": {
+        "label": "Obi Proxy",
+        "unique_wallet_interactions": 1,
+        "total_number_of_calls": 2
+    },
+    "juno15uwc7fkh8s5l26wahvhhhlp2um8d3lm8v6p5pgxpdyvrnegzczmssp2mt0": {
+        "label": "DAO_Testing DAO_cw-proposal-single",
+        "unique_wallet_interactions": 1,
+        "total_number_of_calls": 4
+    },
+    "juno160n90rv0fkcp03cr7k56nsk2ujhdfh2wu0gykxflfdclcqfff9uqajmyqs": {
+        "label": "DAO_Testing DAO 2_cw-proposal-single",
+        "unique_wallet_interactions": 1,
+        "total_number_of_calls": 3
+    },
+    "juno16rlg2qr5sunaq7hntz6ursl7h4sfnyywutuzckd6puhsye058y5smjgszs": {
+        "label": "TEST token",
+        "unique_wallet_interactions": 1,
+        "total_number_of_calls": 3
+    },
+    "juno17rkt8qsghs5l4ty2jy8a2p2dr3nqq9u59gs0dcfnlkgqtlgytqvqwgft34": {
+        "label": " ",
+        "unique_wallet_interactions": 1,
+        "total_number_of_calls": 1
+    },
+    "juno138ekcg67ljt9r7zkms6e6rrnrmy4v2tws4pxk3pu8shxslc9ggaqedl4tj": {
+        "label": "some_label",
+        "unique_wallet_interactions": 1,
+        "total_number_of_calls": 37
+    },
+    "juno10w9d0hphhg6eh79cfjvg4eqwlzqvfanddg3vtgy69xdvnxf7n90sa37n87": {
+        "label": "some_label",
+        "unique_wallet_interactions": 1,
+        "total_number_of_calls": 36
+    },
+    "juno18t3n9k4vp4uapt5wf60edmnvpfuk9qq00ngauwl78ve9szsy42zqqjvgm8": {
+        "label": "some_label",
+        "unique_wallet_interactions": 1,
+        "total_number_of_calls": 36
+    },
+    "juno1f3k8h6r6mtl74w386k530t0e0akh3qwnrh7s4xcglw9q0pafscsqq0aajk": {
+        "label": "some_label",
+        "unique_wallet_interactions": 1,
+        "total_number_of_calls": 36
+    },
+    "juno14qh0fr8lea0wrsqh37xznxjj8g26396gcpg994fgvtq5mdgq2jaqpkw7km": {
+        "label": "Unknown",
+        "unique_wallet_interactions": 1,
+        "total_number_of_calls": 1
+    },
+    "juno1jkqqgnvqjapmgxkpfmymr0jauh23d34z673dqaucng4uwf88e76qhtr2jm": {
+        "label": "Unknown",
+        "unique_wallet_interactions": 1,
+        "total_number_of_calls": 1
+    },
+    "juno1g6hdxtva5czmfd63z50vgg0vysmux0za82c7ys3xfp5mjr6pq77qdaym9u": {
+        "label": "Unknown",
+        "unique_wallet_interactions": 1,
+        "total_number_of_calls": 1
+    },
+    "juno1dhy6tgyykdg8jed8388e2q9gpzlxjkp0yeqs7rpyu2sn3m796ufqszv796": {
+        "label": "Unknown",
+        "unique_wallet_interactions": 1,
+        "total_number_of_calls": 1
+    },
+    "juno1kc6ea346qruhnw228tslyt850ztc58j35mhwegf2qf9jgndkk99seff0tu": {
+        "label": "Unknown",
+        "unique_wallet_interactions": 1,
+        "total_number_of_calls": 2
+    },
+    "juno1trlalxu4tl9lyhu2795sk6dvdpfh2wdpxc7q5yucr4dw3whnjepsuaztn2": {
+        "label": "Unknown",
+        "unique_wallet_interactions": 1,
+        "total_number_of_calls": 1
+    },
+    "juno1lzfk6evc88tnnu0yd6em6khwt88cpvupkymrh225r92d8zpq7ehsxapren": {
+        "label": "Unknown",
+        "unique_wallet_interactions": 1,
+        "total_number_of_calls": 2
+    },
+    "juno1myfq36rkcw7w8dx946py3jrr882l3zyfghahq59v3rtfnf0u703qd4pdpd": {
+        "label": "Unknown",
+        "unique_wallet_interactions": 1,
+        "total_number_of_calls": 1
+    },
+    "juno1spcjn98g24ncrtm8j3098ptef7dvecujkt8lku32va5lnsys7e4qyqn9tf": {
+        "label": "Unknown",
+        "unique_wallet_interactions": 1,
+        "total_number_of_calls": 2
+    },
+    "juno1tuftymdrvxcws37yfsn804zfedmwqgsrm5z2ytmr89tldxhpjufqj8gh5l": {
+        "label": "Unknown",
+        "unique_wallet_interactions": 1,
+        "total_number_of_calls": 1
+    },
+    "juno19kc54xyy64dy3x3xv083fzdezadhm2dfysrvax5pqqtz042dmlrslz54m0": {
+        "label": "Unknown",
+        "unique_wallet_interactions": 1,
+        "total_number_of_calls": 1
+    },
+    "juno1kfyz3g047fv5qylanjtfy4zlsj7jgears49dngev9mxyx6962pjqlu7fhd": {
+        "label": "Unknown",
+        "unique_wallet_interactions": 1,
+        "total_number_of_calls": 1
+    },
+    "juno1jh2tvqrem0llars75ewk7wfqm0hyvnswa9ypsysstlykxqv6rajqye8x4x": {
+        "label": "Unknown",
+        "unique_wallet_interactions": 1,
+        "total_number_of_calls": 1
+    },
+    "juno15dglpjyzwkzynmt05etqun9usnp4jg4dze3uqa8ttgtesnrrcnssflxcxw": {
+        "label": "Unknown",
+        "unique_wallet_interactions": 1,
+        "total_number_of_calls": 2
+    },
+    "juno1vpjzhu2s2trpsuvcyfsy8qhgg06vly0q3hq2rxthr4whrj68zqnstjzrt2": {
+        "label": "Unknown",
+        "unique_wallet_interactions": 1,
+        "total_number_of_calls": 2
+    },
+    "juno1d7p8s2wdrx36y6ducdh9f8drpn0ny4vwmcuclnc78dgkkleu654qmxu7lu": {
+        "label": "Unknown",
+        "unique_wallet_interactions": 1,
+        "total_number_of_calls": 1
+    },
+    "juno13nrlcxenejc5c50wxf4u5ujnl7fa9d7ek5k5mna3x6dgzu296mhsfshwae": {
+        "label": "LOVE",
+        "unique_wallet_interactions": 1,
+        "total_number_of_calls": 1
+    },
+    "juno1xumkg8pgwwx97a492fph5p4tdc78d99j0qsjr4f4cettv3wgn8ssn3v38q": {
+        "label": "DAO_Podziemie_cw-proposal-single",
+        "unique_wallet_interactions": 1,
+        "total_number_of_calls": 3
+    },
+    "juno1m65lxzpu7lgtw35jjdsr6nkg8xz3nauauazmwz30uaev2sgykrdqaxdq37": {
+        "label": "Abstract OS: 8",
+        "unique_wallet_interactions": 1,
+        "total_number_of_calls": 29
+    },
+    "juno1hv2jxa5d7pwhf8e9jt36ag7d9lkjchu4ucy8pgwmncdzywm8n94q2le2sm": {
+        "label": "Obi Proxy",
+        "unique_wallet_interactions": 1,
+        "total_number_of_calls": 18
+    },
+    "juno1sy7nd35qqfjwfhuerknzp5f8st0gpvph24w7lvtmw3k6sn5rfd6qxx6asd": {
+        "label": "Obi Proxy",
+        "unique_wallet_interactions": 1,
+        "total_number_of_calls": 2
+    },
+    "juno1s7sjpq85e7flsk9d82hcua3zwzs3r7l8sv3f0wwss00pt4jg7uask4s982": {
+        "label": "Obi Proxy",
+        "unique_wallet_interactions": 1,
+        "total_number_of_calls": 7
+    },
+    "juno1v7238ahlfh8xke9v2cnl23sk9ta0xfv26p7p9pqjr42pnadj9mzq4a3nsl": {
+        "label": "LFT",
+        "unique_wallet_interactions": 1,
+        "total_number_of_calls": 6
+    },
+    "juno1ker9z45q0zwryaupzruk5xg39su8tpv33u6ds6hlwpz3q5n28yvsp7e3uc": {
+        "label": "Juno the Protector",
+        "unique_wallet_interactions": 1,
+        "total_number_of_calls": 1
+    },
+    "juno14hj2tavq8fpesdwxxcu44rty3hh90vhujrvcmstl4zr3txmfvw9skjuwg8": {
+        "label": "Unknown",
+        "unique_wallet_interactions": 1,
+        "total_number_of_calls": 1
+    },
+    "juno1h3phhtu736233u8dky7z46k8s3t6h27rfk5lr43d0hs88y8ydtfq73090d": {
+        "label": "TestHopers",
+        "unique_wallet_interactions": 1,
+        "total_number_of_calls": 1
+    },
+    "juno1jklmrwdqlx3vq82jga5pmt4x55fku2mkuchrnh4vrdzxuvy05wjqxnhkxe": {
+        "label": "DAO_Manuel _cw-proposal-single",
+        "unique_wallet_interactions": 1,
+        "total_number_of_calls": 1
+    },
+    "juno1uqkr7mpm47qmrnyvk0uf9q7ys3yfd2s3l8zgua9sn68cvvhhtu3q8qrsxw": {
+        "label": "Obi Proxy",
+        "unique_wallet_interactions": 1,
+        "total_number_of_calls": 3
+    },
+    "juno1uaqa8t2uzajxqq4rv73z04yckw2pkffssz2g2k4p7jvkjp7f3ryqrnq3lu": {
+        "label": "Abstract OS: 7",
+        "unique_wallet_interactions": 1,
+        "total_number_of_calls": 1
+    },
+    "juno18gxsdfrhxdyy4699a3gqdgd8cl5fsku2rsdj6az0w3f7ltue2pxs77vs4u": {
+        "label": "Leno Network",
+        "unique_wallet_interactions": 1,
+        "total_number_of_calls": 1
+    },
+    "juno1yp80tzsgcs3uu3d5z9tkh6he4tmf6w65hgz98ul5nu450lsynj4qyz8ger": {
+        "label": "Obi Proxy",
+        "unique_wallet_interactions": 1,
+        "total_number_of_calls": 5
+    },
+    "juno149gl757dtfr99uypa95cdua7kfqf4wu4p0mj5qveeszuy8t4dx7qwutka8": {
+        "label": "JUNO USK Pool",
+        "unique_wallet_interactions": 1,
+        "total_number_of_calls": 2
+    },
+    "juno1kjtwd7jqs9yyfl5sfmqvvp9rwdzzra50qs6jjsc0gudrtuah0a3sxajah5": {
+        "label": "label",
+        "unique_wallet_interactions": 1,
+        "total_number_of_calls": 1
+    },
+    "juno1whdq6s7yfu9w5smudaygxzlmpuvrgxkq8h4t8c4zvvjrltjcazxsht6hkw": {
+        "label": "BruitusChain",
+        "unique_wallet_interactions": 1,
+        "total_number_of_calls": 4
+    },
+    "juno1vhduhelaxlesqvtzppczajdgd50gsal09hdalzrt8dccd08fgzmqlcfrqc": {
+        "label": "NEARHOLDERS1026",
+        "unique_wallet_interactions": 1,
+        "total_number_of_calls": 2
+    },
+    "juno1c82nek9zdc06n5z7matam54yynqfnpmxk80ya2yzwxhw2ar8pq6s66znhx": {
+        "label": "NEARHOLDERS1025",
+        "unique_wallet_interactions": 1,
+        "total_number_of_calls": 2
+    },
+    "juno10825khxgarnqnnwe4fxmujyvra0m92u0hqzt38ythqcazaygs5es4derxz": {
+        "label": "Obi Proxy",
+        "unique_wallet_interactions": 1,
+        "total_number_of_calls": 1
+    },
+    "juno1g4e96u0mrgzcmdmk7tlp2jus6z0r239waqav6nxpw8g8dratespqrgrhnk": {
+        "label": "Blockchain Bullies",
+        "unique_wallet_interactions": 1,
+        "total_number_of_calls": 1
+    },
+    "juno169pg7fhfwelk5cl5z0vggu2zwf2krc5z9xyzxcjqszuy9tfenqcqyajw0f": {
+        "label": "reward contract Tue Sep 20 2022 09:50:35 GMT+0530 (India Standard Time)",
+        "unique_wallet_interactions": 1,
+        "total_number_of_calls": 1
+    },
+    "juno1tlkhdr3cyy7y0sdpjzzuuwf90knnvfx5s353r63nscrs3gv84yms2srzd5": {
+        "label": "Obi Proxy",
+        "unique_wallet_interactions": 1,
+        "total_number_of_calls": 3
+    },
+    "juno1qk5g2grw6mjz7ktpyqu4vru5t45u5dr75q67cywl996uk3vlgffqgl0ksp": {
+        "label": "Obi Proxy",
+        "unique_wallet_interactions": 1,
+        "total_number_of_calls": 11
+    },
+    "juno1et8z5we83ny06j5sra9q9vaxw6e9cp4qjy5agy8emqz8wcmmgheqnq5xdy": {
+        "label": "instantiate-237",
+        "unique_wallet_interactions": 1,
+        "total_number_of_calls": 126
+    },
+    "juno1wkfy4u8zj45jqeeyvl7pedzcvaksutug56d0v32p6qw3fmpyw6rq82y648": {
+        "label": "instantiate-382",
+        "unique_wallet_interactions": 1,
+        "total_number_of_calls": 2
+    },
+    "juno1sa56j72hmgsq8qp7vqars4kdq3wuyc9zxke6p0wm8lf8zxawsk8qj7326q": {
+        "label": " ",
+        "unique_wallet_interactions": 1,
+        "total_number_of_calls": 2
+    },
+    "juno1gwg4esdkq29tpnhpffw99gk27p8tagzr7ntrfmjh778axjglfanqrmnsxj": {
+        "label": " ",
+        "unique_wallet_interactions": 1,
+        "total_number_of_calls": 1
+    },
+    "juno17aufwzkzfj0u4z3rjs3ldkezqputqrn5wdu678l84vwd5rkpkras2nds4q": {
+        "label": "test multisig",
+        "unique_wallet_interactions": 1,
+        "total_number_of_calls": 1
+    },
+    "juno1tfx425vp0d3xhkm25tmvvytd3a8s6k66za92lllflegymzg9w8cq877j76": {
+        "label": "DAO_IBC Degen community_cw-proposal-single",
+        "unique_wallet_interactions": 1,
+        "total_number_of_calls": 3
+    },
+    "juno129daxlastx6r7w6npf0kw726c5rq6mwj5uk0zj5mwvlztmkz43xsyxt2pj": {
+        "label": " a",
+        "unique_wallet_interactions": 1,
+        "total_number_of_calls": 2
+    },
+    "juno1u7jwk5ld03lv8kc5je2yvcpz9v9yfzjkal9z8ck8sr7dxrq85xhqqzwfx4": {
+        "label": "dao3",
+        "unique_wallet_interactions": 1,
+        "total_number_of_calls": 1
+    },
+    "juno108ns0kw9yh89srhn0utjp48gavvd0jz4w9rlxdp747mh9a8tus7sx7uqdk": {
+        "label": "DAO_Crypti News Archive DAO_cw-proposal-single",
+        "unique_wallet_interactions": 1,
+        "total_number_of_calls": 1
+    },
+    "juno1j6p34n8qzeg2fr3jz9a5228pwr289jxr2030evf02s6k46nnxdnqrx5har": {
+        "label": "FortyTwo Token",
+        "unique_wallet_interactions": 1,
+        "total_number_of_calls": 2
+    },
+    "juno1mmlxgk5lrh862dawp2tazey432g3vgzcvca58ld90quvk8gdmp5quv5gsp": {
+        "label": "Obi Proxy",
+        "unique_wallet_interactions": 1,
+        "total_number_of_calls": 20
+    },
+    "juno126kylgdsqemqsfy6usaagjj9ugaapfzxsshrfgw96vasqtg8y45qcdc65e": {
+        "label": "instantiate-v2 endowment cw3 multisig - 25",
+        "unique_wallet_interactions": 1,
+        "total_number_of_calls": 2
+    },
+    "juno1cf46s0mwdx363uk3jud4was5534a32az4z4q6yc8yld4qml5qfrsjzqayg": {
+        "label": "label",
+        "unique_wallet_interactions": 1,
+        "total_number_of_calls": 3
+    },
+    "juno1pzv6qtmx8ud8hqm66g6vufxqshey9tcukwff6hx9m9c6nrhwl2zskxejga": {
+        "label": "Sasuke",
+        "unique_wallet_interactions": 1,
+        "total_number_of_calls": 4
+    },
+    "juno1smf3u3qd4dc20cgsu7hsh95awxea0usw0q0jj2f3vmrykpk3ua4qn738hz": {
+        "label": "SunnyNew",
+        "unique_wallet_interactions": 1,
+        "total_number_of_calls": 1
+    },
+    "juno1ml83s4g76cp923valzgunzzc6kw000gjmp0fteytxv2uw339arvsswj2m8": {
+        "label": "COCK-DAO",
+        "unique_wallet_interactions": 1,
+        "total_number_of_calls": 1
+    },
+    "juno1nuvuw3xx0l99jdzcta73ayqh3xlmn5exaszmud4h2n72slg66chs8spvhh": {
+        "label": "instantiate-611",
+        "unique_wallet_interactions": 1,
+        "total_number_of_calls": 1
+    },
+    "juno1az9mp0d6axllewxj8kn0r0c0ck85mfre0ar0h7kamzgxukl2mzaquks3xl": {
+        "label": "DAO_Test456_cw-proposal-single",
+        "unique_wallet_interactions": 1,
+        "total_number_of_calls": 2
+    },
+    "juno1n8ella0tvtdyh8xq0ltr49x0jfv2mt0kn7cc88y8zcyf8d2ht80qg65gz5": {
+        "label": "Test456",
+        "unique_wallet_interactions": 1,
+        "total_number_of_calls": 2
+    },
+    "juno18zppc8duk2vtap46sspgdp52y2v38xah84l4jjvyug392rp82p8s3mq2p7": {
+        "label": "Obi Proxy",
+        "unique_wallet_interactions": 1,
+        "total_number_of_calls": 4
+    },
+    "juno1s5l386y8kamfpl9zlxz8rh2d99n5wt533wef5med47g7teuer4tqyn99ct": {
+        "label": "Bipolar_Koalas",
+        "unique_wallet_interactions": 1,
+        "total_number_of_calls": 1
+    },
+    "juno1y0phl9303vjfdlsgnqpyl2vxwt3h2gxekn276ls36qvrwd9faxjqvezgmh": {
+        "label": "Sunny",
+        "unique_wallet_interactions": 1,
+        "total_number_of_calls": 1
+    },
+    "juno169ruj76fw798k7tsxrq94cdrnh70mfe2ehvf7fc24xgjvykkrvkqjwrsk3": {
+        "label": "DAO_Help Network Alliance_cw-proposal-single",
+        "unique_wallet_interactions": 1,
+        "total_number_of_calls": 9
+    },
+    "juno19efx5paxyawpdvvqqad6ulr9vlnxk8gfdr9wxjq5td8pp0fs5dxsxn36ah": {
+        "label": "DAO_Tenacity Network Foundation_cw-proposal-single",
+        "unique_wallet_interactions": 1,
+        "total_number_of_calls": 6
+    },
+    "juno1zeytypes8lsh72dkr2xv86nskduh45h6sqty48t72jw6ze9h0ausn6scx4": {
+        "label": "label",
+        "unique_wallet_interactions": 1,
+        "total_number_of_calls": 1
+    },
+    "juno1skfd67gu3l8lwzequczf2h3y90wngexnl7ctj9veflu68x0frvrs7m7vx7": {
+        "label": "AGORA Metaverse",
+        "unique_wallet_interactions": 1,
+        "total_number_of_calls": 1
+    },
+    "juno1w7v9k98s2qdacglqlga8m8q2r6lcy5a7sjp3marntfjpg9ake87sml40x8": {
+        "label": "SteakTown",
+        "unique_wallet_interactions": 1,
+        "total_number_of_calls": 6
+    },
+    "juno1qw3kv9n8x8l4qsf063pqmsprswdx0aw5g9y5ge453tmj37cp8zqspu7nkz": {
+        "label": "Abstract OS: 13",
+        "unique_wallet_interactions": 1,
+        "total_number_of_calls": 1
+    },
+    "juno10uklfx8nwxqk6rf8zg6zuccd3qzqpnndfsvlkvzjzpr75qlececq9cygtf": {
+        "label": "instantiate-147",
+        "unique_wallet_interactions": 1,
+        "total_number_of_calls": 6
+    },
+    "juno10qhttv8j9f0q7eaffw7l50e5r5gst7yp4t25nfy23cscmy4t5e0s996x3n": {
+        "label": "JunoTools CW721 Base Contract",
+        "unique_wallet_interactions": 1,
+        "total_number_of_calls": 2
+    },
+    "juno1ejnmmafqvwtxasqj3z205p4rshmyamru6vztzhh9gdtu0sd385hqmmeraz": {
+        "label": "label",
+        "unique_wallet_interactions": 1,
+        "total_number_of_calls": 1
+    },
+    "juno1f8sunduyzh0nj55y4f6kj8hg284p526hsem8wg2j9pctfcde095szheypw": {
+        "label": "Demo",
+        "unique_wallet_interactions": 1,
+        "total_number_of_calls": 2
+    },
+    "juno1x4u4n5ymlrhqwyyxwumcfhjgsmzsa6qahnvhlrkp2dlkhyfw4tdqar9gzn": {
+        "label": "White Whale Vault LP",
+        "unique_wallet_interactions": 1,
+        "total_number_of_calls": 1
+    },
+    "juno1x8devsv5y0hrr2xe2lynsjaa2uds0ujs7ruhuj4882v2dcx7ss6qq0man7": {
+        "label": "IFS",
+        "unique_wallet_interactions": 1,
+        "total_number_of_calls": 5
+    },
+    "juno16cfjydjwjst27zqk4vzrpck2pha0dd9fd9g67fdtm2zehx6j37eqe2fygk": {
+        "label": "Obi Proxy",
+        "unique_wallet_interactions": 1,
+        "total_number_of_calls": 2
+    },
+    "juno10ntf35xvz0thsvcjrd8css4fetyw0xeje6609gs8q05kmu0law5syc8xlv": {
+        "label": "Obi Proxy",
+        "unique_wallet_interactions": 1,
+        "total_number_of_calls": 4
+    },
+    "juno1wxetzdjgkhurppuhnp4ca9z7fyg98nv4leyqqkf532gvcsmyk4dql3n0lt": {
+        "label": "Obi Proxy",
+        "unique_wallet_interactions": 1,
+        "total_number_of_calls": 4
+    },
+    "juno1yshmnj720k68nzw63atmes5emf928dvgz7a0kg7ch5da6z6k9j7sz6e5nm": {
+        "label": "Obi Proxy",
+        "unique_wallet_interactions": 1,
+        "total_number_of_calls": 3
+    },
+    "juno106zalx4mkjyqucgf85dm28yeklasxzesedkpqfsc69gyz5aueu7sacz4xe": {
+        "label": "Obi Proxy",
+        "unique_wallet_interactions": 1,
+        "total_number_of_calls": 2
+    },
+    "juno1k9k3gfd0v33028mj4ztqsdqhaa6dccgdqfc9psqealynufka7uqsq8e7zx": {
+        "label": "Obi Proxy",
+        "unique_wallet_interactions": 1,
+        "total_number_of_calls": 3
+    },
+    "juno1yt5l0cgc8yqr888avcvq7d5dqxh800n0runad2ztucl5tzn9lvjsdn8jh6": {
+        "label": "Obi Proxy",
+        "unique_wallet_interactions": 1,
+        "total_number_of_calls": 1
+    },
+    "juno1q57gtvj2cd024y5d25t0rpyftqvnskv8tp630xjn3f2enttqwtrsmcu8u7": {
+        "label": "Obi Proxy",
+        "unique_wallet_interactions": 1,
+        "total_number_of_calls": 2
+    },
+    "juno1w3rzp34k0sy0f5zuwxa2vfxx4n0gvgn7je3sxl7uaa67z85p860s2fhqel": {
+        "label": "Obi Proxy",
+        "unique_wallet_interactions": 1,
+        "total_number_of_calls": 6
+    },
+    "juno1zuvmex7ml432rdzyqn3m0kzp8up386jgdra7vj02wf6kgmy4nn9qdll4jr": {
+        "label": "Obi Proxy",
+        "unique_wallet_interactions": 1,
+        "total_number_of_calls": 2
+    },
+    "juno1h4v0ar053y99jz4umjyv02a9mnkv3gd9k2r6q7gywpu3k4vu85fqgvrr8f": {
+        "label": "Obi Proxy",
+        "unique_wallet_interactions": 1,
+        "total_number_of_calls": 2
+    },
+    "juno1a6594tqvs89u6jgyaqm6ptdnwwyj90atrxhswmcwmx2d4reaechsxk6m2e": {
+        "label": "Obi Proxy",
+        "unique_wallet_interactions": 1,
+        "total_number_of_calls": 3
+    },
+    "juno1hn34yamkgju457y2q8eqcgxazajxgstr5hlk8uk5n50cchethwws66sm72": {
+        "label": "Obi Proxy",
+        "unique_wallet_interactions": 1,
+        "total_number_of_calls": 6
+    },
+    "juno1x3ljljcuh7saep6zxmuyk9g3f2ccdt3yx3shjzkvsxgm3a8zrq0qt2pl9w": {
+        "label": "Obi Proxy",
+        "unique_wallet_interactions": 1,
+        "total_number_of_calls": 3
+    },
+    "juno1p05xra6d5wc9x0dps7uf5xfwcgm3w3fw6rfq97mpllq3kyrgevzqedf5zz": {
+        "label": "new endowment cw3 multisig - 77",
+        "unique_wallet_interactions": 1,
+        "total_number_of_calls": 6
+    },
+    "juno1j2rtdpl4l5g0kl653sfdmhkx04r9p5lm27pvs9z6p73ncylqkuyqskmt3a": {
+        "label": "DAO_TOKENS_cw-proposal-single",
+        "unique_wallet_interactions": 1,
+        "total_number_of_calls": 5
+    },
+    "juno1n6dzcng5gl6cqqvsk6vnsxrrhv225q5mr5ucpm5uzw9apmlc755qumkm6y": {
+        "label": "noahTOKEN",
+        "unique_wallet_interactions": 1,
+        "total_number_of_calls": 3
+    },
+    "juno1lxxf4w934x3mdrskle2zflrqvjk92fll9qlkgxaa2cefzlmcen4shc3q8l": {
+        "label": "Juno Bear Society proposal module",
+        "unique_wallet_interactions": 1,
+        "total_number_of_calls": 6
+    },
+    "juno1z23g95arrraz8ll39fwye6s8q5fn65k4c7e2n3sg52j2ckrp45xsxdg7s7": {
+        "label": "Obi Proxy",
+        "unique_wallet_interactions": 1,
+        "total_number_of_calls": 15
+    },
+    "juno1scrjuxw85cc8hpthk73swqxm0q0jm2wjrvelx46sramgsksk4dhqvgr4y5": {
+        "label": "Obi Proxy",
+        "unique_wallet_interactions": 1,
+        "total_number_of_calls": 6
+    },
+    "juno1zy85qg68nr82w9j22fyskhprmz6whzaa690t3shnuef7ehmlqzlsgmklzm": {
+        "label": "Obi Test Proxy 17165",
+        "unique_wallet_interactions": 1,
+        "total_number_of_calls": 4
+    },
+    "juno1eanq3jhaxkqw25z62epfrpwpaa58ft0kv4wkjq0f6wez9sx4trnqxaxura": {
+        "label": "Obi Test Proxy 2761",
+        "unique_wallet_interactions": 1,
+        "total_number_of_calls": 1
+    },
+    "juno16wk7alh7zkydvma3tfktafvp49uh6t0cfrkz0mpmxg6cuevqn8fsj2vgrv": {
+        "label": "Obi Proxy",
+        "unique_wallet_interactions": 1,
+        "total_number_of_calls": 3
+    },
+    "juno13vxp89w9k2j8pfvuwejlkq49czkhnpjpuwq8kvhdfd2y66cpgnfqfhtkql": {
+        "label": "Obi Proxy",
+        "unique_wallet_interactions": 1,
+        "total_number_of_calls": 4
+    },
+    "juno1hf76cmt9c6qgwl0s5pp6s2mz3va5htp20fa5yckwjmfehl8v5geqffjsdv": {
+        "label": "Obi Proxy",
+        "unique_wallet_interactions": 1,
+        "total_number_of_calls": 2
+    },
+    "juno15gqvl4fmzq3qh2jmrqu9rvhr3dgqta0mhzh7jra3s0hzqeuht22qj494js": {
+        "label": "Obi Proxy",
+        "unique_wallet_interactions": 1,
+        "total_number_of_calls": 7
+    },
+    "juno1mnf5fr8nls4qghkkp6fvhu637ddns9rzlw0cjwkrkl7ckn2xennqlakn6c": {
+        "label": "Obi Proxy",
+        "unique_wallet_interactions": 1,
+        "total_number_of_calls": 4
+    },
+    "juno1nuutnnk2qyt83vgk3r8jwsgx5s27vjm9e7srjwam27s0z7x6avasl6kw8m": {
+        "label": "Obi Proxy",
+        "unique_wallet_interactions": 1,
+        "total_number_of_calls": 10
+    },
+    "juno1ks660karj3lqlfs9trhcgdkpzru07jzl44erhfwzh9ehdsafa89s292a4p": {
+        "label": "Obi Proxy",
+        "unique_wallet_interactions": 1,
+        "total_number_of_calls": 5
+    },
+    "juno10h9rahjdgrzm094d4zcnzw36f9qcv0u2720tjn0x2cz6t7fnqjhsaye0re": {
+        "label": "Obi Proxy",
+        "unique_wallet_interactions": 1,
+        "total_number_of_calls": 2
+    },
+    "juno1290q59utgmnd557amzp7xk4a4eg6lp957tzgk6xzmakk9wnwdtusj7dnty": {
+        "label": "Obi Proxy",
+        "unique_wallet_interactions": 1,
+        "total_number_of_calls": 10
+    },
+    "juno1r20z9vv4nc690v0ju83fm5a8je6c4tl39cj3vrfq5pzmkjrmmpdqlqy3yt": {
+        "label": "Obi Proxy",
+        "unique_wallet_interactions": 1,
+        "total_number_of_calls": 3
+    },
+    "juno1zwytu6lpkh9jsgmm8p985thhlmw5dr46r4lgkmstemt0gfn9jumqy0nwhx": {
+        "label": "Obi Proxy",
+        "unique_wallet_interactions": 1,
+        "total_number_of_calls": 2
+    },
+    "juno1g5nu8z6rappqgx5u9s6y54arrqp3uv5a7z55teeczjhvxukkgpns7le67g": {
+        "label": "Obi Proxy",
+        "unique_wallet_interactions": 1,
+        "total_number_of_calls": 2
+    },
+    "juno183hwfpvr7ggn09jp7rv4xtd5zayv6zxpk56tqachpezh6ejw4kqs8dup82": {
+        "label": "Obi Proxy",
+        "unique_wallet_interactions": 1,
+        "total_number_of_calls": 2
+    },
+    "juno13tyygnt7jv7ed5sxkyg28vyv06c8j5dvtdepdqkfpzcjt8c66v2sjd8w4s": {
+        "label": "Obi Proxy",
+        "unique_wallet_interactions": 1,
+        "total_number_of_calls": 3
+    },
+    "juno1dd9e5alxmyrut99qcxl4n0j6085nhqjnrrdt0dnraad0za76w4gsm24s05": {
+        "label": "Obi Proxy",
+        "unique_wallet_interactions": 1,
+        "total_number_of_calls": 2
+    },
+    "juno1saeklapnxxduvjlksncwx2ty8fpl04ejnkwswqxtu84p80g6tp8sz8ncjr": {
+        "label": "Obi Proxy",
+        "unique_wallet_interactions": 1,
+        "total_number_of_calls": 11
+    },
+    "juno1e592s5wsfj49y0j4gmj3sqrnr07nm6h4dd8vplvgh8vmxfwycv5qn9da8z": {
+        "label": "Obi Proxy",
+        "unique_wallet_interactions": 1,
+        "total_number_of_calls": 2
+    },
+    "juno1y3jml6ym2a5dclkhk83g3m486xvm8p0pk6rwfydftk736l674rrs7q2nj9": {
+        "label": "Obi Proxy",
+        "unique_wallet_interactions": 1,
+        "total_number_of_calls": 2
+    },
+    "juno1ca7qv5cnrcf4ajtwh4udjd3rz6xlqlz8quctyx49s4uvhhxeegzqztsu4s": {
+        "label": "Obi Proxy",
+        "unique_wallet_interactions": 1,
+        "total_number_of_calls": 5
+    },
+    "juno1xx6yvx8yyqqcqgn2rxz42axuy7adze7w2cca0wman5hn5f9x973qt6qkfw": {
+        "label": "Obi Proxy",
+        "unique_wallet_interactions": 1,
+        "total_number_of_calls": 2
+    },
+    "juno1ldgdsnwdzv0jfmc4pams608qgze2zhn4sf5zdar2hqfcw30gults53tt2p": {
+        "label": "Obi Proxy",
+        "unique_wallet_interactions": 1,
+        "total_number_of_calls": 2
+    },
+    "juno1q3pumvajf7a6unzwlr2uk60qttrkke7a7v96reltqr7ljlddyvlsqn6940": {
+        "label": "Obi Proxy",
+        "unique_wallet_interactions": 1,
+        "total_number_of_calls": 2
+    },
+    "juno1852v3j60ppkmmtyp6hn636heh553lh3scmrwx3jrd7rwptedvt5q6v54pr": {
+        "label": "Obi Proxy",
+        "unique_wallet_interactions": 1,
+        "total_number_of_calls": 1
+    },
+    "juno1f8ahl5e0m20t4a6yjwkrl6krkug5vjwt7fezp4t6khcy4f2fqrxqv79a9e": {
+        "label": "Obi Proxy",
+        "unique_wallet_interactions": 1,
+        "total_number_of_calls": 4
+    },
+    "juno1h4tjjylms2u6hejj7jvl6eapxg7uzp688ywjef249y0eva8p8qvqwz8424": {
+        "label": "Obi Proxy",
+        "unique_wallet_interactions": 1,
+        "total_number_of_calls": 3
+    },
+    "juno1em694huu08u7c5a7we348prrg32l9m689l0fer0de3096xnca92q28x08a": {
+        "label": "Obi Proxy",
+        "unique_wallet_interactions": 1,
+        "total_number_of_calls": 8
+    },
+    "juno1c0e3rsdd5j5jvv5c4xd9564a6z2cw8ahmn6uyaff7gl39apw4vwq4shhn9": {
+        "label": "Obi Proxy",
+        "unique_wallet_interactions": 1,
+        "total_number_of_calls": 6
+    },
+    "juno1xnuv337pwga8qhxfc47lt7h9fgzxr8vk26mf9tqvlmcc2cmgd8kswz3pjp": {
+        "label": "Obi Proxy",
+        "unique_wallet_interactions": 1,
+        "total_number_of_calls": 4
+    },
+    "juno19s7ujl0np0j3a9v3ejxa7u8ftnklayujqpzg3fq7mgmn0pymmpyqqcwu2c": {
+        "label": "gelotto Daily JUNO takes all lottery",
+        "unique_wallet_interactions": 1,
+        "total_number_of_calls": 1
+    },
+    "juno1w23v3e54gmqmf3td4yex3yr5dvnceckupfa87gcgyn8z6gpv82nqdw36h9": {
+        "label": "JunoTools CW721 Base Contract",
+        "unique_wallet_interactions": 1,
+        "total_number_of_calls": 1
+    },
+    "juno1sfy40hpcmexwxac854pxr20tgfjccvvu4xgql5vhwkvswvsqtl8sj53vuw": {
+        "label": "LEO",
+        "unique_wallet_interactions": 1,
+        "total_number_of_calls": 1
+    },
+    "juno1nqns564reqcrtkfc7elqfzq525g7dhjzlqrkuxwm85duzvtahnpq4h67ve": {
+        "label": "cw-flash-loan",
+        "unique_wallet_interactions": 1,
+        "total_number_of_calls": 1
+    },
+    "juno10fe5ryr8g7dsg5y87nv6hvuqy3fx457mgjgp32ak29le74cy8h0qj97n46": {
+        "label": "Nemo",
+        "unique_wallet_interactions": 1,
+        "total_number_of_calls": 1
+    },
+    "juno1tw55skc63upgsc0lhvzpjye7v7ksa3fsttet7q80p0a64qh2yw9swl280c": {
+        "label": "NEARHOLDERS1050",
+        "unique_wallet_interactions": 1,
+        "total_number_of_calls": 2
+    },
+    "juno1ycpml96cru0ln20zv7qxkc6xuass8lerpk0cfwvgmvyn6zjux55srqkah5": {
+        "label": "instantiate-823",
+        "unique_wallet_interactions": 1,
+        "total_number_of_calls": 1
+    },
+    "juno16uva5mgmzj78rdwf5hcqv688lyenms6s32zfjectg8zkr4vc3xfq95eueu": {
+        "label": "instantiate-348",
+        "unique_wallet_interactions": 1,
+        "total_number_of_calls": 2
+    },
+    "juno1p2yg2xy7z39mhnn4r248nfsf9zufa7kxh34g7kh9u7zvjacm4nssx2x6gv": {
+        "label": "instantiate-485",
+        "unique_wallet_interactions": 1,
+        "total_number_of_calls": 2
+    },
+    "juno1ucjmf3nztyq4a6q8tzja9thefq7092s9r4a2yk8267spr2fays2qks9rl4": {
+        "label": "instantiate-704",
+        "unique_wallet_interactions": 1,
+        "total_number_of_calls": 2
+    },
+    "juno1sgqh9seaur84uh95kt5spvvmhucy4asvaps0shh9srwu7xhnr7xsfg23dt": {
+        "label": "DAO_helidao_cw-proposal-single",
+        "unique_wallet_interactions": 1,
+        "total_number_of_calls": 2
+    },
+    "juno1pzar90e9k49avkxpd0n2twcvjkxzx9dd457r03mmp78fg9280c5sk8r8w4": {
+        "label": "JUNO EVMOS Pool",
+        "unique_wallet_interactions": 1,
+        "total_number_of_calls": 2
+    },
+    "juno1rddk9du0scyzkuf25e5f9647p7ng9049mphu3jxc8v3lzqejfgmqyashzs": {
+        "label": "test",
+        "unique_wallet_interactions": 1,
+        "total_number_of_calls": 1
+    },
+    "juno13vs6gwvcrezhxp6k63ytux8mm72qwe5yzyk8lms3huk50pyyu9xqmnes4n": {
+        "label": "Juno Bear Society",
+        "unique_wallet_interactions": 1,
+        "total_number_of_calls": 2
+    },
+    "juno1w3wawax83pgq8q0vx55npnvnj76weed2s83ftkw4c7k8yxemhefq9eduqh": {
+        "label": "Levana Dragons",
+        "unique_wallet_interactions": 1,
+        "total_number_of_calls": 1
+    },
+    "juno12pgtk90nlrzqftdl2w9kewe6rrkzaszk534h24": {
+        "label": "Unknown",
+        "unique_wallet_interactions": 1,
+        "total_number_of_calls": 5
+    },
+    "juno1r35khypn89ra7sqc93u409yjgmzrt8r69y7xvskhlchxjpk8hrfslxpy97": {
+        "label": "JUNO HSKY Pool - JunoMint.com by EZStaking.io",
+        "unique_wallet_interactions": 1,
+        "total_number_of_calls": 4
+    },
+    "juno1fz9agxt9r6rdp2qvduvpew6shm5hqn83y5u5hn6khrptk8vl0y8sxfeq0m": {
+        "label": "DAO_CLH admin DAO_cw-proposal-single",
+        "unique_wallet_interactions": 1,
+        "total_number_of_calls": 9
+    },
+    "juno1q9nsxepa9m69z2zllqgfu3nrhcxj2g539am90vlj3ry5zlmxe8nq8ceguw": {
+        "label": "HighLearningEDU",
+        "unique_wallet_interactions": 1,
+        "total_number_of_calls": 1
+    },
+    "juno1j6nhen5umzs29ll6z4x3gzsfejvnl8clu40t5kvsxgkhk96d68uqg9heh8": {
+        "label": "Test instantiation",
+        "unique_wallet_interactions": 1,
+        "total_number_of_calls": 1
+    },
+    "juno1x0pgx73hlr3pe2y2d6htru5skragwm0cxd4suw4axu9qn6lzsqrqgn5jet": {
+        "label": "DAO_216002_cw-proposal-single",
+        "unique_wallet_interactions": 1,
+        "total_number_of_calls": 3
+    },
+    "juno1r803a4jzezu23204fq0q8c46fhq3s5tusfr2szjrhs5az097rtjs7pu5t8": {
+        "label": "DAO_Familytest1_cw-proposal-single",
+        "unique_wallet_interactions": 1,
+        "total_number_of_calls": 2
+    },
+    "juno1cu38uqm38rkth4msnazkt2tkpfy23ljeq9q4sv4gyv2kfhhfkyasyhulec": {
+        "label": "CaTDAO",
+        "unique_wallet_interactions": 1,
+        "total_number_of_calls": 2
+    },
+    "juno10389kmpxgq47uy0dqnel33g2h9xl44a2dq7z9f66aschx6nfzdrqkfxtxe": {
+        "label": "Obi Proxy",
+        "unique_wallet_interactions": 1,
+        "total_number_of_calls": 22
+    },
+    "juno17rpfd7gwxywtaehtanx63jrhjhhuzeh49x3j80ht4z4qcwet654qcw52pr": {
+        "label": "Obi Proxy",
+        "unique_wallet_interactions": 1,
+        "total_number_of_calls": 10
+    },
+    "juno1fpxu39wkwcy59tfvtne4acxrekkcds5c7jy6mx7he7la9lxzkgzq79xhuq": {
+        "label": "Obi Proxy",
+        "unique_wallet_interactions": 1,
+        "total_number_of_calls": 1
+    },
+    "juno140g4ql73p5x79zs2fxlx3jze8h8uz5s85c3zpmuyeuw5xwyv7zzqv3ty3e": {
+        "label": "label",
+        "unique_wallet_interactions": 1,
+        "total_number_of_calls": 15
+    },
+    "juno10qpwf4dwhw3vsu8ncg9gjkw58ralkjcmu970r237ghggangjn7cstfwl3s": {
+        "label": "juno1p05t2hrkg7jr8ymkpak4d8732skdy6qdvgzp86r7delupgpl6a4s0z7gtr",
+        "unique_wallet_interactions": 1,
+        "total_number_of_calls": 1
+    },
+    "juno1lg27c3fn4n8wyepfrcthu9y5k8rtq7mq76znlfls98fn4cquvjcqnpf57q": {
+        "label": "Bulgarian Crypto Community",
+        "unique_wallet_interactions": 1,
+        "total_number_of_calls": 1
+    },
+    "juno1ke4x70tpzrzkv6g6p4w3valuntu5n2e2hvskhmszvptvph5rjlrsz7escf": {
+        "label": "dao_Neta DAO_staking_contract",
+        "unique_wallet_interactions": 1,
+        "total_number_of_calls": 2
+    },
+    "juno173pkd04wh90elnwhy7yvnnv2zrw2tm694y6hhafykh9e2hhrd3cq67g4xm": {
+        "label": "juno1rrqd4j4kgsl0p06na6dxk09rcjr09qwsltksx2m3k5ql0p26nmfsuen5sp",
+        "unique_wallet_interactions": 1,
+        "total_number_of_calls": 2
+    },
+    "juno17h4s4j3x7kutlcvkz6dxe4xmjtzey65euxh885aqvdtxg37jm8aszuwl69": {
+        "label": "DAO_Juno Farming Dao_cw-proposal-single",
+        "unique_wallet_interactions": 1,
+        "total_number_of_calls": 3
+    },
+    "juno1lkkjk69uhxqzxuvjfd6nmmn7rkhdggh2uwv6sqg3dr9qdm8ryclqq4yy8r": {
+        "label": "DAO_Loczek94_cw-proposal-single",
+        "unique_wallet_interactions": 1,
+        "total_number_of_calls": 1
+    },
+    "juno1nucutk8fvcaaz24g2sx75v3h87f75lsgccq4a9g0fxjxjg9mujtsmys3ej": {
+        "label": "DAO_CLH Cooperative Membership Treasury_cw-proposal-single",
+        "unique_wallet_interactions": 1,
+        "total_number_of_calls": 3
+    },
+    "juno19qfzkt622jr0lt675dqcs2s2rkajml8e7zlw8lhaylmdptu4xxzs80aqxn": {
+        "label": "DAO_DegenTradeFund_cw-proposal-single",
+        "unique_wallet_interactions": 1,
+        "total_number_of_calls": 4
+    },
+    "juno1q4t7gzra0fw679j423gw5ruljnx0td3pwuhfh5ey7xchxh972kts0fjgk8": {
+        "label": "DTFshare",
+        "unique_wallet_interactions": 1,
+        "total_number_of_calls": 4
+    },
+    "juno1geknq67uejenny2pev06c07h592r6eqpdug7z5k25ek9zqxzxlqsv64ywg": {
+        "label": "label",
+        "unique_wallet_interactions": 1,
+        "total_number_of_calls": 3
+    },
+    "juno1vr8juqqpapj2hzkgmhfedhevn5el0s247puag2gwslq9vzanarxsp04yjg": {
+        "label": "Loop DEX Liquidity proposal module",
+        "unique_wallet_interactions": 1,
+        "total_number_of_calls": 2
+    },
+    "juno1j8hymxqte5hx30c4vetexxxc9aqwg0c7v68r9y4pn5arykuhv5zsvslhdy": {
+        "label": "juno1hl9aqa960w0rgapgyk32yax26qsvl7x6hz6wunrk0dqe8zzzr7fszgnjtq",
+        "unique_wallet_interactions": 1,
+        "total_number_of_calls": 1
+    },
+    "juno1tjvrx8gc82pt4z6w840c648eddt64h9hvf9jl377v9j77kpcgecqgu3r2a": {
+        "label": "Obi Proxy",
+        "unique_wallet_interactions": 1,
+        "total_number_of_calls": 2
+    },
+    "juno1fcplpvngu042k6pfasg3tr2wchxywkwrae46h0g4yzeytkyjj2zqluqw7j": {
+        "label": "Obi Proxy",
+        "unique_wallet_interactions": 1,
+        "total_number_of_calls": 4
+    },
+    "juno1ehamvwl8e3vvexj6p94sk42vcal78f3qz8zg40elg29kumenfraqgj3yfk": {
+        "label": "Obi Proxy",
+        "unique_wallet_interactions": 1,
+        "total_number_of_calls": 2
+    },
+    "juno1sedku6u6cs476durthcet87klfm43cxu6x3qrx3k4w8vxvpxrh5q8ncf9x": {
+        "label": "Obi Proxy",
+        "unique_wallet_interactions": 1,
+        "total_number_of_calls": 3
+    },
+    "juno1pn6rw9569r4ztm7jjwm40e877z55wtzw9grmtpa9l79s04yfw2xsdslq4z": {
+        "label": "Obi Proxy",
+        "unique_wallet_interactions": 1,
+        "total_number_of_calls": 4
+    },
+    "juno17q0lg5e56f25rvdnagtzxhvr79cgx9py6k8v582ewhuppjp5skqsz54y90": {
+        "label": "Obi Proxy",
+        "unique_wallet_interactions": 1,
+        "total_number_of_calls": 7
+    },
+    "juno1hj5u282jv2mx4l35z0l2r7hc3ea0c0pa63pr0scs7ztcxf2r34aqq3qjcc": {
+        "label": "Obi Proxy",
+        "unique_wallet_interactions": 1,
+        "total_number_of_calls": 5
+    },
+    "juno1g4m8um0zlafvnvdda9rm2d7rh6u6wl200ugjlqdgayalcjecr0zq7u67r9": {
+        "label": "Obi Proxy",
+        "unique_wallet_interactions": 1,
+        "total_number_of_calls": 4
+    },
+    "juno1278qqxqlzvw25g6g80j2xyggyx8mc3tspde0mf2ght03q3vcqwxs5c7ta7": {
+        "label": "Obi Proxy",
+        "unique_wallet_interactions": 1,
+        "total_number_of_calls": 6
+    },
+    "juno1tpu3xwtlw840vzryhyt0mcydtx9x9sgfdmhwcl2wf9ct47zmk0gqsnedp9": {
+        "label": "Obi Proxy",
+        "unique_wallet_interactions": 1,
+        "total_number_of_calls": 2
+    },
+    "juno1csez4wq3z8l2kmvuxd7pd4wqxe87yqlrckqdv6ufzlcl6yhkr04q2tvnag": {
+        "label": "Obi Proxy",
+        "unique_wallet_interactions": 1,
+        "total_number_of_calls": 4
+    },
+    "juno1svmrysuvegsuvsqf2yetlnujnhkkyftrsdxluskcw8k0nzc3r3wsglvluq": {
+        "label": "Obi Proxy",
+        "unique_wallet_interactions": 1,
+        "total_number_of_calls": 15
+    },
+    "juno1rm2h64gum8qfgh48ekgtyuy8zvytcrqfmpgdwh00pzntm3d8x7sq7et6mq": {
+        "label": "Obi Proxy",
+        "unique_wallet_interactions": 1,
+        "total_number_of_calls": 1
+    },
+    "juno1mhjx3mwpsd7z95hl8jcrjtfnrnjdkc45k9aq4wwjvdl5rxxvltssxf2jng": {
+        "label": "Obi Proxy",
+        "unique_wallet_interactions": 1,
+        "total_number_of_calls": 3
+    },
+    "juno1nk66srhlen2hgk558a0vqwzd3kx6qn8g4r6rayd3j3ckeauqznmqzw7uw4": {
+        "label": "Obi Proxy",
+        "unique_wallet_interactions": 1,
+        "total_number_of_calls": 4
+    },
+    "juno1sa2l5lsvev0cyagxd3cszuewl66n8cupyf5y835xdu6aet7095ssauugd7": {
+        "label": "Obi Proxy",
+        "unique_wallet_interactions": 1,
+        "total_number_of_calls": 4
+    },
+    "juno17gzwcxfu4eqayasf7h463vwnympcvgvjm7x2jvfgdg9xttgwdsjs06l2cv": {
+        "label": "Obi Proxy",
+        "unique_wallet_interactions": 1,
+        "total_number_of_calls": 4
+    },
+    "juno1vl242j0ljh6sxjdcw7hded96r3fl86zmwqcxxr6yxertc45ecz8slze3du": {
+        "label": "Obi Proxy",
+        "unique_wallet_interactions": 1,
+        "total_number_of_calls": 2
+    },
+    "juno1rdyxn4ud3qr4py09f6ypxhlq6altdwg6q8yjrfpe4qsld0nytq2s9g58md": {
+        "label": "Obi Proxy",
+        "unique_wallet_interactions": 1,
+        "total_number_of_calls": 5
+    },
+    "juno1c96s4dcs3z7q828pf3jcp3j5vx4v9ht2hcah4fnj2f8wgwtg989qe9x5d7": {
+        "label": "DAO_tuan_cw-proposal-single",
+        "unique_wallet_interactions": 1,
+        "total_number_of_calls": 3
+    },
+    "juno1dk7uekpslkla89cdh83tgjejhara7c4aasdnc9a2hq9d0652pqmsdr4ldy": {
+        "label": "White Whale Fee Collector",
+        "unique_wallet_interactions": 1,
+        "total_number_of_calls": 3
+    },
+    "juno1scpepqv34carmle2zkxtrej0927p65et0ypjqh7dphrlmnmf39sqdcqk6k": {
+        "label": "Obi Proxy",
+        "unique_wallet_interactions": 1,
+        "total_number_of_calls": 2
+    },
+    "juno1gpzucyngqu7s5wm409t7jgr6tp5slrser5w48xntstxtzxrh47yqs8m54z": {
+        "label": "Core 1 Marketing proposal module",
+        "unique_wallet_interactions": 1,
+        "total_number_of_calls": 2
+    },
+    "juno1cszf59hjkayy0awmyh0qnajcl3jr3jdgk3vk06tvjgcz0jzp79tqpv0l4t": {
+        "label": "DAO_ChimbaDAO_cw-proposal-single",
+        "unique_wallet_interactions": 1,
+        "total_number_of_calls": 2
+    },
+    "juno1kzrdp43jt2pg6s5l35elq6jr28e8q5548e5szae074ayqzmr58pq5amfsd": {
+        "label": "DAO_blbost_cw-proposal-single",
+        "unique_wallet_interactions": 1,
+        "total_number_of_calls": 3
+    },
+    "juno1eu2tuffx4err5uslyv0fal2k9sunmp0pw0450xhezwr7rr6rw2yshysqw0": {
+        "label": "CronCat Devs",
+        "unique_wallet_interactions": 1,
+        "total_number_of_calls": 2
+    },
+    "juno17cwyv0ffggrnhww7gyq8vm2x7n6z4kwssa45segat3dn5rdyswhsl5d4x7": {
+        "label": "DAO_CLH Strategic Reserve Treasury_cw-proposal-single",
+        "unique_wallet_interactions": 1,
+        "total_number_of_calls": 6
+    },
+    "juno1gcha8desqm6gm9as3qymmpssp7fjx4dqh469rvsmyp7d3764vz8sjgvax4": {
+        "label": "DAO_CLH Rewards & Incentives Treasury_cw-proposal-single",
+        "unique_wallet_interactions": 1,
+        "total_number_of_calls": 3
+    },
+    "juno1wws3jqd677ya2vfl9258fwh4lgvazyqtg2ww7uksdszn28hk8vksfzf33k": {
+        "label": "DAO_CLH Founders Fund Treasury_cw-proposal-single",
+        "unique_wallet_interactions": 1,
+        "total_number_of_calls": 3
+    },
+    "juno180r00d22h9qyfeuzsm0rnrkc9qehj9yzth28tyqanzmkcrxg92nsv2ulqx": {
+        "label": "Abstract OS: 14",
+        "unique_wallet_interactions": 1,
+        "total_number_of_calls": 2
+    },
+    "juno1qrrrctfrdxkurzkaaenflg20z6u0q89l6gz29srx2ektjgyk96ysfwln0r": {
+        "label": "instantiate-9",
+        "unique_wallet_interactions": 1,
+        "total_number_of_calls": 1
+    },
+    "juno1k44sxczxd6lutsyyrkr35jy53m456mk747pwprffev5nakqt5nrsm8ct7j": {
+        "label": "Init Msg",
+        "unique_wallet_interactions": 1,
+        "total_number_of_calls": 2
+    },
+    "juno1erhdwnr6kltxqlr76zxh2kacc4xfv6tqs7rec5cuct94ty806sasskgvz7": {
+        "label": "instantiate",
+        "unique_wallet_interactions": 1,
+        "total_number_of_calls": 1
+    },
+    "juno1d2mv4syj9vhkd23y8mhax9qk806457m6tpyt4y3zg3wtu9ggdlsqyp2tqq": {
+        "label": " ",
+        "unique_wallet_interactions": 1,
+        "total_number_of_calls": 1
+    },
+    "juno1gux296zandmsede3czemgy3grcf7gluh7xsqmlvd52lpt0ehnjuqzu54vr": {
+        "label": " ",
+        "unique_wallet_interactions": 1,
+        "total_number_of_calls": 1
+    },
+    "juno1wan9em2ntec77ygyycm7ays7gg0ezzut8cpwjy3e7mvk7nyscmlsdklrtr": {
+        "label": "Unknown",
+        "unique_wallet_interactions": 1,
+        "total_number_of_calls": 1
+    },
+    "juno1jz97xzans58ym5vf47k565z8dmmt9tr5snqugzvsaeh7ug2cn8hq3qtx57": {
+        "label": "some_label",
+        "unique_wallet_interactions": 1,
+        "total_number_of_calls": 39
+    },
+    "juno1cy8dfm2awam2ut3a30huzjwvyqfqp7luxl4d3p5p6gykakkvq7msdu0vsh": {
+        "label": "some_label",
+        "unique_wallet_interactions": 1,
+        "total_number_of_calls": 36
+    },
+    "juno1np4u4la20pp5gmf4tcgqxmaj075v59xhevtqt5t8hy82874dcw0q3jtfxx": {
+        "label": "DAO_PFUTIN Help Ukraine_cw-proposal-single",
+        "unique_wallet_interactions": 1,
+        "total_number_of_calls": 2
+    },
+    "juno1xjveqdqx3zxhvacl0dyue9j0s484zcry08hxjs5yu9p6lmv5egqskzrtkh": {
+        "label": "PFUTIN",
+        "unique_wallet_interactions": 1,
+        "total_number_of_calls": 2
+    },
+    "juno1fjrfg6kty9gcz3gc94v7ex575dtxpgd0wzqxcnrlge63t5huqvusqkqu9k": {
+        "label": "Obi Proxy",
+        "unique_wallet_interactions": 1,
+        "total_number_of_calls": 4
+    },
+    "juno1k3ts7sfkrgxthhew0zdlrw5ax664v7ss375z9v2kqdgsxa8r8a8qdvaal9": {
+        "label": "label",
+        "unique_wallet_interactions": 1,
+        "total_number_of_calls": 1
+    },
+    "juno13fkff9lqgatdemh5z6ej5vpy5pzc6sm2y5f8ujn7ra3rul6xesdqp2saum": {
+        "label": "label",
+        "unique_wallet_interactions": 1,
+        "total_number_of_calls": 1
+    },
+    "juno147l3t9zqnxkcef43yyqxg74h0tlfrz9ktmlsaf37kxvpxekw399sk05eu9": {
+        "label": "Obi Test Proxy single",
+        "unique_wallet_interactions": 1,
+        "total_number_of_calls": 1
+    },
+    "juno1644jq3adhf3fgxpmhhgdnfmh5qe90w8r948ahuyz5yglvzaln0vquye2lg": {
+        "label": " a",
+        "unique_wallet_interactions": 1,
+        "total_number_of_calls": 2
+    },
+    "juno1s3wzdr29f3cpk6epm9qwqr8eu7uqjfcx8at3u7kch36cv6g0fm5st0uvx3": {
+        "label": "label",
+        "unique_wallet_interactions": 1,
+        "total_number_of_calls": 2
+    },
+    "juno1my2v6nju7qlskeg6we5q2ljd259u6evggxtwvd7xva85faf4pgmqzkjljq": {
+        "label": "DAO_Electra_cw-proposal-single",
+        "unique_wallet_interactions": 1,
+        "total_number_of_calls": 4
+    },
+    "juno15wpfp9c535uawmd5dulj8939kjyeylcka8ewxwmqu50hw2nlhsjqkumc9e": {
+        "label": "Counter11",
+        "unique_wallet_interactions": 1,
+        "total_number_of_calls": 1
+    },
+    "juno1vazma6ctcvhhe8l56n5d250g5uhhhumgycf5yxf5ux55v24vfh7sxh8cas": {
+        "label": "DAO_FortyTwoDAO_cw-proposal-single",
+        "unique_wallet_interactions": 1,
+        "total_number_of_calls": 3
+    },
+    "juno1srh434f9xgju4dwz0pq9eyc27qsw5eua65s8kgw7qs2gt4d8rs2sylsxnq": {
+        "label": "DAO_tests2_cw-proposal-single",
+        "unique_wallet_interactions": 1,
+        "total_number_of_calls": 2
+    },
+    "juno1zw3j4wx0xwkfm527knd5tc3d7ky7ynge2dct7u2z7tvg9sruvxaqnhr2xn": {
+        "label": "test",
+        "unique_wallet_interactions": 1,
+        "total_number_of_calls": 1
+    },
+    "juno1c3kznu6mwz2h59n8pmchfrgskh72qc5nj4qswymr98ecfyhh63fqxerru6": {
+        "label": " ",
+        "unique_wallet_interactions": 1,
+        "total_number_of_calls": 2
+    },
+    "juno105m4f9mmxe3wwqjkahmevqsp70v5gfd4x2hq5rnz3fp4y25qemns59dfq6": {
+        "label": "label",
+        "unique_wallet_interactions": 1,
+        "total_number_of_calls": 1
+    },
+    "juno1d6maachs685qfgak5f6la356rhcqug42dt5lzs6rkx8x3f4lufgsdpaz64": {
+        "label": "instantiate-1172",
+        "unique_wallet_interactions": 1,
+        "total_number_of_calls": 1
+    },
+    "juno16mg66d3jtr8lmnz3n975rh97rq69mjxn7pj0elcscaf3j0j39kmq4hfsta": {
+        "label": "label",
+        "unique_wallet_interactions": 1,
+        "total_number_of_calls": 1
+    },
+    "juno1w573afrpq892xytjlk3l5wksgt3chwe0gnrkm2h6fcvpzg4cny8smm6pyp": {
+        "label": "FURY",
+        "unique_wallet_interactions": 1,
+        "total_number_of_calls": 3
+    },
+    "juno1dftgv4yhy8yqx95c7a3jar9dg5nnq4p2m50nzk6wdlkahd2h4hms3js63a": {
+        "label": "instantiate-519",
+        "unique_wallet_interactions": 1,
+        "total_number_of_calls": 7
+    },
+    "juno1yv9rs87s6f4ql5mnuu0hmg4ehpdc7urdhty8ja8992hhc8dgxscsygwt9t": {
+        "label": "instantiate-631",
+        "unique_wallet_interactions": 1,
+        "total_number_of_calls": 2
+    },
+    "juno1u4ctkp93mwr9g4xrh4tznw94xq5z846qturzjx3dy5tykgz7uhmsejf6n2": {
+        "label": "juno1ur8pu7dancxwqm39p0mva30252gur4kmf47q5tuernfg6dqd0vaqvuuvuc",
+        "unique_wallet_interactions": 1,
+        "total_number_of_calls": 1
+    },
+    "juno12w5u9dtnmx07axcjlkvhmwwkuy6n427z0x2wvewaqcf5dwqn2jzsfrr0ac": {
+        "label": "HopeTestPresale",
+        "unique_wallet_interactions": 1,
+        "total_number_of_calls": 4
+    },
+    "juno1x2tdvze98detm548ddyrndzyqxnhc0nyl9wqezcdh6w08wwgny9qhj8dq2": {
+        "label": "sealist",
+        "unique_wallet_interactions": 1,
+        "total_number_of_calls": 1
+    },
+    "juno1lh0pdjqv5yrdmq4ak534ar6tglm305k9ruu6azvf88w5fex8653qvt249h": {
+        "label": "DAO_Art Hacker Alliance_cw-proposal-single",
+        "unique_wallet_interactions": 1,
+        "total_number_of_calls": 4
+    },
+    "juno175c3g3znejwgy8atldauvqk7caunvug6am6czycuneatcx2j0gqqkyssrg": {
+        "label": "Art Hacker Coin",
+        "unique_wallet_interactions": 1,
+        "total_number_of_calls": 3
+    },
+    "juno1jndftcyrzmgzjztam6aj8fgmzhus2qylrzqtrdkhu3tt0jn5pfasrnchsz": {
+        "label": "Portfolio",
+        "unique_wallet_interactions": 1,
+        "total_number_of_calls": 2
+    },
+    "juno1stkh5mjcatml9zazefhsr0gwfm9eyyyxeqlx6thv3vhz3ece0dsqa6uh27": {
+        "label": "DAO_Durak DAO_cw-proposal-single",
+        "unique_wallet_interactions": 1,
+        "total_number_of_calls": 2
+    },
+    "juno1kp9zlfdphr940esnrmkk8vnplk3ec5fw5m5m0klrakv3ve42wk4qtejr0a": {
+        "label": "DAO_Merch DAO_cw-proposal-single",
+        "unique_wallet_interactions": 1,
+        "total_number_of_calls": 6
+    },
+    "juno1wt30lkrs97wwkdmlc5a7t56zxk5x8fhk8c3la6l6a7x5yl639r4q3w2xpc": {
+        "label": "Obi Proxy",
+        "unique_wallet_interactions": 1,
+        "total_number_of_calls": 1
+    },
+    "juno16p7aqw6a3aud5du0areke3khqfsjyee3j52lu223n38s7f6gyzwsmfmhyc": {
+        "label": "NEARHOLDERS1051",
+        "unique_wallet_interactions": 1,
+        "total_number_of_calls": 1
+    },
+    "juno1jafje9vnc8z2lrd6jxf9dkxsyupxcrrnaphpzfha9vjgxymxmkzqr3dffc": {
+        "label": "Obi Proxy",
+        "unique_wallet_interactions": 1,
+        "total_number_of_calls": 3
+    },
+    "juno1gvvt4tflcfqwtw65u3ee5afwr0jh307ull5cqlpq94xhjk44afqs8rgs9m": {
+        "label": "DAO_Shame Soiree_cw-proposal-single",
+        "unique_wallet_interactions": 1,
+        "total_number_of_calls": 2
+    },
+    "juno194tsc882tqjwxqmvgt48xu6j82v97l3e9jpa7j3td4yha67nu2ls7fu2m3": {
+        "label": "Shame Soiree",
+        "unique_wallet_interactions": 1,
+        "total_number_of_calls": 3
+    },
+    "juno12f87xpde6anqeydkgj8n08l6j07jnhcp2yweduurh2a5j98tjz5shnfqut": {
+        "label": "TEST2",
+        "unique_wallet_interactions": 1,
+        "total_number_of_calls": 2
+    },
+    "juno12jvwew72v84ph3akjmnmuaeycgh3aleeyjtqhjgwa9s6qcfwkq7qw56ytk": {
+        "label": "label",
+        "unique_wallet_interactions": 1,
+        "total_number_of_calls": 1
+    },
+    "juno1hrak5yn85c5wxezuv9446e6qdgczajky0knqyyhpkeeqh77pummqvwpgsm": {
+        "label": "Obi Test Proxy 27685",
+        "unique_wallet_interactions": 1,
+        "total_number_of_calls": 4
+    },
+    "juno1xn68lsemjcw9fd0yrdqk73w8mps3rkgx746jdauzykgfhzc6z4jsh3usma": {
+        "label": "Obi Test Proxy 18537",
+        "unique_wallet_interactions": 1,
+        "total_number_of_calls": 4
+    },
+    "juno1whuj5a6jwy5cjjhvcgyqp7f7d4tj4pee0kk60ky7rnpp6rlt9p5svmjk68": {
+        "label": "Obi Test Proxy 24068",
+        "unique_wallet_interactions": 1,
+        "total_number_of_calls": 4
+    },
+    "juno1zujgvxees0fu7ut58udmf7t0kdqtx42ameku7u2f5w2x8x0ccs7s450wct": {
+        "label": "Obi Test Proxy 24505",
+        "unique_wallet_interactions": 1,
+        "total_number_of_calls": 4
+    },
+    "juno1f26tpkxk8sdd47wtns9e0e9qpdgj0zhhx69s62srx76w046tgvkqtxerke": {
+        "label": "wecup",
+        "unique_wallet_interactions": 1,
+        "total_number_of_calls": 1
+    },
+    "juno17p44pwzkd6p440hyele5ty9k59a5mkskpp9mvyzze7fdp0yjkaqq6ym5hv": {
+        "label": "tuan",
+        "unique_wallet_interactions": 1,
+        "total_number_of_calls": 1
+    },
+    "juno1rsam4txacfn5akr6d3kpeyle320ddmapq396zv9p06wye63j7zksk3n9pm": {
+        "label": " ",
+        "unique_wallet_interactions": 1,
+        "total_number_of_calls": 3
+    },
+    "juno1tclcjg0my8e3fekcuzppspe95rvzu53pqkrsmmq59qzzz23zlhssfnruak": {
+        "label": "DAO_testing_cw-proposal-single",
+        "unique_wallet_interactions": 1,
+        "total_number_of_calls": 1
+    },
+    "juno1mw4gg9jqugs2p8nwcf9xn30egwrjj0ms5eetkg0wd0vmg6npw4ms6lhcrf": {
+        "label": "DAO_flaco_nil_cw-proposal-single",
+        "unique_wallet_interactions": 1,
+        "total_number_of_calls": 3
+    },
+    "juno1l5zyfkq32apmvja7kg877wpca8v6kfvgv076ygphp25qlxkfyjcqh7d223": {
+        "label": "gelotto lottery game",
+        "unique_wallet_interactions": 1,
+        "total_number_of_calls": 1
+    },
+    "juno1mqxn4kvef59ww4c6cutr4g5dlrxxa0dg9878wq8m6uzxrdynq8qs2e6q8v": {
+        "label": "label",
+        "unique_wallet_interactions": 1,
+        "total_number_of_calls": 15
+    },
+    "juno1ed8rdcrtqmqavn2glq3k6gse58fy79kn6xz2fdcwgudhjur5w5aqs0z6qk": {
+        "label": "label",
+        "unique_wallet_interactions": 1,
+        "total_number_of_calls": 2
+    },
+    "juno1m7v7458n5p7f0jkqhk4jcy2ae6ammwdk58ysnju3zf7c6l3ull9s9r9lac": {
+        "label": "Fuegos Token",
+        "unique_wallet_interactions": 1,
+        "total_number_of_calls": 2
+    },
+    "juno1cv2y5v85gp96agt5c7uzy4plsgqahupcypvrvu374n98m2e98hfs4skxns": {
+        "label": " ",
+        "unique_wallet_interactions": 1,
+        "total_number_of_calls": 1
+    },
+    "juno1sh6q6aeckm6q3hcec9pz66e04kmrx28x7j263rx2r9960ql3kmlqgfy6yf": {
+        "label": "DAO_podziemie_cw-proposal-single",
+        "unique_wallet_interactions": 1,
+        "total_number_of_calls": 8
+    },
+    "juno1j59k5cjaz9wgjfhp60skaw6d9svc25amwr8gfdvznef0pevaru6qtv3m29": {
+        "label": "Obi Proxy",
+        "unique_wallet_interactions": 1,
+        "total_number_of_calls": 2
+    },
+    "juno1h5f5gk9cuyex3jsj386hjr6qn6fl0zl9ttzuzls35maljtdt2qcq6905yq": {
+        "label": "Obi Proxy",
+        "unique_wallet_interactions": 1,
+        "total_number_of_calls": 2
+    },
+    "juno197wht9gwks4xdsn638c7zk72jsnf56rl09skwwygu7mpzpa287ms36mckl": {
+        "label": " ",
+        "unique_wallet_interactions": 1,
+        "total_number_of_calls": 1
+    },
+    "juno1gy0c4puwjj09zk9a57qwzl6q3dp5ymehtx3te86p9vxg04sexmysl9cxk4": {
+        "label": "label",
+        "unique_wallet_interactions": 1,
+        "total_number_of_calls": 6
+    },
+    "juno1khcyn05673ul36nk7smlw3rtnqrgshx6lluk0msjaqgwhdgc64esryz3er": {
+        "label": " ",
+        "unique_wallet_interactions": 1,
+        "total_number_of_calls": 1
+    },
+    "juno1kzv5uaexvu66jy6cudyx78hqe4v0tl6yk666ad63m390lca7n8ws4zhyy5": {
+        "label": "label",
+        "unique_wallet_interactions": 1,
+        "total_number_of_calls": 7
+    },
+    "juno1r4wupt54gycsqg2qqch0jk6d48mkedwm74k0y8m6n8mu59sjfrps2vepvy": {
+        "label": " ",
+        "unique_wallet_interactions": 1,
+        "total_number_of_calls": 1
+    },
+    "juno19h3tg4w3ndhmk7h0ve0qhh636wk9ly0tzt2jcqt20me37zqk27xqmeaxj9": {
+        "label": "Obi Test Proxy 26615",
+        "unique_wallet_interactions": 1,
+        "total_number_of_calls": 4
+    },
+    "juno16qwtkr9u996sj4a2v3tkf9y264ljqcghnsuthd63vj3zulql76rq52rlj7": {
+        "label": "Obi Proxy",
+        "unique_wallet_interactions": 1,
+        "total_number_of_calls": 2
+    },
+    "juno1z0zat0gdzlacy5vmgker0q3gaqwwz62kgk4pgeugyjw9myd9302srtw8f7": {
+        "label": "label",
+        "unique_wallet_interactions": 1,
+        "total_number_of_calls": 1
+    },
+    "juno10hw7aam0xe98qlx3646qwd3wnlwj3lsenhzuhjm2gf4r7ercj76qdfm4t6": {
+        "label": "Obi Proxy",
+        "unique_wallet_interactions": 1,
+        "total_number_of_calls": 2
+    },
+    "juno1rv3ufkqy8c632j2xsxxt5t0y3cqg5kmy8qztgtzlmk5tsnc9kxmqf7mygn": {
+        "label": "ReFi Zone Founders  proposal module",
+        "unique_wallet_interactions": 1,
+        "total_number_of_calls": 6
+    },
+    "juno1u4ejn4umrm0j6fkrrad86tc5dveata8nec2vvlr6de368fvpm7hqwtwca4": {
+        "label": "label",
+        "unique_wallet_interactions": 1,
+        "total_number_of_calls": 1
+    },
+    "juno1c54l8fjfnudd69u46jedn3s6ahunnnxv7xpaaszzkq202vwxqzyq2cwdxn": {
+        "label": "DAO_Ne\u017e kdo m\u00e1 Kicom men\u0161\u00ed p\u00e9ro? _cw-proposal-single",
+        "unique_wallet_interactions": 1,
+        "total_number_of_calls": 1
+    },
+    "juno1psx30vfnwvlurlncgwt8j8ysn90399uk63x8scjkvcemdjqxga7s4vygxc": {
+        "label": "DAO_E7 Validators_cw-proposal-single",
+        "unique_wallet_interactions": 1,
+        "total_number_of_calls": 3
+    },
+    "juno1nfefm87876kzgqjtjrkwsut2kh8lx7d38ye48t9c67er23vlkz3sjc7y7v": {
+        "label": "Obi Proxy",
+        "unique_wallet_interactions": 1,
+        "total_number_of_calls": 3
+    },
+    "juno17emcut72n6ycmf54qd0l4mzsefqxnqdhqxzlczxstlkkatdlst5qf9s3qr": {
+        "label": "instantiate-977",
+        "unique_wallet_interactions": 1,
+        "total_number_of_calls": 2
+    },
+    "juno1a22f8dxevu3er7vs4lkrca9n8rgf8uvgjd8s2p5eq787vmczq59syuplqx": {
+        "label": "instantiate-135",
+        "unique_wallet_interactions": 1,
+        "total_number_of_calls": 2
+    },
+    "juno15g9u395kprfhxxzfqhfw56rvwfhjzg8k6mjq82u3yg7fxkhprv8stsu8mm": {
+        "label": "instantiate-804",
+        "unique_wallet_interactions": 1,
+        "total_number_of_calls": 2
+    },
+    "juno1l8e830azsxgx0pwmq46jdpe7rhyv83lvgjjgczcltcwksnjugrmsy3y95x": {
+        "label": "DAO_testing dao_cw-proposal-single",
+        "unique_wallet_interactions": 1,
+        "total_number_of_calls": 1
+    },
+    "juno1hd3gt55yqe50p9ehauklfam028cfdzs826cynv8cd94xa87gr0fqjmwgwv": {
+        "label": "RACC",
+        "unique_wallet_interactions": 1,
+        "total_number_of_calls": 1
+    },
+    "juno1wgpa3e92pcam05mxq6u54x3tzprv0cn7d5jd9ckvq7pgr4yk269slpq2k8": {
+        "label": "DAO_subdaos1_cw-proposal-single",
+        "unique_wallet_interactions": 1,
+        "total_number_of_calls": 3
+    },
+    "juno1rta2tv7x3v3a5zn43nr65e8y9f68ksuxujwhd8m65n020463qq4q5r48c8": {
+        "label": "DAO_FortyTwo_cw-proposal-single",
+        "unique_wallet_interactions": 1,
+        "total_number_of_calls": 2
+    },
+    "juno1724gaheqp34h25ul8n7vl7rur8krdd02hyn5p4hlt065x7yuuwnsxjqqe5": {
+        "label": "FarmingMint",
+        "unique_wallet_interactions": 1,
+        "total_number_of_calls": 1
+    },
+    "juno1pqfqmcj0g6n7a3e8f2ntrd254qlk3yxe75qk3wq8whskclan2svsyxa589": {
+        "label": "bJUNO token Tue Sep 20 2022 09:50:35 GMT+0530 (India Standard Time)",
+        "unique_wallet_interactions": 1,
+        "total_number_of_calls": 1
+    },
+    "juno16rgzaygvtq7m0s8appuru9x9j7233xqrdgkwewxwsy9dwwd3zywquy3g7e": {
+        "label": "seJUNO token Tue Sep 20 2022 09:50:35 GMT+0530 (India Standard Time)",
+        "unique_wallet_interactions": 1,
+        "total_number_of_calls": 7
+    },
+    "juno1us70rl7yqsp37kerq0qrsu00c8j2avzharxcg2whtyqhsgggmhqsrqmcmp": {
+        "label": "DAO_Clown DAO_cw-proposal-single",
+        "unique_wallet_interactions": 1,
+        "total_number_of_calls": 3
+    },
+    "juno1rd78j7ksg3uywfw2znt4vdqtg0tl6u0rq90l37ag9sfzl8wkqrwqvghgut": {
+        "label": "CLOWN",
+        "unique_wallet_interactions": 1,
+        "total_number_of_calls": 1
+    },
+    "juno1gesexv6693hs8lf2khs20m9qzvpzcv6kfs2rhj4z0lex2h0z8tuqttjjmq": {
+        "label": "dao_Cosmos TW DAO_staking_contract",
+        "unique_wallet_interactions": 1,
+        "total_number_of_calls": 1
+    },
+    "juno1ud96lp85vktvlfusa0z9h9r2m5dqlwwra5tpeurrf6y5kct2xlrqld6a4e": {
+        "label": "Cosmos TW DAO",
+        "unique_wallet_interactions": 1,
+        "total_number_of_calls": 3
+    },
+    "juno12k2mz32jthamj8e0p8djq72j4te3y49gj28swgxd3cv2fxxw25nq3hrfhc": {
+        "label": "Blacksmith Lapwing",
+        "unique_wallet_interactions": 1,
+        "total_number_of_calls": 1
+    },
+    "juno1mpyqkttcept4t0dedqngvqxwn236lkgw9plw78tm0q5fgngka2sqtcktyz": {
+        "label": "DAO_modeun_review_cw-proposal-single",
+        "unique_wallet_interactions": 1,
+        "total_number_of_calls": 6
+    },
+    "juno148s6297wzl42cm2l44wnl5xs5m45qe6a2e945c0px8jgq860yfhqq56e9g": {
+        "label": "instantiate-51",
+        "unique_wallet_interactions": 1,
+        "total_number_of_calls": 2
+    },
+    "juno12kqd7y464mw26vdczzdrze3j97pja4jxjkt9lchxpsxu7skzzhzqauqnp2": {
+        "label": "Obi Proxy",
+        "unique_wallet_interactions": 1,
+        "total_number_of_calls": 3
+    },
+    "juno1nkx27vrxpx6tgttfnaq0snl7p8s964muyvvn3h4n65e6z4knkkpqalp387": {
+        "label": "Introvert",
+        "unique_wallet_interactions": 1,
+        "total_number_of_calls": 3
+    },
+    "juno16xzxd5fz7sjuglq5chyvt3zsc0xlm0k5mv7xy32h2t33cy90yv3ssyyuw8": {
+        "label": "DAO_Stargaze Community Loans and Raffles _cw-proposal-single",
+        "unique_wallet_interactions": 1,
+        "total_number_of_calls": 2
+    },
+    "juno1dxk3svskq29y8wwv5j5rmv25kl5gdju7rppm8rrkkqzk5v7w8mns2cy0q4": {
+        "label": "Obi Proxy",
+        "unique_wallet_interactions": 1,
+        "total_number_of_calls": 2
+    },
+    "juno12zjztum35jf6p4wedhxu9tt7yn8nd72e458evchehvllsprsecmqwv4337": {
+        "label": "Obi Proxy",
+        "unique_wallet_interactions": 1,
+        "total_number_of_calls": 5
+    },
+    "juno18pgxdwdym99wkpsg793dcdzz9z9gryflte55up5jz2697jujgpesmevdlw": {
+        "label": "Obi Proxy",
+        "unique_wallet_interactions": 1,
+        "total_number_of_calls": 1
+    },
+    "juno1hfc2yqt3kqgu8ttyuqny3d8zfumugwq92r9wtmddy9thnqvkepkq66fcyt": {
+        "label": "Obi Proxy",
+        "unique_wallet_interactions": 1,
+        "total_number_of_calls": 1
+    },
+    "juno1ur3l3mufgq99f9jq2s64jud6l60ar8qy9x4w6drfdm84lemewt2qcs5hvr": {
+        "label": "Obi Proxy",
+        "unique_wallet_interactions": 1,
+        "total_number_of_calls": 2
+    },
+    "juno10d7fjx8vtm5zflh4ft78p0hp6rqfpnuew0lcjs4nh5r9lpa3rd2q84fd0u": {
+        "label": "DAO_Frog Kingdom_cw-proposal-single",
+        "unique_wallet_interactions": 1,
+        "total_number_of_calls": 2
+    },
+    "juno1ekxd9y373n0wymwnyxx2s07kgfd430ejqztpj2734wd28vu0vm5qy6fmx8": {
+        "label": "label",
+        "unique_wallet_interactions": 1,
+        "total_number_of_calls": 7
+    },
+    "juno1gky4t37nq37ft3ar3a9p8lynmd266p98gu2389pe8k9zd2z0ykyqekcy6d": {
+        "label": "label",
+        "unique_wallet_interactions": 1,
+        "total_number_of_calls": 4
+    },
+    "juno1qmwvxpxmc4gzqt4h56zdazezxc489rdyznxxf88dtqv7we2zd06s44ymd4": {
+        "label": "DAO_IncuCenter DAO_cw-proposal-single",
+        "unique_wallet_interactions": 1,
+        "total_number_of_calls": 1
+    },
+    "juno17d83hrvdvtvnqu5n0x280ezxwds888g5rauqu6w3g9vmgv2xf3ksa4hmzf": {
+        "label": "Juno Framing Token ",
+        "unique_wallet_interactions": 1,
+        "total_number_of_calls": 2
+    },
+    "juno143utjhfs4fz5v8tes9hsanayxa7d4umytwl4rt28kzcpmxy395fqep83ge": {
+        "label": "Obi Test Proxy single",
+        "unique_wallet_interactions": 1,
+        "total_number_of_calls": 1
+    }
+}
