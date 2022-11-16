@@ -1,6 +1,7 @@
 # too large
 final.json
 .env
+*.zip
 
 # made from data/
 json/
