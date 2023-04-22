@@ -1,3 +1,8 @@
+# DEPRECATED
+My indexer now handles this MUCH better <https://github.com/Reecepbcups/cosmos-indexer>
+
+---
+
 ## Juno Tx Analysis
 Saves every Tx as JSON for future processing of the data by height, and message data.
 
